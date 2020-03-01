@@ -1,17 +1,170 @@
 {
+  "1": {
+    "author": "Brent Weeks",
+    "description": "Review of the recently released The Burning White by Brent Weeks and the rest of the Lightbringer series.",
+    "id": 1,
+    "title": "Lightbringer + The Burning White",
+    "image": "/images/burning-white.jpg"
+  },
+  "2": {
+    "author": "James Islington",
+    "description": "The guys break down and review the first book in the Licanius Trilogy",
+    "id": 2,
+    "title": "The Shadow Of What Was Lost Review",
+    "image": "/images/shadow-of-what-was-lost.jpg"
+  },
+  "3": {
+    "author": "James Islington",
+    "description": "Need to remember the details of Licanius Book 1?",
+    "id": 3,
+    "title": "The Shadow Of What Was Lost Recap",
+    "image": "/images/shadow-of-what-was-lost.jpg"
+  },
+  "4": {
+    "author": "James Islington",
+    "description": "We recap the many, many plot threads of Book 2 of The Licanius Trilogy.",
+    "id": 4,
+    "title": "The Echo of Things to Come",
+    "image": "/images/echo-of-things-to-come.jpg"
+  },
+  "5": {
+    "author": "",
+    "description": "Netflix's The Witcher, from a book reader's perspective.",
+    "id": 5,
+    "title": "The Witcher Season 1",
+    "image": "/images/witcher-season-1.jpg"
+  },
+  "6": {
+    "author": "Brandon Sanderson",
+    "description": "Hot takes abound in our review of book 1 of Brandon Sanderson's Stormlight Archive",
+    "id": 6,
+    "title": "The Way of Kings",
+    "image": "/images/way-of-kings.jpg"
+  },
+  "7": {
+    "author": "R. F. Kuang",
+    "description": "Non-spoiler breakdown of the first book in a new and unique critically-acclaimed speculative fiction series.",
+    "id": 7,
+    "title": "The Poppy War",
+    "image": "/images/poppy-war.jpg"
+  },
+  "8": {
+    "author": "James Islington",
+    "description": "The conclusion to the Licanius Trilogy - The Light of All That Falls - was a mixed bag for us.",
+    "id": 8,
+    "title": "The Light of All That Falls",
+    "image": "/images/light-of-all-that-falls.jpg"
+  },
   "9": {
+    "author": "Brandon Sanderson",
     "description": "The machine that is Brandon Sanderson can write pretty high quality YA books as well. How does this series compare to his more prolific epic fantasy series? The guys have some positive comparisons, and deep cosmere lore. We liked the humor (mostly), but across the board struggled with the cheesy romance. Also, a deep dive into the psychology of 11 year-old Stephen's terror of basilisks. Music from https://filmmusic.io - \"Dangerous\" by Kevin MacLeod (https://incompetech.com) License: CC BY (http://creativecommons.org/licenses/by/4.0/)",
-    "title": "#9 Starsight",
+    "id": 9,
+    "title": "Starsight",
     "image": "/images/starsight.jpg"
   },
   "10": {
+    "author": "Liu Cixin",
     "description": "The Remembrance of Earth's Past series by Cixin Liu is a breakthrough sci-fi series that took our collective breath away. Translated from its original Chinese, the prose is sharp and perfectly displays Liu's imaginative yet haunting vision of a future after contact with an alien race. We discuss cultural differences, ethical dilemmas, and questions of what it means to be human. Also, a callback to some of our favorite childhood series. Finally, we cannot NOT recommend experimenting while reading the series! Music: \"New Dawn\" by Terry Devine-King",
-    "title": "#10 The Three-Body Problem Trilogy",
+    "id": 10,
+    "title": "The Three-Body Problem Trilogy",
     "image": "/images/the-three-body-problem.jpg"
   },
   "11": {
+    "author": "Brandon Sanderson",
     "description": "What is it exactly about The Stormlight Archive that so thoroughly captures our imaginations? We try to answer this question as we tackle the IT series of the fantasy book world. Our favorite moments & characters receive full coverage, but no series is perfect! Our new \"worst of the best segment\" at the end of the episode talks about a few not-so-favorite moments. Plus, what would it be like to dorm with Sanderson & Jeopardy! champion Ken Jennings? Music: \"New Dawn\" by Terry Devine-King",
-    "title": "#11 Words of Radiance",
+    "id": 11,
+    "title": "Words of Radiance",
     "image": "/images/words-of-radiance.jpg"
+  },
+  "12": {
+    "author": "Steven Erikson",
+    "description": "Gardens of the Moon by Steven Erikson is the entrance into the epically long and complex Malazan universe. Our resident expert Ryan is on hand to guide Ben & Stephen through the book and chuckle about their misguided theories. We also discuss favorite scenes and characters and how the series compares to Sanderson's cosmere. Plus our Worst of the Best segment and the dangers of audiobooks and high ACT scores. Music: \"New Dawn\" by Terry Devine-King",
+    "id": 12,
+    "title": "Gardens of the Moon",
+    "image": "/images/gardens-of-the-moon.jpg"
+  },
+  "13": {
+    "author": "Brent Weeks",
+    "description": "Review of the recently released The Burning White by Brent Weeks and the rest of the Lightbringer series.",
+    "id": 1,
+    "title": "Lightbringer + The Burning White",
+    "image": "/images/burning-white.jpg"
+  },
+  "28": {
+    "author": "James Islington",
+    "description": "The guys break down and review the first book in the Licanius Trilogy",
+    "id": 2,
+    "title": "The Shadow Of What Was Lost Review",
+    "image": "/images/shadow-of-what-was-lost.jpg"
+  },
+  "31": {
+    "author": "James Islington",
+    "description": "Need to remember the details of Licanius Book 1?",
+    "id": 3,
+    "title": "The Shadow Of What Was Lost Recap",
+    "image": "/images/shadow-of-what-was-lost.jpg"
+  },
+  "41": {
+    "author": "James Islington",
+    "description": "We recap the many, many plot threads of Book 2 of The Licanius Trilogy.",
+    "id": 4,
+    "title": "The Echo of Things to Come",
+    "image": "/images/echo-of-things-to-come.jpg"
+  },
+  "55": {
+    "author": "",
+    "description": "Netflix's The Witcher, from a book reader's perspective.",
+    "id": 5,
+    "title": "The Witcher Season 1",
+    "image": "/images/witcher-season-1.jpg"
+  },
+  "63": {
+    "author": "Brandon Sanderson",
+    "description": "Hot takes abound in our review of book 1 of Brandon Sanderson's Stormlight Archive",
+    "id": 6,
+    "title": "The Way of Kings",
+    "image": "/images/way-of-kings.jpg"
+  },
+  "78": {
+    "author": "R. F. Kuang",
+    "description": "Non-spoiler breakdown of the first book in a new and unique critically-acclaimed speculative fiction series.",
+    "id": 7,
+    "title": "The Poppy War",
+    "image": "/images/poppy-war.jpg"
+  },
+  "88": {
+    "author": "James Islington",
+    "description": "The conclusion to the Licanius Trilogy - The Light of All That Falls - was a mixed bag for us.",
+    "id": 8,
+    "title": "The Light of All That Falls",
+    "image": "/images/light-of-all-that-falls.jpg"
+  },
+  "90": {
+    "author": "Brandon Sanderson",
+    "description": "The machine that is Brandon Sanderson can write pretty high quality YA books as well. How does this series compare to his more prolific epic fantasy series? The guys have some positive comparisons, and deep cosmere lore. We liked the humor (mostly), but across the board struggled with the cheesy romance. Also, a deep dive into the psychology of 11 year-old Stephen's terror of basilisks. Music from https://filmmusic.io - \"Dangerous\" by Kevin MacLeod (https://incompetech.com) License: CC BY (http://creativecommons.org/licenses/by/4.0/)",
+    "id": 9,
+    "title": "Starsight",
+    "image": "/images/starsight.jpg"
+  },
+  "1012": {
+    "author": "Liu Cixin",
+    "description": "The Remembrance of Earth's Past series by Cixin Liu is a breakthrough sci-fi series that took our collective breath away. Translated from its original Chinese, the prose is sharp and perfectly displays Liu's imaginative yet haunting vision of a future after contact with an alien race. We discuss cultural differences, ethical dilemmas, and questions of what it means to be human. Also, a callback to some of our favorite childhood series. Finally, we cannot NOT recommend experimenting while reading the series! Music: \"New Dawn\" by Terry Devine-King",
+    "id": 10,
+    "title": "The Three-Body Problem Trilogy",
+    "image": "/images/the-three-body-problem.jpg"
+  },
+  "111": {
+    "author": "Brandon Sanderson",
+    "description": "What is it exactly about The Stormlight Archive that so thoroughly captures our imaginations? We try to answer this question as we tackle the IT series of the fantasy book world. Our favorite moments & characters receive full coverage, but no series is perfect! Our new \"worst of the best segment\" at the end of the episode talks about a few not-so-favorite moments. Plus, what would it be like to dorm with Sanderson & Jeopardy! champion Ken Jennings? Music: \"New Dawn\" by Terry Devine-King",
+    "id": 11,
+    "title": "Words of Radiance",
+    "image": "/images/words-of-radiance.jpg"
+  },
+  "1332": {
+    "author": "Steven Erikson",
+    "description": "Gardens of the Moon by Steven Erikson is the entrance into the epically long and complex Malazan universe. Our resident expert Ryan is on hand to guide Ben & Stephen through the book and chuckle about their misguided theories. We also discuss favorite scenes and characters and how the series compares to Sanderson's cosmere. Plus our Worst of the Best segment and the dangers of audiobooks and high ACT scores. Music: \"New Dawn\" by Terry Devine-King",
+    "id": 12,
+    "title": "Gardens of the Moon",
+    "image": "/images/gardens-of-the-moon.jpg"
   }
 }

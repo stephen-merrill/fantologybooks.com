@@ -9,15 +9,17 @@
         <div v-for="episodeId in recentEpisodeIds"
              :key="episodeId"
              class="column is-4 has-text-left-tablet">
-          <div class="container episode">
-            <img :src="episodes[episodeId].image" />
-            <h2 class="subtitle">
-              {{ episodes[episodeId].title }}
-            </h2>
-            <div class="description">
-              {{ episodes[episodeId].description }}
+          <a :href="'/episode/'+episodeId" class="link" >
+            <div class="container episode">
+              <img :src="episodes[episodeId].image" />
+              <h2 class="subtitle">
+                {{ episodes[episodeId].title }}
+              </h2>
+              <div class="description">
+                {{ episodes[episodeId].description }}
+              </div>
             </div>
-          </div>
+          </a>
         </div>
 
       </div>
@@ -42,6 +44,7 @@
 <style scoped>
  .container {
    margin-bottom: 64px;
+   color: black;
  }
  .episode {
    margin: 16px;

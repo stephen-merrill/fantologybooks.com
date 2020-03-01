@@ -1,38 +1,39 @@
 <template>
-  <div>
+  <div  >
     <navbar />
     <div class="field search">
-      <div class="control is-large is-loading">
-        <input class="input is-large" type="text" placeholder="Search for an Episode...">
+      <div :class="loading ? 'is-loading' : ''"
+            class="control is-large">
+        <input v-model="query"
+               class="input is-large"
+               type="text"
+               @keydown="() => loading = true"
+               @keyup="search"
+               placeholder="Search for an episode...">
       </div>
     </div>
 
-    <div v-for="row in [0,1,2]" :key="'row'+row" class="tile is-ancestor">
-      <div v-for="col in [0,1,2,3]"
-           :key="'row'+row+'_item'+col"
-           class="tile is-parent">
-
-        <div class="tile is-child is-3">
-          {{ episodes[getTableValue(row, col)] }}
-        </div>
-
+    <div v-for="row in chunkArray(searchResults, 6)" class="search-results columns">
+      <div v-for="episode in row" class="search-result column is-2">
+        <a :href="'/episode/'+episode.id" clas="link">
+          <figure class="image episode-cover">
+            <img :src="episode.image" />
+          </figure>
+          <div class="subtitle container">#{{  episode.id }} {{ episode.title }} </div>
+        </a>
       </div>
     </div>
 
-    <nav class="pagination" role="navigation" aria-label="pagination">
-      <a class="pagination-previous" @click="previousPage">Previous</a>
-      <a class="pagination-next" @click="nextPage">Next page</a>
-      <ul class="pagination-list">
-      </ul>
-    </nav>
   </div>
 </template>
 
 <script>
- import episodes from '@/data/episdoes.json'
+ import debounce from 'lodash.debounce'
+ import episodes from '@/data/episodes.json'
+ import Fuse from 'fuse.js';
  import TheNavbar from '@/components/TheNavbar.vue'
- const ROW_LENGTH = 4
- const PAGE_LENGTH = 12
+ const ROW_LENGTH = 5
+ const PAGE_LENGTH = 15
 
  export default {
    name: 'SearchPage',
@@ -41,38 +42,53 @@
    },
    data () {
      return {
-       episodes: episodes,
-       currentPage: 0
+       episodes: Object.values(episodes).reverse(),
+       loading: false,
+       query: '',
+       searchResults: Object.values(episodes).reverse()
      }
    },
    methods: {
-     getTableValue (row, col) {
-       let pageStart = (0 + PAGE_LENGTH) * this.currentPage
-       let rowStart = pageStart + (ROW_LENGTH*row)
-       return rowStart + col
+     chunkArray(arr, size) {
+       let chunks = []
+       for(let i = 0; i < arr.length; i += size) {
+         chunks.push(arr.slice(i, i+size))
+       }
+       return chunks
      },
-     nextPage () {
-       this.currentPage += 1
-     },
-     previousPage () {
-       this.currentPage -= 1
-     }
+     search: debounce(function () {
+       if (this.query === '') {
+         this.searchResults = this.episodes
+       } else {
+         const options = {
+           shouldSort: true,
+           threshold: 0.3,
+           location: 0,
+           distance: 1000,
+           maxPatternLength: 64,
+           minMatchCharLength: 1,
+           keys: [
+             "author",
+             "title",
+             "id",
+             "description"
+           ]
+         }
+
+         const data = new Fuse(this.episodes, options);
+         this.searchResults = data.search(this.query)
+       }
+       this.loading = false
+     }, 500)
    }
  }
 </script>
 
 <style scoped>
- .divider {
-   border-style: dashed;
-   margin: 2rem 0;
-   max-width: 100%;
-   clear: both;
-   max-width: 75rem;
-   height: 0;
-   margin: 1.25rem auto;
-   border-top: 0;
-   border-right: 0;
-   border-bottom: 1px solid #BFBFBF;
-   border-left: 0;
+ .link {
+   color: black;
+ }
+ .search-results {
+   margin: 4px;
  }
 </style>

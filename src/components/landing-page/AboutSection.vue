@@ -5,7 +5,7 @@
     <div class="container">
       <div class="columns">
         <div class="column">
-          <img class="about-image" src="@/assets/logo.jpg" />
+          <!-- <img class="about-image" src="@/assets/logo.jpg" /> -->
         </div>
         <div class="column has-text-left-tablet">
           <div class="container">
