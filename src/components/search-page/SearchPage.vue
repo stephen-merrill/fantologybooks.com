@@ -40,6 +40,13 @@
    components: {
      navbar: TheNavbar,
    },
+   created() {
+     const query = this.$route.query.query
+     if (query) {
+       this.query = query
+       this.performSearch()
+     }
+   },
    data () {
      return {
        episodes: Object.values(episodes).reverse(),
@@ -67,7 +74,7 @@
        }
        this.loading = false
      },
-     search: debounce(function () {
+     performSearch () {
        this.page = 1
        this.visibleResults = []
        if (this.query === '') {
@@ -93,6 +100,9 @@
        }
        this.visibleResults =  this.searchResults.slice(0,18)
        this.loading = false
+     },
+     search: debounce(function () {
+       this.performSearch()
      }, 500)
    }
  }

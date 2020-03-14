@@ -73,11 +73,14 @@
             <i class="fab fa-lg fa-facebook"></i>
           </span>
         </a>
-        <a class="navbar-item" href="/search/">
-          <span class="icon is-medium">
-            <i class="fas fa-lg fa-search"></i>
-          </span>
-        </a>
+        <div class="navbar-item field">
+          <p class="control has-icons-right">
+            <input v-model="searchValue" class="input" type="search" placeholder="Search..." @keyup.enter="search">
+            <span class="icon is-small is-right">
+              <i class="fas fa-lg fa-search"></i>
+            </span>
+          </p>
+        </div>
       </div>
     </div>
   </nav>
@@ -96,13 +99,26 @@
    },
    data () {
      return {
+       searchValue: '',
        series: Object.values(series).filter((s) => s.displayInNav )
+     }
+   },
+   methods: {
+     search () {
+       this.$router.push({ path: '/search', query: { query: this.searchValue } })
      }
    }
  }
 </script>
 
 <style lang="scss" scoped>
+ input {
+   background-color: $nav-background;
+   color: white;
+ }
+ ::placeholder {
+   color: white;
+ }
  .navbar {
    background: $nav-background;
    border-bottom: 2px solid darken($nav-background, 7%);
