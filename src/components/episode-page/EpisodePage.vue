@@ -3,31 +3,44 @@
     <navbar />
     <section class="hero is-small section">
       <div class="hero-body">
-        <div class="container">
-          <div class="columns has-text-left-tablet">
-            <div class="column is-5">
-              <figure class="image ">
-                <img :src="episode.image" />
-              </figure>
-            </div>
-            <div class="column is-1" />
-            <div class="column is-6">
+          <div class="columns has-text-left-tablet vertically-align is-12">
+            <div class="column is-10">
+              <youtube video-id="WgItH5xRhhU" ref="youtube" @playing="playing"></youtube>
               <h1 class="title">
                 #{{  episode.id }} {{ episode.title }}
               </h1>
               <h2 class="subtitle">
                 {{ episode.description }}
               </h2>
-              <!-- <iframe src="https://open.spotify.com/embed-podcast/episode/4UbWktTmS5SvDcuQ8fracM"
-                   width="100%"
-                   height="232"
-                   frameborder="0"
-                   allowtransparency="true"
-                   allow="encrypted-media">
-                   </iframe> -->
+
+              <div class="columns is-12">
+                <div class="column is-4">
+                  <button class="button is-primary is-inverted is-outlined is-fullwidth">
+                    <span class="icon is-medium">
+                      <i class="fab fa-lg fa-apple"></i>
+                    </span>
+                    <span>Apple Music</span>
+                  </button>
+                </div>
+                <div class="column is-4">
+                  <button class="button is-primary is-inverted is-outlined is-fullwidth">
+                    <span class="icon is-medium">
+                      <i class="fab fa-lg fa-spotify"></i>
+                    </span>
+                    <span>Spotify</span>
+                  </button>
+                </div>
+                <div class="column is-4">
+                  <button class="button is-primary is-inverted is-outlined is-fullwidth">
+                    <span class="icon is-medium">
+                      <i class="fab fa-lg fa-google"></i>
+                    </span>
+                    <span>Google</span>
+                  </button>
+                </div>
+              </div>
             </div>
           </div>
-        </div>
       </div>
     </section>
   </div>
@@ -55,9 +68,19 @@
  }
 </script>
 
-<style scoped>
+<style lang="scss" scoped>
+ .container {
+   margin-top: 10vh;
+ }
  .vertically-align {
    display: flex;
    align-items: center;
+ }
+ .title {
+   color: white;
+   margin-bottom: 48px;
+ }
+ .subtitle {
+   color: white;
  }
 </style>

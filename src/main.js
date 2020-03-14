@@ -1,4 +1,5 @@
 import App from './App.vue'
+import infiniteScroll from 'vue-infinite-scroll'
 import lineClamp from 'vue-line-clamp'
 import Vue from 'vue'
 import VueRouter from 'vue-router'
@@ -23,6 +24,7 @@ const router = new VueRouter({
   routes: routes
 })
 
+Vue.use(infiniteScroll)
 Vue.use(lineClamp)
 Vue.use(VueYoutube)
 

@@ -8,30 +8,35 @@
           <figure class="image is-square">
             <img src="@/assets/images/ben-robinson.png" />
           </figure>
+          Ben Robinson
         </div>
         <div class="column">
           <figure class="image is-square">
             <img src="@/assets/images/jake-yorgason.png" />
           </figure>
+          Jake Yorgason
         </div>
         <div class="column">
           <figure class="image is-square">
             <img src="@/assets/images/josh-robinson.png" />
           </figure>
+          Josh Robinson
         </div>
         <div class="column">
           <figure class="image is-square">
             <img src="@/assets/images/stephen-merrill.jpeg" />
           </figure>
+          Stephen Merrill
         </div>
         <div class="column">
           <figure class="image is-square">
             <img src="@/assets/images/ryan-robinson.png" />
           </figure>
+          Ryan Robinson
         </div>
       </div>
       <div class="column has-text-left-tablet">
-        <div class="container">
+        <div class="container about">
           <h2 class="subtitle">
             We are Fantology.
           </h2>
@@ -57,6 +62,9 @@
 </script>
 
 <style scoped>
+ .about {
+   margin-top: 8px;
+ }
  .vertically-align {
    display: flex;
    align-items: center;
@@ -64,9 +72,8 @@
  .container {
    margin-bottom: 64px;
  }
- .about-image {
-   height: 40vh;
-   border-radius: 16px;
+ .image  {
+   margin-bottom: 4px;
  }
  .title {
    margin-top: 24px;

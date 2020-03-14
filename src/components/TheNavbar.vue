@@ -15,7 +15,7 @@
 
     <div id="navbar-options" class="navbar-menu">
       <div class="navbar-start">
-        <a class="navbar-item" href="#listen-now">Listen Now</a>
+        <a class="navbar-item" href="/#listen-now">Listen Now</a>
         <div class="navbar-item has-dropdown is-hoverable">
           <a class="navbar-link">
             Episodes
@@ -26,7 +26,7 @@
                  {{ link.name }}
                  </a>
                  <hr class="navbar-divider"> -->
-            <a href="#recent-episodes" class="navbar-item">
+            <a href="/#recent-episodes" class="navbar-item">
               Recent Episodes
             </a>
             <a href="/search" class="navbar-item">
@@ -34,7 +34,7 @@
             </a>
           </div>
         </div>
-        <a class="navbar-item" href="#about">About</a>
+        <a class="navbar-item" href="/#about">About</a>
       </div>
 
       <div class="navbar-end">

@@ -13,14 +13,16 @@
       </div>
     </div>
 
-    <div v-for="row in chunkArray(searchResults, 6)" class="search-results columns">
-      <div v-for="episode in row" class="search-result column is-2">
-        <a :href="'/episode/'+episode.id" clas="link">
-          <figure class="image episode-cover">
-            <img :src="episode.image" />
-          </figure>
-          <div class="subtitle container">#{{  episode.id }} {{ episode.title }} </div>
-        </a>
+    <div v-infinite-scroll="loadMore">
+      <div v-for="row in chunkArray(visibleResults, 6)" class="search-results columns" >
+        <div v-for="episode in row" class="search-result column is-2">
+          <a :href="'/episode/'+episode.id" clas="link">
+            <figure class="image episode-cover">
+              <img :src="episode.image" />
+            </figure>
+            <div class="subtitle container episode-title">#{{  episode.id }} {{ episode.title }} </div>
+          </a>
+        </div>
       </div>
     </div>
 
@@ -32,8 +34,6 @@
  import episodes from '@/data/episodes.json'
  import Fuse from 'fuse.js';
  import TheNavbar from '@/components/TheNavbar.vue'
- const ROW_LENGTH = 5
- const PAGE_LENGTH = 15
 
  export default {
    name: 'SearchPage',
@@ -44,8 +44,10 @@
      return {
        episodes: Object.values(episodes).reverse(),
        loading: false,
+       page: 1,
        query: '',
-       searchResults: Object.values(episodes).reverse()
+       searchResults: Object.values(episodes).reverse(),
+       visibleResults: Object.values(episodes).reverse().slice(0, 18),
      }
    },
    methods: {
@@ -56,7 +58,18 @@
        }
        return chunks
      },
+     loadMore() {
+       this.loading = true
+       const episodesToAdd = this.searchResults.slice(0+(18*this.page),  18+(18*this.page))
+       if (episodesToAdd.length > 0) {
+        for (let episode of episodesToAdd) this.visibleResults.push(episode)
+         this.page += 1
+       }
+       this.loading = false
+     },
      search: debounce(function () {
+       this.page = 1
+       this.visibleResults = []
        if (this.query === '') {
          this.searchResults = this.episodes
        } else {
@@ -78,15 +91,26 @@
          const data = new Fuse(this.episodes, options);
          this.searchResults = data.search(this.query)
        }
+       this.visibleResults =  this.searchResults.slice(0,18)
        this.loading = false
      }, 500)
    }
  }
 </script>
 
-<style scoped>
+<style lang="scss" scoped>
+ .episode-title {
+   color: white;
+ }
  .link {
    color: black;
+ }
+ ::placeholder {
+   color: white
+ }
+ input {
+   background-color: $secondary;
+   color: white;
  }
  .search-results {
    margin: 4px;
