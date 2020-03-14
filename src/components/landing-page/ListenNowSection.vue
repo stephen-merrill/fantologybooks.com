@@ -15,23 +15,25 @@
                 Listen to our most recent episode here.
               </h3>
               <h4 class="is-size-5">
-               Love to chat about fantasy books as much as we do?
+                Love to chat about fantasy books as much as we do?
               </h4>
             </div>
           </div>
           <div class="columns is-12">
             <div class="column is-6">
-              <button class="button is-primary is-fullwidth">
-                <span class="icon is-medium">
-                  <i class="fab fa-lg fa-discord"></i>
-                </span>
-                <span>Join The Community</span>
-              </button>
+              <a href="https://discordapp.com/invite/k5efNbG">
+                <button class="button is-primary is-fullwidth">
+                  <span class="icon is-medium">
+                    <i class="fab fa-lg fa-discord"></i>
+                  </span>
+                  <span>Join The Community</span>
+                </button>
+              </a>
             </div>
           </div>
         </div>
         <div class="column is-7">
-          <youtube video-id="WgItH5xRhhU" ref="youtube" @playing="playing"></youtube>
+          <youtube :video-id="episode.youtubeId" ref="youtube" :width="550" :height="450" @playing="playing"></youtube>
         </div>
       </div>
     </div>
