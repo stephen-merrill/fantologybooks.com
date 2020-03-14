@@ -12,7 +12,7 @@
 </script>
 
 <style lang="scss">
- #app {
+ #app,.app {
    /* font-family: 'Avenir', Helvetica, Arial, sans-serif; */
    font-family: "Proxima Nova","proxima-nova","Helvetica Neue",Helvetica,Arial,sans-serif !important;
    -webkit-font-smoothing: antialiased;

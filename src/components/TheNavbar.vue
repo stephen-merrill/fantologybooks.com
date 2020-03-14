@@ -1,6 +1,6 @@
 <template>
   <nav :class="fixed ? 'is-fixed-top' : ''"
-        class="navbar is-transparent is-dark"
+        class="navbar is-dark"
         role="navigation"
         aria-label="main navigation">
 
@@ -15,38 +15,26 @@
 
     <div id="navbar-options" class="navbar-menu">
       <div class="navbar-start">
+        <a class="navbar-item" href="#listen-now">Listen Now</a>
         <div class="navbar-item has-dropdown is-hoverable">
           <a class="navbar-link">
             Episodes
           </a>
 
           <div class="navbar-dropdown">
-            <a v-for="link in series" :key="link.name" :href="'/series/'+link.id" class="navbar-item">
-              {{ link.name }}
+            <!-- <a v-for="link in series" :key="link.name" :href="'/series/'+link.id" class="navbar-item">
+                 {{ link.name }}
+                 </a>
+                 <hr class="navbar-divider"> -->
+            <a href="#recent-episodes" class="navbar-item">
+              Recent Episodes
             </a>
-            <hr class="navbar-divider">
             <a href="/search" class="navbar-item">
               All Episodes
             </a>
           </div>
         </div>
         <a class="navbar-item" href="#about">About</a>
-        <a class="navbar-item">Contact</a>
-        <!-- <div class="navbar-item has-dropdown is-hoverable">
-             <a class="navbar-link">
-             More
-             </a>
-
-             <div class="navbar-dropdown">
-             <a class="navbar-item">
-             About
-             </a>
-             <hr class="navbar-divider">
-             <a class="navbar-item">
-             Report an issue
-             </a>
-             </div>
-             </div> -->
       </div>
 
       <div class="navbar-end">
@@ -70,9 +58,9 @@
             <i class="fab fa-lg fa-google"></i>
           </span>
         </a>
-        <a class="navbar-item social-links" href="https://www.facebook.com/fantologybooks/">
+        <a class="navbar-item social-links" href="https://discordapp.com/invite/k5efNbG">
           <span class="icon is-medium">
-            <i class="fab fa-lg fa-facebook"></i>
+            <i class="fab fa-lg fa-discord"></i>
           </span>
         </a>
         <a class="navbar-item social-links" href="https://twitter.com/fantology_books">
@@ -80,9 +68,9 @@
             <i class="fab fa-lg fa-twitter"></i>
           </span>
         </a>
-        <a class="navbar-item social-links" href="https://discordapp.com/invite/k5efNbG">
+        <a class="navbar-item social-links" href="https://www.facebook.com/fantologybooks/">
           <span class="icon is-medium">
-            <i class="fab fa-lg fa-discord"></i>
+            <i class="fab fa-lg fa-facebook"></i>
           </span>
         </a>
         <a class="navbar-item" href="/search/">
@@ -117,6 +105,11 @@
 <style lang="scss" scoped>
  .navbar {
    background: $nav-background;
+   border-bottom: 2px solid darken($nav-background, 7%);
+ }
+ .navbar-dropdown {
+   background-color: $nav-background;
+   color: white;
  }
  .navbar-item {
    color: white;

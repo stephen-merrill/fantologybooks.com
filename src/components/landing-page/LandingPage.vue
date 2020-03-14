@@ -2,12 +2,12 @@
   <div>
     <navbar :fixed="true" />
     <introduction/>
-    <!-- <hr id="episodes" class="divider"/> -->
-
-    <recent-episodes/>
+    <listen/>
+    <hr id="recent-episodes" class="divider"/>
+    <recent/>
     <hr id="about" class="divider"/>
-
     <about/>
+    <contact/>
   </div>
 </template>
 
@@ -15,15 +15,19 @@
  import AboutSection from '@/components/landing-page/AboutSection.vue'
  import TheNavbar from '@/components/TheNavbar.vue'
  import IntroductionSection from '@/components/landing-page/IntroductionSection.vue'
+ import ListenNowSection from '@/components/landing-page/ListenNowSection.vue'
  import RecentEpisodesSection from '@/components/landing-page//RecentEpisodesSection.vue'
+ import ContactSection from '@/components/landing-page/ContactSection.vue'
 
  export default {
    name: 'LandingPage',
    components: {
      about: AboutSection,
+     contact: ContactSection,
      introduction: IntroductionSection,
+     listen: ListenNowSection,
      navbar: TheNavbar,
-     'recent-episodes': RecentEpisodesSection
+     recent: RecentEpisodesSection
    }
  }
 </script>

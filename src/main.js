@@ -1,4 +1,5 @@
 import App from './App.vue'
+import lineClamp from 'vue-line-clamp'
 import Vue from 'vue'
 import VueRouter from 'vue-router'
 import VueYoutube from 'vue-youtube'
@@ -22,6 +23,7 @@ const router = new VueRouter({
   routes: routes
 })
 
+Vue.use(lineClamp)
 Vue.use(VueYoutube)
 
 new Vue({

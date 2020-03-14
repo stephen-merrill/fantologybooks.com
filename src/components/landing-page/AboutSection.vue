@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div class="section">
     <h1 class="title">About Us</h1>
 
     <div class="container">
@@ -48,7 +48,6 @@
       </div>
     </div>
   </div>
-  </div>
 </template>
 
 <script>
@@ -70,6 +69,11 @@
    border-radius: 16px;
  }
  .title {
-   margin: 64px;
+   margin-top: 24px;
+   margin-bottom: 64px;
+   color: white;
+ }
+ .subtitle {
+   color: white;
  }
 </style>

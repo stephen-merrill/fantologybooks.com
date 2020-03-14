@@ -2,8 +2,8 @@
   <div class="section">
     <div>
       <h2 class="section-heading">
-        At the very heart of it, our podcast is about the story. <br>
-        We are <span class="bold-wording">readers</span> of stories, <span class="bold-wording">tellers</span> of stories and of course, <span class="bold-wording">reviewers</span> of stories.
+        We podcast for the <span class="bold-wording">love of the story.</span> Looking for more good stories yourself? <br>
+        Check out some of our other recent episodes.
       </h2>
     </div>
     <div class="container">
@@ -17,8 +17,11 @@
               <h2 class="subtitle">
                 {{ episodes[episodeId].title }}
               </h2>
-              <div class="description">
+              <div class="description" v-line-clamp:24="3">
                 {{ episodes[episodeId].description }}
+              </div>
+              <div class="description-link">
+                See More
               </div>
             </div>
           </a>
@@ -55,6 +58,15 @@
  .description {
    color: white;
  }
+ .description-link {
+   cursor: pointer;
+   color: lighten($primary, 10%);
+   text-decoration: underline;
+ }
+ .description-link:hover {
+   text-decoration:none;
+   text-shadow: 1px 1px 1px #555;
+ }
  .episode {
    margin: 16px;
  }
@@ -64,6 +76,6 @@
  }
  .section-heading {
    margin-top: 16px;
-   margin-bottom: 48px;
+   margin-bottom: 64px;
  }
 </style>

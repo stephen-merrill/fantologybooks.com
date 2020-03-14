@@ -43,6 +43,7 @@
           </div>
         </div>
       </div>
+      <div id="listen-now"/>
     </section>
   </div>
 </template>
