@@ -5,26 +5,49 @@
     <div class="container">
       <div class="columns">
         <div class="column">
-          <!-- <img class="about-image" src="@/assets/logo.jpg" /> -->
+          <figure class="image is-square">
+            <img src="@/assets/images/ben-robinson.png" />
+          </figure>
         </div>
-        <div class="column has-text-left-tablet">
-          <div class="container">
-            <h2 class="subtitle">
-              We love fantasy books, possibly too much. Our aim is to provide top-notch reviews of your
-              favorite fantasy books & series - Sanderson, Weeks, Rothfuss, Lynch + More!
-            </h2>
-            <h2 class="subtitle">
-              We prioritize recently released books so we stay as relevant as possible and aim to be
-              a tool for you to use as an alternative to rereads before sequels come out.
-              We hope you have as much fun with this as we do!
-            </h2>
-            <h2 class="subtitle">
-              Below is a little bit about each of us here at Fantology.
-            </h2>
-          </div>
+        <div class="column">
+          <figure class="image is-square">
+            <img src="@/assets/images/jake-yorgason.png" />
+          </figure>
+        </div>
+        <div class="column">
+          <figure class="image is-square">
+            <img src="@/assets/images/josh-robinson.png" />
+          </figure>
+        </div>
+        <div class="column">
+          <figure class="image is-square">
+            <img src="@/assets/images/stephen-merrill.jpeg" />
+          </figure>
+        </div>
+        <div class="column">
+          <figure class="image is-square">
+            <img src="@/assets/images/ryan-robinson.png" />
+          </figure>
+        </div>
+      </div>
+      <div class="column has-text-left-tablet">
+        <div class="container">
+          <h2 class="subtitle">
+            We are Fantology.
+          </h2>
+          <h2 class="subtitle">
+            At the very heart of it, our podcast is about the story. We are readers of stories, tellers of stories and of course, reviewers of stories. We podcast for the love of the story. But we’re also honest in our reviews of the stories. We’ve poured our hearts into the critically acclaimed tomes of Sanderson, Jordan & Martin. And Rothfuss, of course. But we’ve also digested scrolls so obscure that Goodreads deigns to rate them above four stars.
+          </h2>
+          <h2 class="subtitle">
+            We ignored the over-saturated audio market of 2019 and started a podcast. We forgo the natural cadence of present locational conversation and instead video conference remotely. We bring you top-notch reviews of the swords and scrolls of nerd culture. We are Fantology.
+          </h2>
+          <h2 class="subtitle">
+            You may have heard of us.
+          </h2>
         </div>
       </div>
     </div>
+  </div>
   </div>
 </template>
 

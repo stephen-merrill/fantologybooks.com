@@ -2,7 +2,7 @@
   <div>
     <navbar :fixed="true" />
     <introduction/>
-    <hr id="episodes" class="divider"/>
+    <!-- <hr id="episodes" class="divider"/> -->
 
     <recent-episodes/>
     <hr id="about" class="divider"/>

@@ -1,8 +1,10 @@
-import Vue from 'vue'
 import App from './App.vue'
+import Vue from 'vue'
 import VueRouter from 'vue-router'
+import VueYoutube from 'vue-youtube'
 
 import '@/styles/bulma.scss'
+
 import LandingPage from '@/components/landing-page/LandingPage.vue'
 import SearchPage from '@/components/search-page/SearchPage.vue'
 import EpisodePage from '@/components/episode-page/EpisodePage.vue'
@@ -20,6 +22,7 @@ const router = new VueRouter({
   routes: routes
 })
 
+Vue.use(VueYoutube)
 
 new Vue({
   router: router,

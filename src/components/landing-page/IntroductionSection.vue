@@ -1,22 +1,42 @@
 <template>
   <div>
-    <section class="hero is-small secondary section">
+    <section class="hero is-small section">
       <div class="hero-body">
         <div class="container">
           <div class="columns">
             <div class="column vertically-align has-text-left-tablet">
-              <h1 class="title is-size-1">
-                Welcome to Fantology
+              <h1 class="title">
+                A podcast about your favorite fantasy books.
               </h1>
               <h2 class="subtitle">
-                Reviews of Your Favorite Fantasy Books & Series
+                Welcome to Fantology.
               </h2>
-              <div>
-                <button class="button is-primary">Subscribe</button>
+              <div class="columns is-12">
+                <div class="column is-6">
+                  <button class="button is-primary is-fullwidth">Listen Now</button>
+                </div>
+              </div>
+              <div class="columns is-12">
+                <div class="column is-3">
+                  <button class="button is-primary is-inverted is-outlined is-fullwidth">
+                    <span class="icon is-medium">
+                      <i class="fab fa-lg fa-apple"></i>
+                    </span>
+                    <span>Apple Music</span>
+                  </button>
+                </div>
+                <div class="column is-3">
+                  <button class="button is-primary is-inverted is-outlined is-fullwidth">
+                    <span class="icon is-medium">
+                      <i class="fab fa-lg fa-spotify"></i>
+                    </span>
+                    <span>Spotify</span>
+                  </button>
+                </div>
               </div>
             </div>
-            <div class="column">
-              <figure class="image">
+            <div class="column logo-container">
+              <figure class="image logo">
                 <img src="@/assets/images/transparent-logo.png" />
               </figure>
             </div>
@@ -29,27 +49,48 @@
 
 <script>
  export default {
-   name: 'IntroductionSection'
+   name: 'IntroductionSection',
+   data () {
+     return {
+       audio: [
+         {
+           name: "Episode 1",
+           artist: "test",
+           url: 'https://cdn.moefe.org/music/mp3/thing.mp3'
+         },
+         {
+           name: "Episode 1",
+           artist: "test",
+           url: 'https://cdn.moefe.org/music/mp3/thing.mp3'
+         },
+         {
+           name: "Episode 1",
+           artist: "test",
+           url: 'https://cdn.moefe.org/music/mp3/thing.mp3'
+         },
+       ]
+     }
+   }
  }
 </script>
 
 <style lang="scss" scoped>
- /* .button {
-    color: white;
-    } */
- .title {
-   margin-bottom: 32px;
-   /* color: white; */
+ .logo {
+   width: 50vh;
+   height: 50vh;
+   margin-top: 16px;
  }
- /* .section {
-    background-color: $secondary;
-    } */
- /* .subtitle {
-    color: white;
-    } */
- .vertically-align {
+ .logo-container {
    display: flex;
-   flex-direction: column;
+   flex-direction: row;
    justify-content: center;
  }
+ .hero {
+   background-color: $secondary;
+ }
+.vertically-align {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
 </style>

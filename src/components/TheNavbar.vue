@@ -1,6 +1,6 @@
 <template>
   <nav :class="fixed ? 'is-fixed-top' : ''"
-        class="navbar is-transparent"
+        class="navbar is-transparent is-dark"
         role="navigation"
         aria-label="main navigation">
 
@@ -60,6 +60,16 @@
             <i class="fab fa-lg fa-spotify"></i>
           </span>
         </a>
+        <a class="navbar-item social-links" href="https://open.spotify.com/show/310DLxDRkTdam3fMcQtMCR?si=_4Wk59U5TWWdF19h5STreg">
+          <span class="icon is-medium">
+            <i class="fab fa-lg fa-youtube"></i>
+          </span>
+        </a>
+        <a class="navbar-item social-links" href="https://podcasts.google.com/?feed=aHR0cHM6Ly9mZWVkcy5idXp6c3Byb3V0LmNvbS84MTAwODkucnNz&ved=0CAAQ4aUDahcKEwiYnvGJhpnoAhUAAAAAHQAAAAAQAQ">
+          <span class="icon is-medium">
+            <i class="fab fa-lg fa-google"></i>
+          </span>
+        </a>
         <a class="navbar-item social-links" href="https://www.facebook.com/fantologybooks/">
           <span class="icon is-medium">
             <i class="fab fa-lg fa-facebook"></i>
@@ -105,6 +115,12 @@
 </script>
 
 <style lang="scss" scoped>
+ .navbar {
+   background: $nav-background;
+ }
+ .navbar-item {
+   color: white;
+ }
  .navbar-end {
    margin-right: 16px;
  }
