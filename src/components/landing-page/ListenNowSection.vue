@@ -65,7 +65,7 @@
           </div>
         </div>
         <div class="column is-7">
-          <youtube :video-id="episode.youtubeId" ref="youtube" :width="550" :height="450" @playing="playing"></youtube>
+          <youtube :video-id="episode.youtubeId" ref="youtube" :width="550" :height="450"></youtube>
         </div>
       </div>
     </div>

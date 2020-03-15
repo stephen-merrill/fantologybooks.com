@@ -11,7 +11,7 @@
         <div v-for="episodeId in recentEpisodeIds"
              :key="episodeId"
              class="column is-4 has-text-left-tablet">
-          <a :href="'/episode/'+episodeId" class="link" >
+          <a class="link" @click="() => goToEpisode(episodeId)">
             <div class="container episode">
               <img :src="episodes[episodeId].image" />
               <h2 class="subtitle">
@@ -41,6 +41,11 @@
      return {
        episodes: episodes,
        recentEpisodeIds: recentEpisodes.episodeIds
+     }
+   },
+   methods: {
+     goToEpisode (episodeId) {
+       this.$router.push({ path: `episode/${episodeId}` })
      }
    }
  }

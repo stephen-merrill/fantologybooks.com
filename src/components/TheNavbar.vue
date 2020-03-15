@@ -29,7 +29,7 @@
             <a href="/#recent-episodes" class="navbar-item">
               Recent Episodes
             </a>
-            <a href="/search" class="navbar-item">
+            <a class="navbar-item" @click="goToSearch">
               All Episodes
             </a>
           </div>
@@ -104,6 +104,9 @@
      }
    },
    methods: {
+     goToSearch () {
+       this.$router.push({ path: '/search' })
+     },
      search () {
        this.$router.push({ path: '/search', query: { query: this.searchValue } })
      }
