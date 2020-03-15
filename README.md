@@ -1,4 +1,4 @@
-# thefantologypodcast.com
+# fantologybooks.com
 
 ## Project setup
 ```
