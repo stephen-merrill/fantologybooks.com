@@ -12,10 +12,10 @@
           <div class="columns">
             <div class="column is-12">
               <h3 class="subtitle">
-                Listen to our most recent episode here.
+                Listen to our most recent episode, and let us know what you think.
               </h3>
               <h4 class="is-size-5">
-                Love to chat about fantasy books as much as we do?
+                Join us on our discord server after checking out our latest podcast on your favorite app.
               </h4>
             </div>
           </div>
@@ -27,6 +27,38 @@
                     <i class="fab fa-lg fa-discord"></i>
                   </span>
                   <span>Join The Community</span>
+                </button>
+              </a>
+            </div>
+          </div>
+          <div class="columns is-12 links">
+            <div class="column is-4">
+              <a :href="episode.appleLink">
+                <button class="button is-primary is-inverted is-outlined is-fullwidth">
+                  <span class="icon is-medium">
+                    <i class="fab fa-lg fa-apple"></i>
+                  </span>
+                  <span>Apple Music</span>
+                </button>
+              </a>
+            </div>
+            <div class="column is-4">
+              <a :href="episode.spotifyLink">
+                <button class="button is-primary is-inverted is-outlined is-fullwidth">
+                  <span class="icon is-medium">
+                    <i class="fab fa-lg fa-spotify"></i>
+                  </span>
+                  <span>Spotify</span>
+                </button>
+              </a>
+            </div>
+            <div class="column is-4">
+              <a :href="episode.googleLink">
+                <button class="button is-primary is-inverted is-outlined is-fullwidth">
+                  <span class="icon is-medium">
+                    <i class="fab fa-lg fa-google"></i>
+                  </span>
+                  <span>Google</span>
                 </button>
               </a>
             </div>
