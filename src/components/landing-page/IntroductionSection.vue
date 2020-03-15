@@ -56,28 +56,7 @@
 
 <script>
  export default {
-   name: 'IntroductionSection',
-   data () {
-     return {
-       audio: [
-         {
-           name: "Episode 1",
-           artist: "test",
-           url: 'https://cdn.moefe.org/music/mp3/thing.mp3'
-         },
-         {
-           name: "Episode 1",
-           artist: "test",
-           url: 'https://cdn.moefe.org/music/mp3/thing.mp3'
-         },
-         {
-           name: "Episode 1",
-           artist: "test",
-           url: 'https://cdn.moefe.org/music/mp3/thing.mp3'
-         },
-       ]
-     }
-   }
+   name: 'IntroductionSection'
  }
 </script>
 
