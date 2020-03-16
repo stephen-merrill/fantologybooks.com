@@ -13,6 +13,10 @@ div {
   word-break: break-word !important;
 }
 
+.bold-wording {
+  color: lighten($primary, 12%);
+  font-weight: bold;
+}
 
 .section-heading {
   font-size: 1.75rem;

@@ -33,34 +33,22 @@
           </div>
           <div class="columns is-12 links">
             <div class="column is-4">
-              <a :href="episode.appleLink">
-                <button class="button is-primary is-inverted is-outlined is-fullwidth">
-                  <span class="icon is-medium">
-                    <i class="fab fa-lg fa-apple"></i>
-                  </span>
-                  <span>Apple Music</span>
-                </button>
-              </a>
+              <secondary-button
+                :href="episode.appleLink"
+                icon="fab fa-lg fa-apple"
+                text="Apple Music"/>
             </div>
             <div class="column is-4">
-              <a :href="episode.spotifyLink">
-                <button class="button is-primary is-inverted is-outlined is-fullwidth">
-                  <span class="icon is-medium">
-                    <i class="fab fa-lg fa-spotify"></i>
-                  </span>
-                  <span>Spotify</span>
-                </button>
-              </a>
+              <secondary-button
+                :href="episode.spotifyLink"
+                icon="fab fa-lg fa-spotify"
+                text="Spotify"/>
             </div>
             <div class="column is-4">
-              <a :href="episode.googleLink">
-                <button class="button is-primary is-inverted is-outlined is-fullwidth">
-                  <span class="icon is-medium">
-                    <i class="fab fa-lg fa-google"></i>
-                  </span>
-                  <span>Google</span>
-                </button>
-              </a>
+              <secondary-button
+                :href="episode.googleLink"
+                icon="fab fa-lg fa-google"
+                text="Google"/>
             </div>
           </div>
         </div>
@@ -74,8 +62,13 @@
 
 <script>
  import episodes from '@/data/episodes.json'
+ import SecondaryButton from '@/elements/SecondaryButton.vue'
+
  export default {
    name: 'ListenNowSection',
+   components: {
+     SecondaryButton
+   },
    data() {
      return {
        episode: Object.values(episodes).slice(-1)[0]
@@ -85,10 +78,6 @@
 </script>
 
 <style lang="scss" scoped>
- .bold-wording {
-   color: lighten($primary, 12%);
-   font-weight: bold;
- }
  .container {
    margin-top: 64px;
    margin-bottom: 64px;

@@ -52,10 +52,6 @@
 </script>
 
 <style lang="scss" scoped>
- .bold-wording {
-   color: lighten($primary, 12%);
-   font-weight: bold;
- }
  .container {
    margin-bottom: 64px;
    color: black;
@@ -77,9 +73,5 @@
  }
  .episode-logo {
    width: 100%;
- }
- .title {
-   margin: 64px;
-   color: white;
  }
 </style>

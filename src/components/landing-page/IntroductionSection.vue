@@ -20,24 +20,16 @@
               </div>
               <div class="columns is-12">
                 <div class="column is-3">
-                  <a href="https://podcasts.apple.com/us/podcast/id1489097985">
-                    <button class="button is-primary is-inverted is-outlined is-fullwidth">
-                      <span class="icon is-medium">
-                        <i class="fab fa-lg fa-apple"></i>
-                      </span>
-                      <span>Apple Music</span>
-                    </button>
-                  </a>
+                  <secondary-button
+                    href="https://podcasts.apple.com/us/podcast/id1489097985"
+                    icon="fab fa-lg fa-apple"
+                    text="Apple Music"/>
                 </div>
                 <div class="column is-3">
-                  <a href="https://open.spotify.com/show/310DLxDRkTdam3fMcQtMCR?si=_4Wk59U5TWWdF19h5STreg">
-                    <button class="button is-primary is-inverted is-outlined is-fullwidth">
-                      <span class="icon is-medium">
-                        <i class="fab fa-lg fa-spotify"></i>
-                      </span>
-                      <span>Spotify</span>
-                    </button>
-                  </a>
+                  <secondary-button
+                    href="https://open.spotify.com/show/310DLxDRkTdam3fMcQtMCR?si=_4Wk59U5TWWdF19h5STreg"
+                    icon="fab fa-lg fa-spotify"
+                    text="Spotify"/>
                 </div>
               </div>
             </div>
@@ -55,8 +47,12 @@
 </template>
 
 <script>
+ import SecondaryButton from '@/elements/SecondaryButton.vue'
  export default {
-   name: 'IntroductionSection'
+   name: 'IntroductionSection',
+   components: {
+     SecondaryButton
+   }
  }
 </script>
 
