@@ -1,5 +1,5 @@
 <template>
-  <div  >
+  <div>
     <navbar />
     <div class="field search">
       <div :class="loading ? 'is-loading' : ''"
