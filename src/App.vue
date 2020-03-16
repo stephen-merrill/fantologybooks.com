@@ -20,5 +20,6 @@
    text-align: center;
    color: white;
    background-color: $background;
+   word-wrap: break-word;
  }
 </style>

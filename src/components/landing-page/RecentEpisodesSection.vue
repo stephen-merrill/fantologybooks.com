@@ -13,7 +13,7 @@
              class="column is-4 has-text-left-tablet">
           <a class="link" @click="() => goToEpisode(episodeId)">
             <div class="container episode">
-              <img :src="require('@/assets/images/' + episodes[episodeId].image)" />
+              <img :src="require('@/assets/images/' + episodes[episodeId].image)" class="episode-logo" />
               <h2 class="subtitle">
                 {{ episodes[episodeId].title }}
               </h2>
@@ -74,6 +74,9 @@
  }
  .episode {
    margin: 16px;
+ }
+ .episode-logo {
+   width: 100%;
  }
  .title {
    margin: 64px;

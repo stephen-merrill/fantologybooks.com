@@ -17,7 +17,7 @@
       <div v-for="row in chunkArray(visibleResults, 6)" class="search-results columns" > <div v-for="episode in row" class="search-result column is-2">
           <a :href="'/episode/'+episode.id" clas="link">
             <figure class="image episode-cover">
-              <img :src="require('@/assets/images/' + episode.image)" />
+              <img :src="require('@/assets/images/' + episode.image)" class="episode-image"/>
             </figure>
             <div class="is-size-5 container episode-title">#{{  episode.id }} {{ episode.title }} </div>
           </a>
@@ -111,6 +111,9 @@
  .episode-title {
    margin-top: 4px;
    color: white;
+ }
+ .episode-image {
+   width: 100%;
  }
  .link {
    color: black;
