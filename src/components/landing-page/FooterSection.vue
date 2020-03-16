@@ -31,7 +31,7 @@
 
 <script>
  export default {
-   name: 'ContactSection',
+   name: 'FooterSection',
  }
 </script>
 
@@ -54,13 +54,5 @@
  }
  .link {
    color: white
- }
- .title {
-   margin: 64px;
-   color: white;
- }
- .section-heading {
-   margin-top: 16px;
-   margin-bottom: 64px;
  }
 </style>

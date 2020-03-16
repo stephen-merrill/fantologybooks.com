@@ -82,8 +82,4 @@
    margin: 64px;
    color: white;
  }
- .section-heading {
-   margin-top: 16px;
-   margin-bottom: 64px;
- }
 </style>

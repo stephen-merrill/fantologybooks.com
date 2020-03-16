@@ -1,29 +1,29 @@
 <template>
   <div>
-    <navbar :fixed="true" />
+    <navbar :fixed="true"/>
     <introduction/>
     <listen/>
     <hr id="recent-episodes" class="divider"/>
     <recent/>
     <hr id="about" class="divider"/>
     <about/>
-    <contact/>
+    <foot/>
   </div>
 </template>
 
 <script>
- import AboutSection from '@/components/landing-page/AboutSection.vue'
+ import AboutSection from '@/components/landing-page/about-section/AboutSection.vue'
  import TheNavbar from '@/components/TheNavbar.vue'
  import IntroductionSection from '@/components/landing-page/IntroductionSection.vue'
  import ListenNowSection from '@/components/landing-page/ListenNowSection.vue'
  import RecentEpisodesSection from '@/components/landing-page//RecentEpisodesSection.vue'
- import ContactSection from '@/components/landing-page/ContactSection.vue'
+ import FooterSection from '@/components/landing-page/FooterSection.vue'
 
  export default {
    name: 'LandingPage',
    components: {
      about: AboutSection,
-     contact: ContactSection,
+     foot: FooterSection,
      introduction: IntroductionSection,
      listen: ListenNowSection,
      navbar: TheNavbar,

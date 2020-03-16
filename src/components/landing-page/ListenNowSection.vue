@@ -93,10 +93,6 @@
    margin-top: 64px;
    margin-bottom: 64px;
  }
- .section-heading {
-   margin-top: 16px;
-   margin-bottom: 48px;
- }
  .subtitle {
    margin-bottom: 16px;
  }
