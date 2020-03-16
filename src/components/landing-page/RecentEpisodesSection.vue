@@ -13,7 +13,7 @@
              class="column is-4 has-text-left-tablet">
           <a class="link" @click="() => goToEpisode(episodeId)">
             <div class="container episode">
-              <img :src="episodes[episodeId].image" />
+              <img :src="require('@/assets/images/' + episodes[episodeId].image)" />
               <h2 class="subtitle">
                 {{ episodes[episodeId].title }}
               </h2>

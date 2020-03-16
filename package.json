@@ -7,12 +7,13 @@
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
     "lint": "vue-cli-service lint",
-    "stage": "yarn build && aws s3 sync ./dist s3://staging.fantologybooks.com",
-    "deploy": "yarn build && aws s3 sync ./dist s3://fantologybooks.com"
+    "stage": "yarn build && aws s3 sync ./dist s3://staging.fantologybooks.com --delete",
+    "deploy": "yarn build && aws s3 sync ./dist s3://fantologybooks.com --delete"
   },
   "dependencies": {
     "core-js": "^2.6.5",
     "fuse.js": "^3.4.6",
+    "imagemin-webpack-plugin": "^2.4.2",
     "lodash.debounce": "^4.0.8",
     "sass-loader": "^8.0.2",
     "vue": "^2.6.10",

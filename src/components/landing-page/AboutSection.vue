@@ -34,7 +34,7 @@
         <div class="column">
           <a href="https://twitter.com/ste_ph_en32">
           <figure class="image is-square">
-            <img src="@/assets/images/stephen-merrill.jpeg" />
+            <img src="@/assets/images/stephen-merrill.png" />
           </figure>
           Stephen Merrill <br>
           <i class="fab fa-lg fa-twitter"></i> ste_ph_en32
