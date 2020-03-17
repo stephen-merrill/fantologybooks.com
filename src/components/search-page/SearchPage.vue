@@ -20,7 +20,7 @@
         <div v-for="episode in row"
              :class="isMobile() ? 'is-6' : 'is-2'"
              class="search-result column">
-          <a :href="'/episode/'+episode.id" clas="link">
+          <a class="link" @click="@click="() => goToEpisode(episodeId)">
             <figure class="image episode-cover">
               <img :src="require('@/assets/images/' + episode.image)" class="episode-image"/>
             </figure>
@@ -64,14 +64,17 @@
      }
    },
    methods: {
-     chunkArray(arr, size) {
+     chunkArray (arr, size) {
        let chunks = []
        for(let i = 0; i < arr.length; i += size) {
          chunks.push(arr.slice(i, i+size))
        }
        return chunks
      },
-     loadMore() {
+     goToEpisode (episodeId) {
+       this.$router.push({ path: `episode/${episodeId}` })
+     },
+     loadMore () {
        this.loading = true
        const episodesToAdd = this.searchResults.slice(0+(18*this.page),  18+(18*this.page))
        if (episodesToAdd.length > 0) {
