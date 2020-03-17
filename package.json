@@ -7,8 +7,8 @@
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
     "lint": "vue-cli-service lint",
-    "stage": "yarn build && aws s3 sync ./dist s3://staging.fantologybooks.com --delete",
-    "deploy": "yarn build && aws s3 sync ./dist s3://www.fantologybooks.com --delete"
+    "stage": "yarn build && aws s3 sync ./dist s3://staging.fantologybooks.com --delete && aws cloudfront create-invalidation --distribution-id E2L4N67LJM2TZN --paths '/*'",
+    "deploy": "yarn build && aws s3 sync ./dist s3://www.fantologybooks.com --delete && aws cloudfront create-invalidation --distribution-id E2QGV0VGT55X2L --paths '/*'"
   },
   "dependencies": {
     "core-js": "^2.6.5",
