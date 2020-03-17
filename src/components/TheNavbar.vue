@@ -58,7 +58,7 @@
           </span>
           <span v-if="isMobile()">Spotify</span>
         </a>
-        <a class="navbar-item social-links" href="https://open.spotify.com/show/310DLxDRkTdam3fMcQtMCR?si=_4Wk59U5TWWdF19h5STreg">
+        <a class="navbar-item social-links" href="https://www.youtube.com/channel/UChnTPpjUWTS8-NUn9EQi-4A">
           <span class="icon is-medium">
             <i class="fab fa-lg fa-youtube"></i>
           </span>

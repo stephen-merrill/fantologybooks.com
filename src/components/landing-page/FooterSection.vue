@@ -20,7 +20,7 @@
             <div class="subtitle">Listen Now</div>
             <div class="link"><a href="https://podcasts.apple.com/us/podcast/id1489097985">Apple</a></div>
             <div class="link"><a href="https://open.spotify.com/show/310DLxDRkTdam3fMcQtMCR?si=_4Wk59U5TWWdF19h5STreg">Spotify</a></div>
-            <div class="link"><a href="https://open.spotify.com/show/310DLxDRkTdam3fMcQtMCR?si=_4Wk59U5TWWdF19h5STreg">Youtube</a></div>
+            <div class="link"><a href="https://www.youtube.com/channel/UChnTPpjUWTS8-NUn9EQi-4A">Youtube</a></div>
             <div class="link"><a href="https://podcasts.google.com/?feed=aHR0cHM6Ly9mZWVkcy5idXp6c3Byb3V0LmNvbS84MTAwODkucnNz&ved=0CAAQ4aUDahcKEwiYnvGJhpnoAhUAAAAAHQAAAAAQAQ">Google</a></div>
           </div>
         </div>
