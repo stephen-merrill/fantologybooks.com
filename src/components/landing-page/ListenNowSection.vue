@@ -17,7 +17,7 @@
               <h3 class="subtitle">
                 Listen to our most recent episode, and let us know what you think.
               </h3>
-              <h4 class="is-size-5">
+              <h4 v-if="!isMobile()" class="is-size-5">
                 Join us on our discord server after checking out our latest podcast on your favorite app.
               </h4>
             </div>

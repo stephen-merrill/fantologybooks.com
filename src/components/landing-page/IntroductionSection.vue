@@ -4,11 +4,16 @@
       <div class="hero-body">
         <div class="container">
           <div class="columns">
+            <div v-if="isMobile()" class="column logo-container remove-margin">
+              <figure class="image logo">
+                <img src="@/assets/images/transparent-logo.png" />
+              </figure>
+            </div>
             <div class="column vertically-align has-text-left-tablet">
               <h1 class="title">
                 A podcast about your favorite fantasy books.
               </h1>
-              <h2 class="subtitle">
+              <h2 v-if="!isMobile()" class="subtitle">
                 Welcome to Fantology.
               </h2>
               <div class="columns is-12">
@@ -37,7 +42,7 @@
                 </div>
               </div>
             </div>
-            <div class="column logo-container">
+            <div v-if="!isMobile()" class="column logo-container">
               <figure class="image logo">
                 <img src="@/assets/images/transparent-logo.png" />
               </figure>
@@ -63,9 +68,6 @@
 </script>
 
 <style lang="scss" scoped>
- .hero-body {
-   margin-top: 32px;
- }
  .logo {
    width: 50vh;
    height: 50vh;
@@ -78,6 +80,9 @@
  }
  .hero {
    background-color: $secondary;
+ }
+ .remove-margin {
+   margin-bottom: -24px;
  }
  .vertically-align {
    display: flex;

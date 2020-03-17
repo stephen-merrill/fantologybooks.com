@@ -2,7 +2,7 @@
   <div class="section">
     <div>
       <h2 class="section-heading">
-        We podcast for the <span class="bold-wording">love of the story.</span> Looking for more good stories yourself? <br>
+        We podcast for the <span class="bold-wording">love of the story.</span> Looking for more good stories yourself? <br v-if="!isMobile()">
         Check out some of our other recent episodes.
       </h2>
     </div>
@@ -35,8 +35,11 @@
 <script>
  import recentEpisodes from '@/data/recent-episodes.json'
  import episodes from '@/data/episodes.json'
+ import IsMobile from '@/mixins/IsMobile.js'
+
  export default {
    name: 'RecentEpisodesSection',
+   mixins: [IsMobile],
    data() {
      return {
        episodes: episodes,
