@@ -20,7 +20,7 @@
         <div v-for="episode in row"
              :class="isMobile() ? 'is-6' : 'is-2'"
              class="search-result column">
-          <a class="link" @click="() => goToEpisode(episodeId)">
+          <a class="link" @click="() => goToEpisode(episode.id)">
             <figure class="image episode-cover">
               <img :src="require('@/assets/images/' + episode.image)" class="episode-image"/>
             </figure>
