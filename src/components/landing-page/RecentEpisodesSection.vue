@@ -53,7 +53,7 @@
 
 <style lang="scss" scoped>
  .container {
-   margin-bottom: 64px;
+   margin-bottom: 8px;
    color: black;
  }
  .description {

@@ -8,6 +8,9 @@
     </div>
     <div class="container">
       <div class="columns is-12">
+        <div v-if="isMobile()" class="column is-7">
+          <youtube-player :id="episode.youtubeId"/>
+        </div>
         <div class="column is-5 vertically-align has-text-left-tablet">
           <div class="columns">
             <div class="column is-12">
@@ -31,12 +34,12 @@
               </a>
             </div>
           </div>
-          <div class="columns is-12 links">
+          <div class="columns is-12 is-mobile">
             <div class="column is-4">
               <secondary-button
                 :href="episode.appleLink"
                 icon="fab fa-lg fa-apple"
-                text="Apple Music"/>
+                text="Apple"/>
             </div>
             <div class="column is-4">
               <secondary-button
@@ -52,8 +55,8 @@
             </div>
           </div>
         </div>
-        <div class="column is-7">
-          <youtube :video-id="episode.youtubeId" ref="youtube" :width="550" :height="450"></youtube>
+        <div v-if="!isMobile()" class="column is-7">
+          <youtube-player :id="episode.youtubeId"/>
         </div>
       </div>
     </div>
@@ -62,12 +65,16 @@
 
 <script>
  import episodes from '@/data/episodes.json'
+ import IsMobile from '@/mixins/IsMobile.js'
  import SecondaryButton from '@/elements/SecondaryButton.vue'
+ import YoutubePlayer from '@/elements/YoutubePlayer.vue'
 
  export default {
    name: 'ListenNowSection',
+   mixins: [IsMobile],
    components: {
-     SecondaryButton
+     SecondaryButton,
+     YoutubePlayer
    },
    data() {
      return {
@@ -80,7 +87,10 @@
 <style lang="scss" scoped>
  .container {
    margin-top: 64px;
-   margin-bottom: 64px;
+   margin-bottom: 8px;
+ }
+ iframe {
+   max-width: 90vh;
  }
  .subtitle {
    margin-bottom: 16px;

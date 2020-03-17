@@ -18,14 +18,18 @@
                   </a>
                 </div>
               </div>
-              <div class="columns is-12">
-                <div class="column is-3">
+              <div class="columns is-12 is-mobile">
+                <div
+                  :class="isMobile() ? '' : 'is-3'"
+                  class="column">
                   <secondary-button
                     href="https://podcasts.apple.com/us/podcast/id1489097985"
                     icon="fab fa-lg fa-apple"
-                    text="Apple Music"/>
+                    text="Apple"/>
                 </div>
-                <div class="column is-3">
+                <div
+                  :class="isMobile() ? '' : 'is-3'"
+                  class="column">
                   <secondary-button
                     href="https://open.spotify.com/show/310DLxDRkTdam3fMcQtMCR?si=_4Wk59U5TWWdF19h5STreg"
                     icon="fab fa-lg fa-spotify"
@@ -47,9 +51,11 @@
 </template>
 
 <script>
+ import IsMobile from '@/mixins/IsMobile.js'
  import SecondaryButton from '@/elements/SecondaryButton.vue'
  export default {
    name: 'IntroductionSection',
+   mixins: [IsMobile],
    components: {
      SecondaryButton
    }
@@ -57,6 +63,9 @@
 </script>
 
 <style lang="scss" scoped>
+ .hero-body {
+   margin-top: 32px;
+ }
  .logo {
    width: 50vh;
    height: 50vh;

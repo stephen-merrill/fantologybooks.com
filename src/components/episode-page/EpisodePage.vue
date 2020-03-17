@@ -1,66 +1,63 @@
 <template>
   <div>
     <navbar />
-    <section class="hero is-small section">
-      <div class="hero-body">
-        <div class="columns has-text-left-tablet vertically-align is-12">
-          <div class="column is-4 is-offset-1">
-            <h1 class="subtitle">
-              #{{  episode.id }} {{ episode.title }}
-            </h1>
-            <h2 class="is-size-5">
-              {{ episode.description }}
-            </h2>
-            <div class="columns is-12 links">
-              <div class="column is-4">
-                <a :href="episode.appleLink">
-                  <button class="button is-primary is-inverted is-outlined is-fullwidth">
-                    <span class="icon is-medium">
-                      <i class="fab fa-lg fa-apple"></i>
-                    </span>
-                    <span>Apple Music</span>
-                  </button>
-                </a>
-              </div>
-              <div class="column is-4">
-                <a :href="episode.spotifyLink">
-                  <button class="button is-primary is-inverted is-outlined is-fullwidth">
-                    <span class="icon is-medium">
-                      <i class="fab fa-lg fa-spotify"></i>
-                    </span>
-                    <span>Spotify</span>
-                  </button>
-                </a>
-              </div>
-              <div class="column is-4">
-                <a :href="episode.googleLink">
-                  <button class="button is-primary is-inverted is-outlined is-fullwidth">
-                    <span class="icon is-medium">
-                      <i class="fab fa-lg fa-google"></i>
-                    </span>
-                    <span>Google</span>
-                  </button>
-                </a>
-              </div>
+    <div
+      :class="!isMobile() ? 'section-margin' : ''"
+      class="section">
+      <div class="columns has-text-left-tablet is-12">
+        <div v-if="isMobile()" class="column">
+          <youtube-player :id="episode.youtubeId"/>
+        </div>
+        <div class="column is-4 is-offset-2">
+          <h1 class="subtitle">
+            #{{  episode.id }} {{ episode.title }}
+          </h1>
+          <h2 class="is-size-5">
+            {{ episode.description }}
+          </h2>
+          <div class="columns is-12 links is-mobile">
+            <div class="column is-4">
+              <secondary-button
+                :href="episode.appleLink"
+                icon="fab fa-lg fa-apple"
+                text="Apple"/>
+            </div>
+            <div class="column is-4">
+              <secondary-button
+                :href="episode.spotifyLink"
+                icon="fab fa-lg fa-spotify"
+                text="Spotify"/>
+            </div>
+            <div class="column is-4">
+              <secondary-button
+                :href="episode.googleLink"
+                icon="fab fa-lg fa-google"
+                text="Google"/>
             </div>
           </div>
-          <div class="column is-5 is-offset-1">
-            <youtube :video-id="episode.youtubeId" ref="youtube" :width="700" :height="600"></youtube>
-          </div>
+        </div>
+        <div v-if="!isMobile()" class="column is-5 is-offset-1">
+          <youtube-player :id="episode.youtubeId"/>
         </div>
       </div>
-    </section>
+    </div>
   </div>
 </template>
 
 <script>
- import TheNavbar from '@/components/TheNavbar.vue'
  import episodes from '@/data/episodes.json'
+ import IsMobile from '@/mixins/IsMobile.js'
+ import SecondaryButton from '@/elements/SecondaryButton.vue'
+ import YoutubePlayer from '@/elements/YoutubePlayer.vue'
+ import TheNavbar from '@/components/TheNavbar.vue'
 
  export default {
    name: 'EpisodePage',
+   mixins: [IsMobile],
    components: {
-     navbar: TheNavbar
+     navbar: TheNavbar,
+     SecondaryButton,
+     YoutubePlayer
    },
    computed: {
      episode () {
@@ -86,9 +83,8 @@
  .links {
    margin-top: 24px;
  }
- .title {
-   color: white;
-   margin-bottom: 48px;
+ .section-margin {
+   margin-top: 10vh;
  }
  .subtitle {
    color: white;
