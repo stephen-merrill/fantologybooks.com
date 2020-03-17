@@ -2,6 +2,7 @@ import App from './App.vue'
 import infiniteScroll from 'vue-infinite-scroll'
 import lineClamp from 'vue-line-clamp'
 import Vue from 'vue'
+import VueGtag from "vue-gtag";
 import VueRouter from 'vue-router'
 import VueYoutube from 'vue-youtube'
 
@@ -26,7 +27,11 @@ const router = new VueRouter({
 
 Vue.use(infiniteScroll)
 Vue.use(lineClamp)
+Vue.use(VueGtag, {
+  config: { id: "UA-161028342-1" }
+});
 Vue.use(VueYoutube)
+
 
 new Vue({
   router: router,
