@@ -14,7 +14,12 @@
     </div>
 
     <div v-infinite-scroll="loadMore">
-      <div v-for="row in chunkArray(visibleResults, 6)" class="search-results columns" > <div v-for="episode in row" class="search-result column is-2">
+      <div
+        v-for="row in chunkArray(visibleResults, (isMobile() ? 2 : 6))"
+        class="search-results columns is-mobile">
+        <div v-for="episode in row"
+             :class="isMobile() ? 'is-6' : 'is-2'"
+             class="search-result column">
           <a :href="'/episode/'+episode.id" clas="link">
             <figure class="image episode-cover">
               <img :src="require('@/assets/images/' + episode.image)" class="episode-image"/>
@@ -31,11 +36,13 @@
 <script>
  import debounce from 'lodash.debounce'
  import episodes from '@/data/episodes.json'
+ import IsMobile from '@/mixins/IsMobile.js'
  import Fuse from 'fuse.js';
  import TheNavbar from '@/components/TheNavbar.vue'
 
  export default {
    name: 'SearchPage',
+   mixins: [IsMobile],
    components: {
      navbar: TheNavbar,
    },
@@ -68,7 +75,7 @@
        this.loading = true
        const episodesToAdd = this.searchResults.slice(0+(18*this.page),  18+(18*this.page))
        if (episodesToAdd.length > 0) {
-        for (let episode of episodesToAdd) this.visibleResults.push(episode)
+         for (let episode of episodesToAdd) this.visibleResults.push(episode)
          this.page += 1
        }
        this.loading = false
