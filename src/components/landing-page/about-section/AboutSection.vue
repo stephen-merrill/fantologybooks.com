@@ -5,19 +5,19 @@
     <div class="container">
       <div class="columns">
         <div class="column">
-          <profile fullName="Ben Robinson" twitterUsername="BenRobinson92" image="ben-robinson.png"/>
+          <profile fullName="Ben Robinson" twitterUsername="BenRobinson92" image="ben-robinson.png" discordUsername="Wit's End"/>
         </div>
         <div class="column">
-          <profile fullName="Jake Yorgason" twitterUsername="dreamjacked" image="jake-yorgason.png"/>
+          <profile fullName="Jake Yorgason" twitterUsername="dreamjacked" image="jake-yorgason.png" discordUsername="Elder Haman"/>
         </div>
         <div class="column">
-          <profile fullName="Josh Robinson" twitterUsername="jjrobinson92" image="josh-robinson.png"/>
+          <profile fullName="Josh Robinson" twitterUsername="jjrobinson92" image="josh-robinson.png" discordUsername="Shard Observer"/>
         </div>
         <div class="column">
-          <profile fullName="Stephen Merrill" twitterUsername="ste_ph_en32" image="stephen-merrill.png"/>
+          <profile fullName="Stephen Merrill" twitterUsername="ste_ph_en32" image="stephen-merrill.png" discordUsername="Sir Savien"/>
         </div>
         <div class="column">
-          <profile fullName="Ryan Robinson" twitterUsername="RyantheTall" image="ryan-robinson.png"/>
+          <profile fullName="Ryan Robinson" twitterUsername="RyantheTall" image="ryan-robinson.png" discordUsername="Anomander Rake"/>
         </div>
       </div>
       <div class="column has-text-left-tablet">
