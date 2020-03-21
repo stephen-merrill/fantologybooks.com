@@ -31,7 +31,7 @@
           </h2>
           <br>
           <h2 class="is-size-5">
-            We ignored the over-saturated audio market of 2019 and started a podcast. We forgo the natural cadence of present locational conversation and instead video conference remotely. We bring you top-notch reviews of the swords and scrolls of nerd culture. We are Fantology.
+            We ignored the over-saturated audio market of 2019 and started a podcast. We forgo the natural cadence of present-locational conversation and instead video conference remotely. We bring you top-notch reviews of the swords and scrolls of nerd culture. We are Fantology.
           </h2>
           <h2 class="is-size-5">
             You may have heard of us.

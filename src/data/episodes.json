@@ -229,7 +229,8 @@
     "spotifyLink": "https://open.spotify.com/episode/7m5eOypHKE0mPmBAGgDvYs?si=rP8GZvw_TbqVKJdWy0rhqQ",
     "googleLink": "https://podcasts.google.com/?feed=aHR0cHM6Ly9mZWVkLnBvZGJlYW4uY29tL2ZhbnRvbG9neWJvb2tzL2ZlZWQueG1s&episode=ZmFudG9sb2d5Ym9va3MucG9kYmVhbi5jb20vZjkyNzI4NWYtNjI3OC01NTA0LWEyYmMtZjE5MTQxZTkzNDUy&ved=0CAIQkfYCahcKEwj4gtq_zZvoAhUAAAAAHQAAAAAQCw",
     "youtubeId": "WgItH5xRhhU"
-  }, "22": {
+  }, 
+  "22": {
     "author": "Robert Jordan",
     "description": "The Wheel of Time begins turning for us in our review of the first book of the series. These books are foundational in every sense of the word! Jordan built from Tolkien and then in turn has influenced the popular authors of today. Speaking of, how well does the series stand up when read 30 years after its initial publication? Plus, check out our Power Rankings of characters from the first book!",
     "id": 22,
@@ -239,5 +240,16 @@
     "spotifyLink": "https://open.spotify.com/episode/39IF14tfTh2FCpHqTDqe2A?si=GiOfoQOiR8iNs6hAPRO4pA",
     "googleLink": "https://podcasts.google.com/?feed=aHR0cHM6Ly9mZWVkcy5idXp6c3Byb3V0LmNvbS84MTAwODkucnNz&episode=ZmFudG9sb2d5Ym9va3MucG9kYmVhbi5jb20vMjUwMmY4MjUtMTg2MS01ZmRhLTk0MjctNTUyZTQzNDYxM2Mz",
     "youtubeId": "-SfMQyAiwiE"
+  }, 
+  "23": {
+    "author": "Philip Pullman",
+    "description": "A steampunk, young adult & alternative universe setting is not our usual cup of tea in a book. But here it works, and works well. The His Dark Materials series is as enticing as it is controversial, and we discuss the nature of that controversy and how it should be handled as you read. There is some deep symbolism here with meanings which may be unsettling to some readers. Plus, looking for the best way to get rich as a kid and fool your grandparents?",
+    "id": 23,
+    "title": "The Golden Compass",
+    "image": "golden-compass.png",
+    "appleLink": "https://podcasts.apple.com/us/podcast/fantology/id1489097985#episodeGuid=fantologybooks.podbean.com%2F1d51d513-ea2e-5290-ac03-44ebf3ac9b32",
+    "spotifyLink": "https://open.spotify.com/episode/49usGxbzfF0hZ8whN2CrQq?si=vBveRV7IQpONyuzBb7G4pA",
+    "googleLink": "https://podcasts.google.com/?feed=aHR0cHM6Ly9mZWVkLnBvZGJlYW4uY29tL2ZhbnRvbG9neWJvb2tzL2ZlZWQueG1s&episode=ZmFudG9sb2d5Ym9va3MucG9kYmVhbi5jb20vMWQ1MWQ1MTMtZWEyZS01MjkwLWFjMDMtNDRlYmYzYWM5YjMy",
+    "youtubeId": "1WiR2P4iNew"
   }
 }
