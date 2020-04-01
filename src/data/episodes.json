@@ -273,5 +273,16 @@
     "spotifyLink": "https://open.spotify.com/episode/011NFnlztTtJBxqrHQ0Jxl?si=oPcuRBa7T9OuUenxDto1dw",
     "googleLink": "https://podcasts.google.com/?feed=aHR0cHM6Ly9mZWVkLnBvZGJlYW4uY29tL2ZhbnRvbG9neWJvb2tzL2ZlZWQueG1s&episode=ZmFudG9sb2d5Ym9va3MucG9kYmVhbi5jb20vMWZjMDg4YTktNGQ0My01NmVjLTlkNzUtYzEzZDg2ZWY0MmEy",
     "youtubeId": "QwubQByIKbA"
+  },
+  "26": {
+    "author": "Philip Pullman",
+    "description": "The second book of His Dark Materials keeps the momentum that started The Golden Compass going strong. This series has strong, unique character voices, engaging action, and meaningful symbolism. Although it suffers a bit from the classic second \"bridge\" book phenomenon, that by no means takes away from the quality of the series. Plus, looking to say fantasy books aren't of literary note? Bring it on!",
+    "id": 26,
+    "title": "The Subtle Knife",
+    "image": "subtle-knife.png",
+    "appleLink": "https://podcasts.apple.com/us/podcast/26-the-subtle-knife/id1489097985?i=1000470196753&ls=1",
+    "spotifyLink": "https://open.spotify.com/episode/0ZrGKNZavUIXlwRLE0UREd?si=w6BEbn_OSAmZKR--oD34sw",
+    "googleLink": "https://podcasts.google.com/?feed=aHR0cHM6Ly9mZWVkLnBvZGJlYW4uY29tL2ZhbnRvbG9neWJvb2tzL2ZlZWQueG1s&episode=ZmFudG9sb2d5Ym9va3MucG9kYmVhbi5jb20vZmZjODE2N2MtZTUyYi01ZWJjLWJkNGYtYmMyODEzMmE5MTEx",
+    "youtubeId": "tLbj5bdtwwg"
   }
 }
