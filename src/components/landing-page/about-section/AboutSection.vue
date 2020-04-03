@@ -5,19 +5,34 @@
     <div class="container">
       <div class="columns">
         <div class="column">
-          <profile fullName="Ben Robinson" twitterUsername="BenRobinson92" image="ben-robinson.png" discordUsername="Wit's End"/>
+          <profile fullName="Ben Robinson" twitterUsername="BenRobinson92" image="ben-robinson.png"/> <br>        
+          <a href="https://discordapp.com/invite/k5efNbG">
+            <i class="fab fa-lg fa-discord"></i> Wit's End
+          </a>
         </div>
         <div class="column">
-          <profile fullName="Jake Yorgason" twitterUsername="dreamjacked" image="jake-yorgason.png" discordUsername="Elder Haman"/>
+          <profile fullName="Jake Yorgason" twitterUsername="dreamjacked" image="jake-yorgason.png"/> <br>        
+          <a href="https://discordapp.com/invite/k5efNbG">
+            <i class="fab fa-lg fa-discord"></i> Elder Haman
+          </a>
         </div>
         <div class="column">
-          <profile fullName="Josh Robinson" twitterUsername="jjrobinson92" image="josh-robinson.png" discordUsername="Shard Observer"/>
+          <profile fullName="Josh Robinson" twitterUsername="jjrobinson92" image="josh-robinson.png"/> <br>        
+          <a href="https://discordapp.com/invite/k5efNbG">
+            <i class="fab fa-lg fa-discord"></i> Shard Observer
+          </a>
         </div>
         <div class="column">
-          <profile fullName="Stephen Merrill" twitterUsername="ste_ph_en32" image="stephen-merrill.png" discordUsername="Sir Savien"/>
+          <profile fullName="Stephen Merrill" twitterUsername="ste_ph_en32" image="stephen-merrill.png"/> <br>        
+          <a href="https://discordapp.com/invite/k5efNbG">
+            <i class="fab fa-lg fa-discord"></i> Sir Savien
+          </a>
         </div>
         <div class="column">
-          <profile fullName="Ryan Robinson" twitterUsername="RyantheTall" image="ryan-robinson.png" discordUsername="Anomander Rake"/>
+          <profile fullName="Ryan Robinson" twitterUsername="RyantheTall" image="ryan-robinson.png"/> <br>        
+          <a href="https://discordapp.com/invite/k5efNbG">
+            <i class="fab fa-lg fa-discord"></i> Anomander Rake
+          </a>
         </div>
       </div>
       <div class="column has-text-left-tablet">

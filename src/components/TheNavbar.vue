@@ -70,6 +70,12 @@
           </span>
           <span v-if="isMobile()">Google</span>
         </a>
+        <a class="navbar-item social-links" href="https://www.patreon.com/fantology_books">
+          <span class="icon is-medium">
+            <i class="fab fa-lg fa-patreon"></i>
+          </span>
+          <span v-if="isMobile()">Patreon</span>
+        </a>
         <a class="navbar-item social-links" href="https://discordapp.com/invite/k5efNbG">
           <span class="icon is-medium">
             <i class="fab fa-lg fa-discord"></i>
@@ -87,6 +93,12 @@
             <i class="fab fa-lg fa-facebook"></i>
           </span>
           <span v-if="isMobile()">Facebook</span>
+        </a>
+        <a class="navbar-item social-links" href="https://www.instagram.com/fantology_books/">
+          <span class="icon is-medium">
+            <i class="fab fa-lg fa-instagram"></i>
+          </span>
+          <span v-if="isMobile()">Instagram</span>
         </a>
         <div v-if="!isMobile()" class="navbar-item field">
           <p class="control has-icons-right">

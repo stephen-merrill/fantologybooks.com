@@ -4,8 +4,7 @@
       <img :src="require('@/assets/images/' + image)" />
     </figure>
     {{ fullName }} <br>
-    <i class="fab fa-lg fa-twitter"></i> {{ twitterUsername  }} <br>
-    <i class="fab fa-lg fa-discord"></i> {{ discordUsername  }} 
+    <i class="fab fa-lg fa-twitter"></i> {{ twitterUsername  }}
   </a>
 </template>
 
@@ -22,10 +21,6 @@
        required: true
      },
      twitterUsername: {
-       type: String,
-       required: true
-     }, 
-     discordUsername: {
        type: String,
        required: true
      }
