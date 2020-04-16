@@ -5,34 +5,19 @@
     <div class="container">
       <div class="columns">
         <div class="column">
-          <profile fullName="Ben Robinson" twitterUsername="BenRobinson92" image="ben-robinson.png"/> <br>        
-          <a href="https://discordapp.com/invite/k5efNbG">
-            <i class="fab fa-lg fa-discord"></i> Wit's End
-          </a>
+          <profile fullName="Ben Robinson" twitterUsername="BenRobinson92" image="ben-robinson.png" discordUsername="Wit's End"/> <br>
         </div>
         <div class="column">
-          <profile fullName="Jake Yorgason" twitterUsername="dreamjacked" image="jake-yorgason.png"/> <br>        
-          <a href="https://discordapp.com/invite/k5efNbG">
-            <i class="fab fa-lg fa-discord"></i> Elder Haman
-          </a>
+          <profile fullName="Jake Yorgason" twitterUsername="dreamjacked" image="jake-yorgason.png" discordUsername="Elder Haman"/> <br>
         </div>
         <div class="column">
-          <profile fullName="Josh Robinson" twitterUsername="jjrobinson92" image="josh-robinson.png"/> <br>        
-          <a href="https://discordapp.com/invite/k5efNbG">
-            <i class="fab fa-lg fa-discord"></i> Shard Observer
-          </a>
+          <profile fullName="Josh Robinson" twitterUsername="jjrobinson92" image="josh-robinson.png" discordUsername="Shard Observer"/> <br>
         </div>
         <div class="column">
-          <profile fullName="Stephen Merrill" twitterUsername="ste_ph_en32" image="stephen-merrill.png"/> <br>        
-          <a href="https://discordapp.com/invite/k5efNbG">
-            <i class="fab fa-lg fa-discord"></i> Sir Savien
-          </a>
+          <profile fullName="Stephen Merrill" twitterUsername="ste_ph_en32" image="stephen-merrill.png" discordUsername="Sir Savien"/> <br>
         </div>
         <div class="column">
-          <profile fullName="Ryan Robinson" twitterUsername="RyantheTall" image="ryan-robinson.png"/> <br>        
-          <a href="https://discordapp.com/invite/k5efNbG">
-            <i class="fab fa-lg fa-discord"></i> Anomander Rake
-          </a>
+          <profile fullName="Ryan Robinson" twitterUsername="RyantheTall" image="ryan-robinson.png" discordUsername="Anomander Rake"/> <br>
         </div>
       </div>
       <div class="column has-text-left-tablet">
@@ -68,14 +53,6 @@
 </script>
 
 <style lang="scss" scoped>
- a {
-   cursor: pointer;
-   color: white;
- }
- a:hover {
-   text-decoration:none;
-   text-shadow: 1px 1px 1px #555;
- }
  .about-container {
    margin-top: 8px;
    margin-bottom: 64px;
