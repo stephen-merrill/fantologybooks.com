@@ -12,9 +12,9 @@
           <h1 class="subtitle">
             #{{  episode.id }} {{ episode.title }}
           </h1>
-          <h2 class="is-size-5">
+          <div class="is-size-5">
             {{ episode.description }}
-          </h2>
+          </div>
           <div class="columns is-12 links is-mobile">
             <div class="column is-4">
               <secondary-button

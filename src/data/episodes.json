@@ -394,5 +394,16 @@
     "spotifyLink": "https://open.spotify.com/episode/6Jycd1fqwadxkpytVmYgZQ?si=Y0V_kSOSRjq3tEQ5sffJrg",
     "googleLink": "https://podcasts.google.com/?feed=aHR0cHM6Ly9mZWVkLnBvZGJlYW4uY29tL2ZhbnRvbG9neWJvb2tzL2ZlZWQueG1s&ep=14&episode=ZmFudG9sb2d5Ym9va3MucG9kYmVhbi5jb20vN2ZmNGRhNGItZWQ3Yi01M2FhLThlY2YtMDk0M2EzYmVmMmE1",
     "youtubeId": "fC9r_hY6DaQ"
+  },
+  "37": {
+    "author": "J.K. Rowling",
+    "description": "Dan & Nathan are back to chat with Stephen and break down the minutiae of the Harry Potter-verse. Apologies for the significant audio issues, some hexes are so strong that not even post-production editing can fix them! However, persevere and listen to our takes on Lockhart, Quidditch broom imbalance, Ron's broken wand and the state of house elf affairs. Plus, Stephen's strange connection to de-gnoming.",
+    "id": 37,
+    "title": "Harry Potter And The Chamber Of Secrets",
+    "image": "hp2.png",
+    "appleLink": "https://podcasts.apple.com/us/podcast/37-harry-potter-and-the-chamber-of-secrets/id1489097985?i=1000474243072&ls=1",
+    "spotifyLink": "https://open.spotify.com/episode/68202dP5eaeg3KxVi80XTW?si=RKTQepcNSeCFshyS8h8_JQ",
+    "googleLink": "https://podcasts.google.com/?feed=aHR0cHM6Ly9mZWVkLnBvZGJlYW4uY29tL2ZhbnRvbG9neWJvb2tzL2ZlZWQueG1s&ep=14&episode=ZmFudG9sb2d5Ym9va3MucG9kYmVhbi5jb20vZTM5ODQyZmItMmQ2MS01Njc2LTk1MDMtNmUwMmI3ZjQ5NmZl",
+    "youtubeId": "h8UmyfSB6Sk"
   }
 }
