@@ -18,40 +18,40 @@
                 Listen to our most recent episode, and let us know what you think.
               </h3>
               <h4 v-if="!isMobile()" class="is-size-5">
-                Join us on our discord server after checking out our latest podcast on your favorite app.
+                <span class="bold-wording">Join us on our discord server</span> after checking out our latest podcast on your favorite app.
               </h4>
             </div>
           </div>
           <div class="columns is-12">
-            <div class="column is-6">
+            <div class="column is-7">
               <a href="https://discordapp.com/invite/k5efNbG">
-                <button class="button is-primary is-fullwidth">
-                  <span class="icon is-medium">
-                    <i class="fab fa-lg fa-discord"></i>
-                  </span>
-                  <span>Join The Community</span>
-                </button>
+                <figure class="image is-rectangle">
+                  <img src="@/assets/images/discord-badge-purple.png" />
+                </figure>
               </a>
             </div>
           </div>
           <div class="columns is-12 is-mobile">
             <div class="column is-4">
-              <secondary-button
-                :href="episode.appleLink"
-                icon="fab fa-lg fa-apple"
-                text="Apple"/>
+              <a :href="episode.appleLink">
+                <figure class="image is-rectangle">
+                  <img src="@/assets/images/apple-badge.svg" />
+                </figure>
+              </a>
             </div>
             <div class="column is-4">
-              <secondary-button
-                :href="episode.spotifyLink"
-                icon="fab fa-lg fa-spotify"
-                text="Spotify"/>
+              <a :href="episode.spotifyLink">
+                <figure class="image is-rectangle">
+                  <img src="@/assets/images/spotify-badge.svg" />
+                </figure>
+              </a>
             </div>
             <div class="column is-4">
-              <secondary-button
-                :href="episode.googleLink"
-                icon="fab fa-lg fa-google"
-                text="Google"/>
+              <a :href="episode.googleLink">
+                <figure class="image is-rectangle">
+                  <img src="@/assets/images/google-badge.png" />
+                </figure>
+              </a>
             </div>
           </div>
         </div>

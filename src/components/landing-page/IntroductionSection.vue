@@ -13,7 +13,7 @@
                   A podcast about your favorite fantasy books.
                 </h1>
                 <h2 class="subtitle">
-                  Welcome to Fantology.
+                  <span class="bold-wording">Welcome to Fantology.</span>
                 </h2>
               </div>
               <div v-else>
@@ -22,28 +22,30 @@
                 </h2>
               </div>
               <div class="columns is-12">
-                <div class="column is-6">
+                <!--<div class="column is-6">
                   <a href="#listen-now">
                     <button class="button is-primary is-fullwidth">Listen Now</button>
                   </a>
-                </div>
+                </div>-->
               </div>
               <div class="columns is-12 is-mobile">
                 <div
-                  :class="isMobile() ? '' : 'is-3'"
+                  :class="isMobile() ? '' : 'is-5'"
                   class="column">
-                  <secondary-button
-                    href="https://podcasts.apple.com/us/podcast/id1489097985"
-                    icon="fab fa-lg fa-apple"
-                    text="Apple"/>
+                  <a href="https://podcasts.apple.com/us/podcast/id1489097985">
+                    <figure class="image is-rectangle">
+                      <img src="@/assets/images/apple-badge.svg" />
+                    </figure>
+                  </a>
                 </div>
                 <div
-                  :class="isMobile() ? '' : 'is-3'"
+                  :class="isMobile() ? '' : 'is-5'"
                   class="column">
-                  <secondary-button
-                    href="https://open.spotify.com/show/310DLxDRkTdam3fMcQtMCR?si=_4Wk59U5TWWdF19h5STreg"
-                    icon="fab fa-lg fa-spotify"
-                    text="Spotify"/>
+                  <a href="https://open.spotify.com/show/310DLxDRkTdam3fMcQtMCR?si=_4Wk59U5TWWdF19h5STreg">
+                    <figure class="image is-rectangle">
+                      <img src="@/assets/images/spotify-badge.svg" />
+                    </figure>
+                  </a>
                 </div>
               </div>
             </div>

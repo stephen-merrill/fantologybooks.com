@@ -17,22 +17,25 @@
           </div>
           <div class="columns is-12 links is-mobile">
             <div class="column is-4">
-              <secondary-button
-                :href="episode.appleLink"
-                icon="fab fa-lg fa-apple"
-                text="Apple"/>
+              <a :href="episode.appleLink">
+                <figure class="image is-rectangle">
+                  <img src="@/assets/images/apple-badge.svg" />
+                </figure>
+              </a>
             </div>
             <div class="column is-4">
-              <secondary-button
-                :href="episode.spotifyLink"
-                icon="fab fa-lg fa-spotify"
-                text="Spotify"/>
+              <a :href="episode.spotifyLink">
+                <figure class="image is-rectangle">
+                  <img src="@/assets/images/spotify-badge.svg" />
+                </figure>
+              </a>
             </div>
             <div class="column is-4">
-              <secondary-button
-                :href="episode.googleLink"
-                icon="fab fa-lg fa-google"
-                text="Google"/>
+              <a :href="episode.googleLink">
+                <figure class="image is-rectangle">
+                  <img src="@/assets/images/google-badge.png" />
+                </figure>
+              </a>
             </div>
           </div>
         </div>
