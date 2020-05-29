@@ -44,7 +44,7 @@
     "youtubeId": "zGwejsGJQTo"
   },
   "5": {
-    "author": "",
+    "author": "Netflix",
     "description": "I took a break from the books to watch Netflix's The Witcher. This review is from a book reader's perspective - and I'm happy to report it's a solid show that should have us all excited for the future of fantasy books coming to the small screen.",
     "id": 5,
     "title": "The Witcher Season 1",
@@ -449,5 +449,16 @@
     "spotifyLink": "https://open.spotify.com/episode/4dZNlsyh6Cg9KUUd9nDpDf?si=O8oNHnkfQwaa_ohlZMf1nA",
     "googleLink": "https://podcasts.google.com/?feed=aHR0cHM6Ly9mZWVkLnBvZGJlYW4uY29tL2ZhbnRvbG9neWJvb2tzL2ZlZWQueG1s&ep=14&episode=ZmFudG9sb2d5Ym9va3MucG9kYmVhbi5jb20vMWM1NTUyODMtYWVlMS01YzA4LWI0ZmMtOGFkNDFkYmNkMjI4",
     "youtubeId": "NyjlfC30Cfo"
+  },
+  "42": {
+    "author": "HBO",
+    "description": "HBO's adaptation of Philip Pullman's His Dark Materials got off to a fantastic start with a strong first season. Tune in as Josh and Stephen offer their opinions and reviews. The acting was memorable, the setting and filming was breathtaking and the budgeting was more than adequate! It's not Game of Thrones, but it's not intended to be. Instead the show was magnificent in its own right. Plus, the Lin-Manuel dream cast in the Kingkiller Chronicles TV show - who would he play?",
+    "id": 42,
+    "title": "His Dark Materials Season One",
+    "image": "hdm-s1.png",
+    "appleLink": "https://podcasts.apple.com/us/podcast/42-his-dark-materials-season-one/id1489097985?i=1000476175390&ls=1",
+    "spotifyLink": "https://open.spotify.com/episode/31HwSmKuEbPOs5Jb5zmqeK?si=pc0ZHAsQSo2rJwQGDvCYzw",
+    "googleLink": "https://podcasts.google.com/?feed=aHR0cHM6Ly9mZWVkLnBvZGJlYW4uY29tL2ZhbnRvbG9neWJvb2tzL2ZlZWQueG1s&ep=14&episode=ZmFudG9sb2d5Ym9va3MucG9kYmVhbi5jb20vNjBkYmE1YTctYTVkMi01ZjYxLWI4ODEtOTE5OWE1YjAwMjNi",
+    "youtubeId": "fw6GjsqjQQ4"
   }
 }
