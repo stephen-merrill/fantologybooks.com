@@ -82,6 +82,12 @@
           </span>
           <span v-if="isMobile()">Discord</span>
         </a>
+        <a class="navbar-item social-links" href="https://shop.spreadshirt.com/fantology/">
+          <span class="icon is-medium">
+            <i class="fab fa-lg fa-shirtsinbulk"></i>
+          </span>
+          <span v-if="isMobile()">Merch</span>
+        </a>
         <a class="navbar-item social-links" href="https://twitter.com/fantology_books">
           <span class="icon is-medium">
             <i class="fab fa-lg fa-twitter"></i>
