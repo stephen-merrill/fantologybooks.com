@@ -581,5 +581,16 @@
     "spotifyLink": "https://open.spotify.com/episode/3PVD2O19rrZQ2B5JlygxTp?si=1HzWE6xKQuGe31mwgBJmvw",
     "googleLink": "https://podcasts.google.com/?feed=aHR0cHM6Ly9mZWVkLnBvZGJlYW4uY29tL2ZhbnRvbG9neWJvb2tzL2ZlZWQueG1s&ep=14&episode=ZmFudG9sb2d5Ym9va3MucG9kYmVhbi5jb20vYmQ3MmVjNDAtNWI0Mi01ODA5LTllYmUtYTdmM2FiN2ZiMDFk",
     "youtubeId": "8DyohGDq3w4"
+  },
+  "54": {
+    "author": "Anthony Ryan",
+    "description": "A Hero's Journey Podcast joined us to review Anthony Ryan's debut entry, Blood Song. This one features quite the hero protagonist in Vaelin Al Sorna - not someone you'd ever want to cross blades with. We break down Vaelin's story, discuss where the series is going from here and recap our favorite moments from the book. Plus, what's the better comparison here: Name of the Wind or A Song of Ice and Fire?",
+    "id": 54,
+    "title": "Blood Song",
+    "image": "bloodsong.png",
+    "appleLink": "https://podcasts.apple.com/us/podcast/54-blood-song-ft-a-heros-journey/id1489097985?i=1000485270651&ls=1",
+    "spotifyLink": "https://open.spotify.com/episode/6LLDcfNgEBDFwWEsEOQOtg?si=ODXWEqUVRtaClHn7aOyulg",
+    "googleLink": "https://podcasts.google.com/?feed=aHR0cHM6Ly9mZWVkLnBvZGJlYW4uY29tL2ZhbnRvbG9neWJvb2tzL2ZlZWQueG1s&ep=14&episode=ZmFudG9sb2d5Ym9va3MucG9kYmVhbi5jb20vZGI0ZDRlM2EtYTYxMS01NGM0LWI3N2QtNjIyMWMzNTE2YjY2",
+    "youtubeId": "JRiu3Ga9LKE"
   }
 }
