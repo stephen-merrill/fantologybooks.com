@@ -592,5 +592,16 @@
     "spotifyLink": "https://open.spotify.com/episode/6LLDcfNgEBDFwWEsEOQOtg?si=ODXWEqUVRtaClHn7aOyulg",
     "googleLink": "https://podcasts.google.com/?feed=aHR0cHM6Ly9mZWVkLnBvZGJlYW4uY29tL2ZhbnRvbG9neWJvb2tzL2ZlZWQueG1s&ep=14&episode=ZmFudG9sb2d5Ym9va3MucG9kYmVhbi5jb20vZGI0ZDRlM2EtYTYxMS01NGM0LWI3N2QtNjIyMWMzNTE2YjY2",
     "youtubeId": "JRiu3Ga9LKE"
+  },
+  "55": {
+    "author": "Jim Butcher",
+    "description": "Mike's Book Reviews joins us for our review of the latest and greatest Dresden Files entry from Jim Butcher. Still fresh of the press from its release last week, Peace Talks has been somewhat divisive amongst the fanbase, with the consensus being that we'll need to wait for the follow-up entry in a couple months before a fair assessment can be made. Join us for an entertaining conversation as we break down the plot and discuss our opinions of Peace Talks! Plus, name your favorite Cheerio box Twitch streamer!",
+    "id": 55,
+    "title": "Peace Talks",
+    "image": "peace-talks.png",
+    "appleLink": "https://podcasts.apple.com/us/podcast/55-peace-talks-ft-mikes-book-reviews/id1489097985?i=1000485605105&ls=1",
+    "spotifyLink": "https://open.spotify.com/episode/06CRcWdgCswjT2AuGsGnnd?si=14TPRAA4QdeMCeLuuTvRVA",
+    "googleLink": "https://podcasts.google.com/?feed=aHR0cHM6Ly9mZWVkLnBvZGJlYW4uY29tL2ZhbnRvbG9neWJvb2tzL2ZlZWQueG1s&ep=14&episode=ZmFudG9sb2d5Ym9va3MucG9kYmVhbi5jb20vMDM5YTliYzctNjIxYS0zNGVhLTllZGQtMDBiNjM2YzljMjNk",
+    "youtubeId": "7hLMtTaWUsM"
   }
 }
