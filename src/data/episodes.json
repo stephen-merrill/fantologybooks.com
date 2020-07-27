@@ -506,7 +506,7 @@
     "youtubeId": "9emI2bNMy6Y"
   },
   "47": {
-    "author": "JK Rowling",
+    "author": "J.K. Rowling",
     "description": "Harry Potter And The Prisoner Of Azkaban doesn't feature Voldemort, and we're okay with that because Sirius Black is a compelling enough villain in his own right (or is he?). Dan, Nathan & Stephen have opinions on this and every other aspect of the book, from usefulness of boggart banishing to all-time greatest Quidditch teams and everything in between. Relive book three with us! Plus, will Nathan ever move past his hatred of Ronald Weasley?",
     "id": 47,
     "title": "Harry Potter & The Prisoner Of Azkaban",
@@ -614,5 +614,16 @@
     "spotifyLink": "https://open.spotify.com/episode/3izK3NrNuftkpfHlKNeTLy?si=u8KKUtUhS-aPLfUqhHPJdw",
     "googleLink": "https://podcasts.google.com/?feed=aHR0cHM6Ly9mZWVkLnBvZGJlYW4uY29tL2ZhbnRvbG9neWJvb2tzL2ZlZWQueG1s&ep=14&episode=ZmFudG9sb2d5Ym9va3MucG9kYmVhbi5jb20vYWY4NTQzZTItMTA0ZS0zMDY2LWI4MzUtNTVlMWIyNDBmYWE1",
     "youtubeId": "LqYxRBeHcA8"
+  },  
+  "57": {
+    "author": "J.K. Rowling",
+    "description": "Voldemort is back and so are Dan and Nathan to discuss Harry Potter and the Goblet of Fire, the book that forever changed the landscape of the wizarding world. Join us as we discuss the organization of the Triwizard Tournament, the Bulgarian Quidditch strategy and the losers at the Yule Ball. Also, was Cho Chang really the hostage Harry should have rescued?",
+    "id": 57,
+    "title": "Harry Potter and the Goblet of Fire",
+    "image": "hp4.png",
+    "appleLink": "https://podcasts.apple.com/us/podcast/57-harry-potter-and-the-goblet-of-fire/id1489097985?i=1000486260928&ls=1",
+    "spotifyLink": "https://open.spotify.com/episode/1aCKcNRrIZ3TB84FGuRlWi?si=Yuc_mpX6QIGJmwGZ8KyYRQ",
+    "googleLink": "https://podcasts.google.com/?feed=aHR0cHM6Ly9mZWVkLnBvZGJlYW4uY29tL2ZhbnRvbG9neWJvb2tzL2ZlZWQueG1s&ep=14&episode=ZmFudG9sb2d5Ym9va3MucG9kYmVhbi5jb20vY2RjOTk2M2UtMDk5YS0zN2NmLWFhMTctMDBlZjMzZTFhNjE4",
+    "youtubeId": "zkUQXH6Ii8o"
   }
 }
