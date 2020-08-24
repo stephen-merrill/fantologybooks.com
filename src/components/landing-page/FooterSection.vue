@@ -14,7 +14,7 @@
             <div class="subtitle">Contact Us</div>
             <div class="link"><a href="https://www.patreon.com/fantology_books">Patreon</a></div>
             <div class="link"><a href="https://discordapp.com/invite/k5efNbG">Discord</a></div>
-            <div class="link"><a href="https://shop.spreadshirt.com/fantology/">Merch</a></div>
+            <div class="link"><a href="https://www.redbubble.com/people/fantology/shop">Merch</a></div>
             <div class="link"><a href="https://twitter.com/fantology_books">Twitter</a></div>
             <div class="link"><a href="https://www.facebook.com/fantologybooks/">Facebook</a></div>
             <div class="link"><a href="https://www.instagram.com/fantology_books/">Instagram</a></div>

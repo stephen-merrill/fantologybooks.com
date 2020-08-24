@@ -694,7 +694,7 @@
   },
   "64": {
     "author": "Nickelodeon",
-    "description": "Join Josh and a special guest start team and follow along the journey of Team Avatar! If you are on the fence about watching the show, listen to the first section to get a spoiler free description of why you should watch. If you are a long time fan stick around to hear our thoughts about the fun, emotional, and at times wacky ride that is Avatar: The Last Airbender",
+    "description": "Join Josh and a special guest star team and follow along the journey of Team Avatar! If you are on the fence about watching the show, listen to the first section to get a spoiler free description of why you should watch. If you are a long time fan stick around to hear our thoughts about the fun, emotional, and at times wacky ride that is Avatar: The Last Airbender",
     "id": 64,
     "title": "Avatar: The Last Airbender",
     "image": "avatar.png",
@@ -702,5 +702,16 @@
     "spotifyLink": "https://open.spotify.com/episode/1BOuPsIw7xYREneDfAzcAm?si=JJroEN38Qqi_sTAAd_on-g",
     "googleLink": "https://podcasts.google.com/?feed=aHR0cHM6Ly9mZWVkLnBvZGJlYW4uY29tL2ZhbnRvbG9neWJvb2tzL2ZlZWQueG1s&ep=14&episode=ZmFudG9sb2d5Ym9va3MucG9kYmVhbi5jb20vYmJhZmYwZjQtNWIzZC0zYTc5LTk2MzUtNjNlZDdlYzliNDE5",
     "youtubeId": "jMw9LuGdAFc"
+  },
+  "65": {
+    "author": "Jim Butcher",
+    "description": "Jim Butcher has hit his stride and more in Turn Coat, a masterpiece entry in the Dresden Files. Harry is once again donning his PI role, but the stakes have never been higher, and a full-scale war is on the horizon. Can we blame this all on Craigslist? Plus, check back soon for Surface Level Dresden Files Podcast's review of Animorphs!",
+    "id": 65,
+    "title": "Turn Coat",
+    "image": "turn-coat.png",
+    "appleLink": "https://podcasts.apple.com/us/podcast/65-turn-coat/id1489097985?i=1000488994662&ls=1",
+    "spotifyLink": "https://open.spotify.com/episode/5CtlsMSxz27anmq79Um9nb?si=iyXpzFFVTE28gpzAg2rFZw",
+    "googleLink": "https://podcasts.google.com/?feed=aHR0cHM6Ly9mZWVkLnBvZGJlYW4uY29tL2ZhbnRvbG9neWJvb2tzL2ZlZWQueG1s&ep=14&episode=ZmFudG9sb2d5Ym9va3MucG9kYmVhbi5jb20vZWNmNDczNjUtZTVkYy0zNjFlLWE0NWUtZGU4ZjI5OTcwZWI5",
+    "youtubeId": "977HYJqWpmg"
   }
 }
