@@ -8,7 +8,7 @@
         <div v-if="isMobile()" class="column">
           <youtube-player :id="episode.youtubeId"/>
         </div>
-        <div class="column is-4 is-offset-2">
+        <div class="column is-4 is-offset-0">
           <h1 class="subtitle">
             #{{  episode.id }} {{ episode.title }}
           </h1>

@@ -14,7 +14,7 @@
           <profile fullName="Josh Robinson" twitterUsername="jjrobinson92" image="josh-robinson.png" discordUsername="Shard Observer"/> <br>
         </div>
         <div class="column">
-          <profile fullName="Stephen Merrill" twitterUsername="ste_ph_en32" image="stephen-merrill.png" discordUsername="Sir Savien"/> <br>
+          <profile fullName="Stephen Merrill" twitterUsername="ste_ph_en32" image="stephen-avatar.png" discordUsername="Sir Savien"/> <br>
         </div>
         <div class="column">
           <profile fullName="Ryan Robinson" twitterUsername="RyantheTall" image="ryan-robinson.png" discordUsername="Anomander Rake"/> <br>

@@ -1,6 +1,6 @@
 <template>
   <youtube v-if="isMobile()" :video-id="id" ref="youtube" :width="getWidth()" ></youtube>
-  <youtube v-else :video-id="id" ref="youtube" :width="550" :height="450"></youtube>
+  <youtube v-else :video-id="id" ref="youtube" :width="700" :height="400"></youtube>
 </template>
 
 <script>
