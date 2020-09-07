@@ -735,5 +735,27 @@
     "spotifyLink": "https://open.spotify.com/episode/0Pgpt9Eg2phLy2Enkn8ave?si=dlP7ldA6TsmpJOut77KZ_Q",
     "googleLink": "https://podcasts.google.com/?feed=aHR0cHM6Ly9mZWVkLnBvZGJlYW4uY29tL2ZhbnRvbG9neWJvb2tzL2ZlZWQueG1s&ep=14&episode=ZmFudG9sb2d5Ym9va3MucG9kYmVhbi5jb20vMDNjODc0ZWUtYTU1NS0zY2UwLTg5OGYtMWI0MzgzMjQ3ZmQ1",
     "youtubeId": "GQvcCQc-Un4"
+  },
+  "68": {
+    "author": "Fantology",
+    "description": "The full Fantology crew is here for this special monthly episode. Missed something in August? We have you covered with our fantasy news roundup. Plus, our top three fantasy artifacts competition begins soon! Here's our favorite artifacts - we'd love to hear about yours! Please submit your favorites on Twitter!",
+    "id": 68,
+    "title": "August Fantasy News + Top 3 Fantasy Artifacts",
+    "image": "august.png",
+    "appleLink": "https://podcasts.apple.com/us/podcast/68-august-fantasy-news-top-3-fantasy-artifacts/id1489097985?i=1000490074232&ls=1",
+    "spotifyLink": "https://open.spotify.com/episode/5n2UP3lPGFdFljwzkUMCGc?si=Qai9vVqCRvuWfjcCd_D9PQ",
+    "googleLink": "https://podcasts.google.com/?feed=aHR0cHM6Ly9mZWVkLnBvZGJlYW4uY29tL2ZhbnRvbG9neWJvb2tzL2ZlZWQueG1s&ep=14&episode=ZmFudG9sb2d5Ym9va3MucG9kYmVhbi5jb20vY2E5ZTljZDctMTkwMS0zZTI3LTkyY2YtZjc2YzcxOWRlMmEw",
+    "youtubeId": "YoyyqZ1Y5OA"
+  },
+  "69": {
+    "author": "Jim Butcher",
+    "description": "Jim Butcher's lucky 13th Dresden Files novel is one of the more divisive entries to the series. But love it or hate it, you can't deny that Ghost Story contains a hauntingly intriguing setting and the perfect emotional backdrop as the series resets itself and begins to transform from urban to epic fantasy.",
+    "id": 69,
+    "title": "Ghost Story",
+    "image": "ghost-story.png",
+    "appleLink": "https://podcasts.apple.com/us/podcast/69-ghost-story/id1489097985?i=1000490355654&ls=1",
+    "spotifyLink": "https://open.spotify.com/episode/64Zjl6xVis2stHQamdKbzN?si=2MxQJ7IcQFWEpmQr8YPQAQ",
+    "googleLink": "https://podcasts.google.com/?feed=aHR0cHM6Ly9mZWVkLnBvZGJlYW4uY29tL2ZhbnRvbG9neWJvb2tzL2ZlZWQueG1s&ep=14&episode=ZmFudG9sb2d5Ym9va3MucG9kYmVhbi5jb20vYmY4MWQ2MjgtZTNjZS0zNWVlLWEyZTQtNjIxYWJhZWRlY2Rm",
+    "youtubeId": "mVZoZXjmR_Q"
   }
 }
