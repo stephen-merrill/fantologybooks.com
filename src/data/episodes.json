@@ -790,5 +790,16 @@
     "spotifyLink": "https://open.spotify.com/episode/0Pf4aH8mbNQmvNXFh6nHCA?si=MJFByPK1TJ254X9_4VqgEg",
     "googleLink": "https://podcasts.google.com/?feed=aHR0cHM6Ly9mZWVkLnBvZGJlYW4uY29tL2ZhbnRvbG9neWJvb2tzL2ZlZWQueG1s&ep=14&episode=ZmFudG9sb2d5Ym9va3MucG9kYmVhbi5jb20vYmVhZjZjZTMtMTM3YS0zNDAwLTk1YjYtMTIxYWE2MzNkMmQz",
     "youtubeId": "elmB45Sulu4"
+  },
+  "73": {
+    "author": "JK Rowling",
+    "description": "The longest Harry Potter book earns itself in-depth coverage from Dan, Nathan & Stephen. Which Hogwarts professors have the most swag? Where did Harry & Cho go wrong? Could Fred & George be any cooler? All these questions answered, plus more!",
+    "id": 73,
+    "title": "Harry Potter And The Order Of The Phoenix",
+    "image": "order-phoenix.png",
+    "appleLink": "https://podcasts.apple.com/us/podcast/73-harry-potter-and-the-order-of-the-phoenix/id1489097985?i=1000491983245&ls=1",
+    "spotifyLink": "https://open.spotify.com/episode/5lnP6HzYhHeunUrRSdXgh1?si=tWQruE-9RpmPjZ0sUqqvFA",
+    "googleLink": "https://podcasts.google.com/?feed=aHR0cHM6Ly9mZWVkLnBvZGJlYW4uY29tL2ZhbnRvbG9neWJvb2tzL2ZlZWQueG1s&ep=14&episode=ZmFudG9sb2d5Ym9va3MucG9kYmVhbi5jb20vMjJjYmQ1MDItZjI4ZS0zMWQ1LWEyZTAtMmZlZWEwOWRhNzM3",
+    "youtubeId": "J9owEUCNKbs"
   }
 }
