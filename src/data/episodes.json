@@ -801,5 +801,27 @@
     "spotifyLink": "https://open.spotify.com/episode/5lnP6HzYhHeunUrRSdXgh1?si=tWQruE-9RpmPjZ0sUqqvFA",
     "googleLink": "https://podcasts.google.com/?feed=aHR0cHM6Ly9mZWVkLnBvZGJlYW4uY29tL2ZhbnRvbG9neWJvb2tzL2ZlZWQueG1s&ep=14&episode=ZmFudG9sb2d5Ym9va3MucG9kYmVhbi5jb20vMjJjYmQ1MDItZjI4ZS0zMWQ1LWEyZTAtMmZlZWEwOWRhNzM3",
     "youtubeId": "J9owEUCNKbs"
+  },
+  "74": {
+    "author": "Jim Butcher",
+    "description": "Skin Game is Jim Butcher's Dresden Files heist story - and does he ever go all in! Harry is tasked with robbing no less than the vault of Hades itself, with some questionable allies to boot. Tune in to hear how it works out for him! Plus, is parkour still cool? Was it ever?",
+    "id": 74,
+    "title": "Skin Game",
+    "image": "skin-game.png",
+    "appleLink": "https://podcasts.apple.com/us/podcast/74-skin-game/id1489097985?i=1000492506412&ls=1",
+    "spotifyLink": "https://open.spotify.com/episode/2WhQXBk3QS9mwNrBowSwmE?si=M_nKVRpgR7SXltv-PC32fg",
+    "googleLink": "https://podcasts.google.com/?feed=aHR0cHM6Ly9mZWVkLnBvZGJlYW4uY29tL2ZhbnRvbG9neWJvb2tzL2ZlZWQueG1s&ep=14&episode=ZmFudG9sb2d5Ym9va3MucG9kYmVhbi5jb20vYzcyMmI1ZDgtMDkyNi0zNDdjLTgwY2MtZjNhNWRlYWVmNjEw",
+    "youtubeId": "_Ns1tnETTR8"
+  },
+  "75": {
+    "author": "Joe Abercrombie",
+    "description": "It should be no surprise for fans of Joe Abercrombie that peace is a troubling phenomenon. Mike's Book Reviews joins Ryan & Stephen to break down the latest hit entry to the First Law universe and explain exactly why we just cannot stand for peace! We talk favorite characters, big plot events and speculation for the final entry in The Age of Madness Trilogy! Plus, the troubling plight of the fantasy book content creator!",
+    "id": 75,
+    "title": "The Trouble With Peace",
+    "image": "trouble-peace.png",
+    "appleLink": "https://podcasts.apple.com/us/podcast/75-the-trouble-with-peace-ft-mikes-book-reviews/id1489097985?i=1000492807476&ls=1",
+    "spotifyLink": "https://open.spotify.com/episode/0Prvr6hpcVzXHBlMStqQ5Y?si=KF0Er-4_SfugIw5abUEoAQ",
+    "googleLink": "https://podcasts.google.com/?feed=aHR0cHM6Ly9mZWVkLnBvZGJlYW4uY29tL2ZhbnRvbG9neWJvb2tzL2ZlZWQueG1s&ep=14&episode=ZmFudG9sb2d5Ym9va3MucG9kYmVhbi5jb20vM2NkOTcyMDYtODk3YS0zYmNiLThiZGQtZmFhMDM2YjgxZjJh",
+    "youtubeId": "BNYQWZTD4G4"
   }
 }

@@ -17,7 +17,7 @@
           <profile fullName="Stephen Merrill" twitterUsername="ste_ph_en32" image="stephen-avatar.png" discordUsername="Sir Savien"/> <br>
         </div>
         <div class="column">
-          <profile fullName="Ryan Robinson" twitterUsername="RyantheTall" image="ryan-robinson.png" discordUsername="Anomander Rake"/> <br>
+          <profile fullName="Ryan Robinson" twitterUsername="RyantheTall" image="ryan-avatar.png" discordUsername="Anomander Rake"/> <br>
         </div>
       </div>
       <div class="column has-text-left-tablet">
