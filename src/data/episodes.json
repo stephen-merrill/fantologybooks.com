@@ -845,5 +845,16 @@
     "spotifyLink": "https://open.spotify.com/episode/2Pugg66Yx7fTWbf982uQLu?si=9BEMzhg-QkqXag5JH1VW9w",
     "googleLink": "https://podcasts.google.com/?feed=aHR0cHM6Ly9mZWVkLnBvZGJlYW4uY29tL2ZhbnRvbG9neWJvb2tzL2ZlZWQueG1s&ep=14&episode=ZmFudG9sb2d5Ym9va3MucG9kYmVhbi5jb20vMTljOTgyOWQtYzUwNC0zYjE3LTgzYmItMDY4ZjM1NmZkOGEw",
     "youtubeId": "Hu8S23EetZY"
+  },
+  "78": {
+    "author": "JRR Tolkien",
+    "description": "Dylan & Charles from The FTF Podcast join us to talk a classic and debate if Ents are cool or boring. The Lord of the Rings set the standard for fantasy; does it still hold up? Spoiler, yes it does. But how has it continued to be such high quality, more than 60 years after publication? Plus, check out our top and bottom 3 character performances from the book!",
+    "id": 78,
+    "title": "The Two Towers",
+    "image": "two-towers.png",
+    "appleLink": "https://podcasts.apple.com/us/podcast/78-the-two-towers-ft-friends-talking-fantasy/id1489097985?i=1000494166704&ls=1",
+    "spotifyLink": "https://open.spotify.com/episode/3GfxOD6xGNGs8JCc976lhk?si=KGNVQWrPQ3qy7q6hHl7LNA",
+    "googleLink": "https://podcasts.google.com/?feed=aHR0cHM6Ly9mZWVkLnBvZGJlYW4uY29tL2ZhbnRvbG9neWJvb2tzL2ZlZWQueG1s&ep=14&episode=ZmFudG9sb2d5Ym9va3MucG9kYmVhbi5jb20vZjJhMDM2NDEtMzFkMy0zYzFmLWI3ZjItZmExYmZhNmFmOGM0",
+    "youtubeId": "cklmIP6Pblw"
   }
 }
