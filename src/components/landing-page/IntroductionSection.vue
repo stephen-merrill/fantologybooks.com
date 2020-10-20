@@ -1,6 +1,7 @@
 <template>
   <div>
-    <section class="hero is-small section">
+    <section class="hero is-medium section">
+    <!-- <section class="hero is-medium is-primary is-bold section"> -->
       <div class="hero-body">
         <div class="container">
           <div class="columns">
@@ -50,9 +51,14 @@
               </div>
             </div>
             <div v-if="!isMobile()" class="column logo-container">
-              <figure class="image logo">
+              <!-- <figure class="image logo">
                 <img src="@/assets/images/transparent-logo.png" />
-              </figure>
+              </figure> -->
+
+              <!-- 3x3 Grid For Authors/Books -->
+              <div v-for="x in 3">
+                <div v-for="x in 3"><img src="@/assets/images/transparent-logo.png" /></div>
+              </div>
             </div>
           </div>
         </div>
@@ -72,6 +78,8 @@
      SecondaryButton
    }
  }
+
+ 
 </script>
 
 <style lang="scss" scoped>

@@ -1,11 +1,14 @@
 <template>
+  <!-- class="navbar is-dark" -->
   <nav :class="fixed ? 'is-fixed-top' : ''"
-        class="navbar is-dark"
+        class="navbar is-primary is-bold" 
         role="navigation"
         aria-label="main navigation">
 
     <div class="navbar-brand">
-      <a class="navbar-item is-size-4" href="/#home">Fantology</a>
+      <!-- Removed Fantology Name Added Logo -->
+      <!-- <a class="navbar-item is-size-4" href="/#home">Fantology</a> -->
+      <img class="image is-96x96" src="@/assets/images/transparent-logo.png" />
       <div :class="active ? 'is-active' : ''" class="navbar-burger burger" data-target="navbar-options" @click="() => active = !active">
         <span></span>
         <span></span>
@@ -153,17 +156,24 @@
 
 <style lang="scss" scoped>
  input {
-   background-color: $nav-background;
+   background-color: $primary;
+   /*background-color: $nav-background;*/
    color: white;
  }
  ::placeholder {
    color: white;
  }
  .navbar, .navbar-menu {
-   background: $nav-background;
+  background: $nav-background
+   /*background: $primary;*/
  }
  .navbar {
    border-bottom: 2px solid darken($nav-background, 7%);
+ }
+ /*Edit Navbar Margins*/
+ .navbar-brand {
+   margin-left: 25px;
+   margin-right: 25px;
  }
  .navbar-dropdown {
    background-color: $nav-background;
