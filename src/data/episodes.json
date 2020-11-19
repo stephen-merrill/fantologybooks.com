@@ -977,5 +977,16 @@
     "spotifyLink": "https://open.spotify.com/episode/6WHPVVMM9XaEHmPMNdkLqe?si=R7aWlZKWRLO1TH-0IcGGpQ",
     "googleLink": "https://podcasts.google.com/?feed=aHR0cHM6Ly9mZWVkLnBvZGJlYW4uY29tL2ZhbnRvbG9neWJvb2tzL2ZlZWQueG1s&ep=14&episode=ZjBjZTc3MWEtZWZhOS00ZTE3LTk4NDItNDczZTAyYmJhZjIw",    
     "youtubeId": "6H8pKRziDL4"
+  },
+  "90": {
+    "author": "Brandon Sanderson",
+    "description": "In all seriousness, this is a strong episode. Dawnshard focuses on a paraplegic character, so Stephen opens up about his experience with paralysis and Brandon Sanderson's fantastic disability representation. Plus, did we mention this is a Stormlight novella? There are mind-blowing cosmere ramifications here! Don't forget to read this novella before Rhythm of War.",
+    "id": 90,
+    "title": "Dawnshard",
+    "image": "dawnshard.png",
+    "appleLink": "https://podcasts.apple.com/us/podcast/90-dawnshard/id1489097985?i=1000499403856&ls=1",
+    "spotifyLink": "https://open.spotify.com/episode/5jm50A3xfEgPHjJZmVIIH0?si=Nkq53C8wQtaaQs8fd809YA",
+    "googleLink": "https://podcasts.google.com/?feed=aHR0cHM6Ly9mZWVkLnBvZGJlYW4uY29tL2ZhbnRvbG9neWJvb2tzL2ZlZWQueG1s&ep=14&episode=MDE4YzBmNzktN2UyZi00MjU2LWE4OGItOTFjMGNlNTFjZGVk",    
+    "youtubeId": "8EgOlJIcPck"
   }
 }
