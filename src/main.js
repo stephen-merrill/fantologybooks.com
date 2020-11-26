@@ -11,6 +11,8 @@ import '@/styles/bulma.scss'
 import LandingPage from '@/components/landing-page/LandingPage.vue'
 import SearchPage from '@/components/search-page/SearchPage.vue'
 import EpisodePage from '@/components/episode-page/EpisodePage.vue'
+// Series Page Path
+import SeriesPage from '@/components/series-page/SeriesPage.vue'
 
 Vue.config.productionTip = false
 Vue.use(VueRouter)
@@ -18,6 +20,8 @@ Vue.use(VueRouter)
 const routes = [
   { path: '/episode/:id', component: EpisodePage },
   { path: '/search', component: SearchPage },
+  // Add series path
+  { path: '/series/:id/:sub', component: SeriesPage},
   { path: '/', component: LandingPage },
 ]
 const router = new VueRouter({

@@ -1,8 +1,355 @@
 {
-  "1": {
-    "id": 1,
-    "name": "Stormlight Archive",
-    "displayInNav": true,
-    "episodes": [6, 11]
-  }
+    "1": {
+		"title":"Sanderson's Cosmere",
+		"id": 1,
+		"description":"Description Text",
+		"image": "sanderson-series.png",
+		"author": [
+			{
+				"name": "Brandon Sanderson",
+				"id": [0, 1, 2, 3, 4],
+				"description":"Description Text",
+				"image":"sanderson.jpg"
+			}
+		],
+		"ep": [6, 9, 11, 53],
+		"subSeries": [
+			{
+				"title": "Mistborn",
+				"id": 0,
+				"ep": [53]
+			},
+			{
+				"title": "Stormlight Archive",
+				"id": 1,
+				"ep": [6, 11]
+			},
+			{
+				"title": "Other Cosmere Works",
+				"id": 2,
+				"ep": []
+			},
+			{
+				"title": "Skyward",
+				"id": 3,
+				"ep": [9]
+			}
+		]
+	},
+	"2": {
+		"title":"Jordan's The Wheel of Time",
+		"id": 2,
+		"description":"Description Text",
+		"image": "jordan-series.png",
+		"author": [
+			{
+				"name": "Robert Jordan",
+				"id": [0],
+				"description":"Description Text",
+				"image":"jordan.jpg"
+			}
+		],
+		"ep": [22, 28, 34, 50, 62],
+		"subSeries": [
+			{
+				"title": "The Wheel of Time",
+				"id": 0,
+				"ep": [22, 28, 34, 50, 62]
+			}
+		]
+	},
+	"3": {
+		"title":"The Jim Butcher Series",
+		"id": 3,
+		"description":"Description Text",
+		"image": "butcher-series.png",
+		"author": [
+			{
+				"name": "Jim Butcher",
+				"id": [0, 1, 2],
+				"description":"Description Text",
+				"image":"butcher.jpg"
+			}
+		],
+		"ep": [13, 19, 29, 35, 39, 41, 45, 48, 55, 58, 63, 65, 67, 69, 72, 74],
+		"subSeries": [
+			{
+				"title": "The Dresden Files",
+				"id": 0,
+				"ep": [13, 19, 29, 35, 39, 41, 45, 48, 55, 58, 63, 65, 67, 69, 72, 74]
+			},
+			{
+				"title": "The Codex Alera",
+				"id": 1,
+				"ep": []
+			},
+			{
+				"title": "The Cinder Spires",
+				"id": 2,
+				"ep": []
+			}
+		]
+	},
+	"4": {
+		"title":"Abercrombie's First Law Universe",
+		"id": 4,
+		"description":"Joe is best known for the First Law Trilogy – The Blade Itself, Before They Are Hanged and Last Argument of Kings – and the stand-alone novels in the same world – Best Served Cold, The Heroes, and Red Country. He has also written the Shattered Sea trilogy for young (and old) adults – Half a King, Half the World, and Half a War. The world of the First Law collides with the industrial age in a new trilogy – The Age of Madness – which began in September 2019 with A Little Hatred, continued a year later with The Trouble With Peace and concludes in September 2021 with The Wisdom of Crowds. You can keep up with Joe by following him on twitter where he posts as @lordgrimdark.",
+		"image": "abercrombie-series.png",
+		"author": [
+			{
+				"name": "Joe Abercrombie",
+				"id": [0, 1, 2, 3],
+				"description":"Joe Abercrombie is a British fantasy writer and film editor. He is the author of The First Law trilogy, as well as other fantasy books in the same setting and a trilogy of young adult novels. Abercrombie had a job making tea at a television production company before taking up a career as a freelance film editor. As a freelance film editor, Abercrombie found himself with more free time than he previously had. With this time, he decided to reconsider a story plot he conceived while attending University. Thus begun the grimdarkiest series we’ve read – The First Law.",
+				"image":"abercrombie.jpg"
+			}
+		],
+		"ep": [17, 38, 46, 52, 70, 71, 75],
+		"subSeries": [
+			{
+				"title": "The First Law Trilogy",
+				"id": 0,
+				"ep": [17]
+			},
+			{
+				"title": "First Law Stand-Alones",
+				"id": 1,
+				"ep": [38, 46, 52, 70]
+			},
+			{
+				"title": "The Age of Madness",
+				"id": 2,
+				"ep": [71, 75]
+			},
+			{
+				"title": "The Shattered Sea",
+				"id": 3,
+				"ep": []
+			}
+		]
+	},
+	"5": {
+		"title":"Tolkien's Legendarium",
+		"id": 5,
+		"description":"Description Text",
+		"image": "tolkien-series.png",
+		"author": [
+			{
+				"name": "JRR Tolkien",
+				"id": [0, 1],
+				"description":"Description Text",
+				"image":"tolkien.jpg"
+			}
+		],
+		"ep": [56, 78],
+		"subSeries": [
+			{
+				"title": "The Lord of the Rings",
+				"id": 0,
+				"ep": [56, 78]
+			},
+			{
+				"title": "Expanded Legendarium",
+				"id": 1,
+				"ep": []
+			}
+		]
+	},
+	"6": {
+		"title":"Rowling's Wizarding World",
+		"id": 6,
+		"description":"Description Text",
+		"image": "rowling-series.png",
+		"author": [
+			{
+				"name": "JK Rowling",
+				"id": [0],
+				"description":"Description Text",
+				"image":"rowling.jpg"
+			}
+		],
+		"ep": [30, 37, 47, 57, 73],
+		"subSeries": [
+			{
+				"title": "Harry Potter",
+				"id": 0,
+				"ep": [30, 37, 47, 57, 73]
+			}
+		]
+	},
+	"7": {
+		"title":"Erikson's Malazan Book of the Fallen",
+		"id": 7,
+		"description":"Description Text",
+		"image": "erikson-series.png",
+		"author": [
+			{
+				"name": "Steven Erikson",
+				"id": [0],
+				"description":"Description Text",
+				"image":"erikson.jpg"
+			}
+		],
+		"ep": [12, 60],
+		"subSeries": [
+			{
+				"title": "Malazan Book of the Fallen",
+				"id": 0,
+				"ep": [12, 60]
+			}
+		]
+	},
+	"8": {
+		"title":"McClellan's Powder Mage Universe",
+		"id": 8,
+		"description":"Description Text",
+		"image": "mcclellan-series.png",
+		"author": [
+			{
+				"name": "Brian McClellan",
+				"id": [0, 1],
+				"description":"Description Text",
+				"image":"mcclellan.jpg"
+			}
+		],
+		"ep": [40, 44, 61],
+		"subSeries": [
+			{
+				"title": "Powder Mage Trilogy",
+				"id": 0,
+				"ep": [44, 61]
+			},
+			{
+				"title": "Gods of Blood & Powder",
+				"id": 1,
+				"ep": [40]
+			}
+		]
+	},
+	"9": {
+		"title":"The Science Fiction Series",
+		"id": 9,
+		"description":"Description Text",
+		"image": "sci-fi-series.png",
+		"author": [
+			{
+				"name": "Cixin Liu",
+				"id": [0],
+				"description":"Description Text",
+				"image":"liu.jpg"
+			},
+			{
+				"name": "Pierce Brown",
+				"id": [1],
+				"description":"Description Text",
+				"image":"brown.jpg"
+			}
+		],
+		"ep": [10, 15, 21, 32],
+		"subSeries": [
+			{
+				"title": "Three-Body Problem",
+				"id": 0,
+				"ep": [10]
+			},
+			{
+				"title": "Red Rising",
+				"id": 1,
+				"ep": [15, 21, 32]
+			}
+		]
+	},
+	"10": {
+		"title":"The Young Adult Series",
+		"id": 10,
+		"description":"Description Text",
+		"image": "ya-series.png",
+		"author": [
+			{
+				"name": "Philip Pullman",
+				"id": [0],
+				"description":"Description Text",
+				"image":"pullman.jpg"
+			},
+			{
+				"name": "Eoin Colfer",
+				"id": [1],
+				"description":"Description Text",
+				"image":"colfer.jpg"
+			}
+		],
+		"ep": [23, 24, 26, 31],
+		"subSeries": [
+			{
+				"title": "His Dark Materials",
+				"id": 0,
+				"ep": [23, 26, 31]
+			},
+			{
+				"title": "Artemis Fowl",
+				"id": 1,
+				"ep": [24]
+			}
+		]
+	},
+	"11": {
+		"title":"Fantasy News Archives",
+		"id": 11,
+		"description":"Description Text",
+		"image": "news-series.png",
+		"author": [
+			{
+				"name": "Fantology",
+				"id": [0, 1],
+				"description":"Description Text",
+				"image":"transparent-logo.png"
+			}
+		],
+		"ep": [14, 16, 27, 36, 43, 51, 59, 66, 68, 76],
+		"subSeries": [
+			{
+				"title": "2020",
+				"id": 0,
+				"ep": [14, 16, 27, 36, 43, 51, 59, 66, 68, 76]
+			},
+			{
+				"title": "2021",
+				"id": 1,
+				"ep": []
+			}
+		]
+	},
+	"12": {
+		"title":"The Television Adaptation Series",
+		"id": 12,
+		"author":"Various Authors",
+		"description":"Description Text",
+		"image": "tv-series.png",
+		"author": [
+			{
+				"name": "Netflix, Amazon Prime Video, HBO etc.",
+				"id": [0],
+				"description":"Description Text",
+				"image":"tv.png"
+			},
+			{
+				"name": "Hollywood",
+				"id": [1],
+				"description":"Description Text",
+				"image":"hollywood.jpg"
+			}
+		],
+		"ep": [5, 42, 49, 64],
+		"subSeries": [
+			{
+				"title": "TV Series",
+				"id": 0,
+				"ep": [5, 42, 64]
+			},
+			{
+				"title": "Movies",
+				"id": 1,
+				"ep": [49]
+			}
+		]
+	}
 }

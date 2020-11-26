@@ -26,7 +26,7 @@
             <div class="column is-4">
               <a :href="episode.spotifyLink">
                 <figure class="image is-rectangle">
-                  <img src="@/assets/images/spotify-badge.svg" />
+                  <img src="@/assets/images/spotify-badge2.png" />
                 </figure>
               </a>
             </div>
@@ -44,6 +44,10 @@
         </div>
       </div>
     </div>
+    <iframe allow="autoplay *; encrypted-media *; fullscreen *" frameborder="0" height="175" 
+            style="width:100%;max-width:660px;overflow:hidden;background:transparent;" 
+            sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" 
+            v-bind:src='applePlayerLink'></iframe>
   </div>
 </template>
 
@@ -65,6 +69,15 @@
    computed: {
      episode () {
        return this.episodes[this.$route.params.id]
+     },
+     applePlayerLink () {
+      let x = this.episodes[this.$route.params.id].appleLink
+      let addition = "embed.";
+      let position = 8;
+
+      let output = [x.slice(0, position), addition, x.slice(position)].join('');
+
+      return output;
      }
    },
    data () {

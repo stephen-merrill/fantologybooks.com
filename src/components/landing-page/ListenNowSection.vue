@@ -42,7 +42,7 @@
             <div class="column is-4">
               <a :href="episode.spotifyLink">
                 <figure class="image is-rectangle">
-                  <img src="@/assets/images/spotify-badge.svg" />
+                  <img src="@/assets/images/spotify-badge2.png" />
                 </figure>
               </a>
             </div>

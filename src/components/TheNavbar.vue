@@ -1,14 +1,14 @@
 <template>
-  <!-- class="navbar is-dark" -->
   <nav :class="fixed ? 'is-fixed-top' : ''"
-        class="navbar is-primary is-bold" 
+        class="navbar is-dark"
         role="navigation"
         aria-label="main navigation">
 
     <div class="navbar-brand">
-      <!-- Removed Fantology Name Added Logo -->
-      <!-- <a class="navbar-item is-size-4" href="/#home">Fantology</a> -->
-      <img class="image is-96x96" src="@/assets/images/transparent-logo.png" />
+      <a v-if="!isMobile()" href=/#home>
+       <img class="image is-96x96" src="@/assets/images/transparent-logo.png"/>
+      </a>
+      <a v-else class="navbar-item is-size-4" href="/#home">Fantology</a>
       <div :class="active ? 'is-active' : ''" class="navbar-burger burger" data-target="navbar-options" @click="() => active = !active">
         <span></span>
         <span></span>
@@ -18,17 +18,14 @@
 
     <div id="navbar-options" :class="active ? 'is-active' : ''" class="navbar-menu">
       <div class="navbar-start">
-        <a class="navbar-item" href="/#listen-now" @click="() => active = false">Listen Now</a>
+        <!-- Removed Listen Now -->
+        <!-- <a class="navbar-item" href="/#listen-now" @click="() => active = false">Listen Now</a> -->
         <div v-if="!isMobile()" class="navbar-item has-dropdown is-hoverable">
           <a class="navbar-link">
             Episodes
           </a>
 
           <div class="navbar-dropdown">
-            <!-- <a v-for="link in series" :key="link.name" :href="'/series/'+link.id" class="navbar-item">
-                 {{ link.name }}
-                 </a>
-                 <hr class="navbar-divider"> -->
             <a href="/#recent-episodes" class="navbar-item">
               Recent Episodes
             </a>
@@ -45,6 +42,57 @@
             All Episodes
           </a>
         </div>
+        <!-- Add Series to Navbar -->
+        <div v-if="!isMobile()" class="navbar-item has-dropdown is-hoverable">
+          <a class="navbar-link">
+            Series
+          </a>
+          <!-- Might need to add some Mobile verision conditioning -->
+          <div class="navbar-dropdown">
+            <div class="columns">
+              <div class="column">
+                <a class="navbar-item" @click="goToSeries(1)">Sanderson</a>
+                <a class="navbar-item" @click="goToSeries(3)">Butcher</a>
+                <a class="navbar-item" @click="goToSeries(5)">Tolkien</a>
+                <a class="navbar-item" @click="goToSeries(7)">Erikson</a>
+                <hr class="navbar-divider">
+                <a class="navbar-item" @click="goToSeries(9)">Sci-Fi</a>
+                <a class="navbar-item" @click="goToSeries(11)">News</a>
+              </div>
+              <div class="column">
+                <a class="navbar-item" @click="goToSeries(2)">Jordan</a>
+                <a class="navbar-item" @click="goToSeries(4)">Abercrombie</a>
+                <a class="navbar-item" @click="goToSeries(6)">Rowling</a>
+                <a class="navbar-item" @click="goToSeries(8)">McClellan</a>
+                <hr class="navbar-divider">
+                <a class="navbar-item" @click="goToSeries(10)">Young Adult</a>
+                <a class="navbar-item" @click="goToSeries(12)">TV Adaptation</a>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div v-else>
+          <a class="navbar-item">Featured Series</a>
+          <div class="columns">
+            <div style="float: left; padding-left: 10vh" class="column">
+              <a @click="() => {active = false; goToSeries(1)}">Sanderson</a><br>
+              <a @click="() => {active = false; goToSeries(3)}">Butcher</a><br>
+              <a @click="() => {active = false; goToSeries(5)}">Tolkien</a><br>
+              <a @click="() => {active = false; goToSeries(7)}">Erikson</a><br>
+              <a @click="() => {active = false; goToSeries(9)}">Sci-Fi</a><br>
+              <a @click="() => {active = false; goToSeries(11)}">News</a><br>
+            </div>
+            <div class="column">
+              <a @click="() => {active = false; goToSeries(2)}">Jordan</a><br>
+              <a @click="() => {active = false; goToSeries(4)}">Abercrombie</a><br>
+              <a @click="() => {active = false; goToSeries(6)}">Rowling</a><br>
+              <a @click="() => {active = false; goToSeries(8)}">McClellan</a><br>
+              <a @click="() => {active = false; goToSeries(10)}">Young Adult</a><br>
+              <a @click="() => {active = false; goToSeries(12)}">Tv Adaptation</a><br>
+            </div>
+          </div>
+        </div><br>
+        <!-- <a class="navbar-item" @click="goToSeries(4)">Series</a> -->
         <a class="navbar-item" href="/#about" @click="() => active = false">About</a>
       </div>
 
@@ -120,6 +168,7 @@
       </div>
     </div>
   </nav>
+
 </template>
 
 <script>
@@ -147,6 +196,10 @@
      goToSearch () {
        this.$router.push({ path: '/search' })
      },
+     // goToSeries method
+     goToSeries (seriesId) {
+       this.$router.push({ path: `/series/${seriesId}/0`})
+     },
      search () {
        this.$router.push({ path: '/search', query: { query: this.searchValue } })
      }
@@ -156,8 +209,8 @@
 
 <style lang="scss" scoped>
  input {
-   background-color: $primary;
-   /*background-color: $nav-background;*/
+   /*background-color: $primary;*/
+   background-color: $nav-background;
    color: white;
  }
  ::placeholder {
