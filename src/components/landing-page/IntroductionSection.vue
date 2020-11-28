@@ -61,38 +61,38 @@
 
               <div class="column">
                 <figure class="image">
-                  <img class="curved-image" src="@/assets/images/sanderson-series.png" @click="goToSeries(1)" />
+                  <img class="curved-image" src="@/assets/images/sanderson-series2.png" @click="goToSeries(1)" />
                   <br>
-                  <img class="curved-image" src="@/assets/images/tolkien-series.png" @click="goToSeries(5)" />
+                  <img class="curved-image" src="@/assets/images/tolkien-series2.png" @click="goToSeries(5)" />
                   <br>
-                  <img class="curved-image" src="@/assets/images/sci-fi-series.png" @click="goToSeries(9)" />
+                  <img class="curved-image" src="@/assets/images/sci-fi-series2.png" @click="goToSeries(9)" />
                 </figure>
               </div>
               <div class="column">
                 <figure class="image">
-                  <img class="curved-image" src="@/assets/images/jordan-series.png" @click="goToSeries(2)" />
+                  <img class="curved-image" src="@/assets/images/jordan-series2.png" @click="goToSeries(2)" />
                   <br>
-                  <img class="curved-image" src="@/assets/images/rowling-series.png" @click="goToSeries(6)" />
+                  <img class="curved-image" src="@/assets/images/rowling-series2.png" @click="goToSeries(6)" />
                   <br>
-                  <img class="curved-image" src="@/assets/images/ya-series.png" @click="goToSeries(10)"/>
+                  <img class="curved-image" src="@/assets/images/ya-series2.png" @click="goToSeries(10)"/>
                 </figure>
               </div>
               <div class="column">
                 <figure class="image">
-                  <img class="curved-image" src="@/assets/images/butcher-series.png" @click="goToSeries(3)"/>
+                  <img class="curved-image" src="@/assets/images/butcher-series2.png" @click="goToSeries(3)"/>
                   <br>
-                  <img class="curved-image" src="@/assets/images/erikson-series.png" @click="goToSeries(7)" />
+                  <img class="curved-image" src="@/assets/images/erikson-series2.png" @click="goToSeries(7)" />
                   <br>
-                  <img class="curved-image" src="@/assets/images/news-series.png" @click="goToSeries(11)"/>
+                  <img class="curved-image" src="@/assets/images/news-series2.png" @click="goToSeries(11)"/>
                 </figure>
               </div>
               <div class="column">
                 <figure class="image">
-                  <img class="curved-image" src="@/assets/images/abercrombie-series.png" @click="goToSeries(4)" />
+                  <img class="curved-image" src="@/assets/images/abercrombie-series2.png" @click="goToSeries(4)" />
                   <br>
-                  <img class="curved-image" src="@/assets/images/mcclellan-series.png" @click="goToSeries(8)" />
+                  <img class="curved-image" src="@/assets/images/mcclellan-series2.png" @click="goToSeries(8)" />
                   <br>
-                  <img class="curved-image" src="@/assets/images/tv-series.png" @click="goToSeries(12)"/>
+                  <img class="curved-image" src="@/assets/images/tv-series2.png" @click="goToSeries(12)"/>
                 </figure>
               </div>
             </div>

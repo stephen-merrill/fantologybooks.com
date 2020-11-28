@@ -3,7 +3,7 @@
 		"title":"Sanderson's Cosmere",
 		"id": 1,
 		"description":"Description Text",
-		"image": "sanderson-series.png",
+		"image": "sanderson-series2.png",
 		"author": [
 			{
 				"name": "Brandon Sanderson",
@@ -40,7 +40,7 @@
 		"title":"Jordan's The Wheel of Time",
 		"id": 2,
 		"description":"Description Text",
-		"image": "jordan-series.png",
+		"image": "jordan-series2.png",
 		"author": [
 			{
 				"name": "Robert Jordan",
@@ -62,7 +62,7 @@
 		"title":"The Jim Butcher Series",
 		"id": 3,
 		"description":"Description Text",
-		"image": "butcher-series.png",
+		"image": "butcher-series2.png",
 		"author": [
 			{
 				"name": "Jim Butcher",
@@ -94,7 +94,7 @@
 		"title":"Abercrombie's First Law Universe",
 		"id": 4,
 		"description":"Joe is best known for the First Law Trilogy – The Blade Itself, Before They Are Hanged and Last Argument of Kings – and the stand-alone novels in the same world – Best Served Cold, The Heroes, and Red Country. He has also written the Shattered Sea trilogy for young (and old) adults – Half a King, Half the World, and Half a War. The world of the First Law collides with the industrial age in a new trilogy – The Age of Madness – which began in September 2019 with A Little Hatred, continued a year later with The Trouble With Peace and concludes in September 2021 with The Wisdom of Crowds. You can keep up with Joe by following him on twitter where he posts as @lordgrimdark.",
-		"image": "abercrombie-series.png",
+		"image": "abercrombie-series2.png",
 		"author": [
 			{
 				"name": "Joe Abercrombie",
@@ -131,7 +131,7 @@
 		"title":"Tolkien's Legendarium",
 		"id": 5,
 		"description":"Description Text",
-		"image": "tolkien-series.png",
+		"image": "tolkien-series2.png",
 		"author": [
 			{
 				"name": "JRR Tolkien",
@@ -158,7 +158,7 @@
 		"title":"Rowling's Wizarding World",
 		"id": 6,
 		"description":"Description Text",
-		"image": "rowling-series.png",
+		"image": "rowling-series2.png",
 		"author": [
 			{
 				"name": "JK Rowling",
@@ -180,7 +180,7 @@
 		"title":"Erikson's Malazan Book of the Fallen",
 		"id": 7,
 		"description":"Description Text",
-		"image": "erikson-series.png",
+		"image": "erikson-series2.png",
 		"author": [
 			{
 				"name": "Steven Erikson",
@@ -202,7 +202,7 @@
 		"title":"McClellan's Powder Mage Universe",
 		"id": 8,
 		"description":"Description Text",
-		"image": "mcclellan-series.png",
+		"image": "mcclellan-series2.png",
 		"author": [
 			{
 				"name": "Brian McClellan",
@@ -229,7 +229,7 @@
 		"title":"The Science Fiction Series",
 		"id": 9,
 		"description":"Description Text",
-		"image": "sci-fi-series.png",
+		"image": "sci-fi-series2.png",
 		"author": [
 			{
 				"name": "Cixin Liu",
@@ -262,7 +262,7 @@
 		"title":"The Young Adult Series",
 		"id": 10,
 		"description":"Description Text",
-		"image": "ya-series.png",
+		"image": "ya-series2.png",
 		"author": [
 			{
 				"name": "Philip Pullman",
@@ -295,7 +295,7 @@
 		"title":"Fantasy News Archives",
 		"id": 11,
 		"description":"Description Text",
-		"image": "news-series.png",
+		"image": "news-series2.png",
 		"author": [
 			{
 				"name": "Fantology",
@@ -323,7 +323,7 @@
 		"id": 12,
 		"author":"Various Authors",
 		"description":"Description Text",
-		"image": "tv-series.png",
+		"image": "tv-series2.png",
 		"author": [
 			{
 				"name": "Netflix, Amazon Prime Video, HBO etc.",
