@@ -1076,5 +1076,16 @@
     "spotifyLink": "https://open.spotify.com/episode/1dMWz93qLCMf7pBQu3Fbw8?si=ifyLCwcbRIy9AfttZVSSig",
     "googleLink": "https://podcasts.google.com/?feed=aHR0cHM6Ly9mZWVkLnBvZGJlYW4uY29tL2ZhbnRvbG9neWJvb2tzL2ZlZWQueG1s&ep=14&episode=MTY5NjVmMTEtZmJmMC00ZmUxLTkzOTgtMTgwOTZjMTA1ZTZj",
     "youtubeId": "HTfVPVvu5o8"
+  },
+  "99": {
+    "author": "Disney+",
+    "description": "Andy aka CubsFan Han, was kind enough to come by and tell us about the current Star Wars landscape and pump up some major excitement for the upcoming projects. We also review season two of The Mandalorian and get an expert breakdown of the music and connections to other Star Wars media. Plus, have you watched Clone Wars and Rebels? Because we really, really need to apparently!",
+    "id": 99,
+    "title": "The Mandalorian Season Two",
+    "image": "mandalorian.png",
+    "appleLink": "https://podcasts.apple.com/us/podcast/99-the-mandolarian-season-two-ft-cubsfan-han/id1489097985?i=1000503279810&ls=1",
+    "spotifyLink": "https://open.spotify.com/episode/0eJ55yFfgn7Ia7z9CJemaZ?si=nMu2QM1zSs6uFDJyyPOF6w",
+    "googleLink": "https://podcasts.google.com/?feed=aHR0cHM6Ly9mZWVkLnBvZGJlYW4uY29tL2ZhbnRvbG9neWJvb2tzL2ZlZWQueG1s&ep=14&episode=NWJhNTlkNGYtNGQzMi00ZGQwLTg2NTUtOGY3NWQzMTI0NDhl",
+    "youtubeId": "Tf3FVV2cQEU"
   }
 }
