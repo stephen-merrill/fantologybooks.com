@@ -7,9 +7,9 @@
       <div class="container">
         <div class="columns">
           <div class="column is-one-third">
-            <figure class= "series-image">
-           <img :src="require('@/assets/images/' + series.image)" />
-        </figure>
+            <figure>
+              <img class= "series-image" :src="require('@/assets/images/' + series.image)" />
+            </figure>
           </div>
           <div class="column" style="padding-left: 50px;">
             <h1 class="title">{{ series.title }}</h1>
@@ -36,14 +36,14 @@
           </div>
           <div class="search-results columns is-multiline">
             <div v-if="series.subSeries[selectedSub].ep.length == 0">
-              <figure class="image episode-cover">
-                <img :src="require('@/assets/images/coming-soon.webp')" class="episode-image"/>
+              <figure class="center">
+                <img style="width: 50%" :src="require('@/assets/images/coming-soon.png')"/>
               </figure>
             </div>
             <div v-for="episode in getSeries(episodes, series.subSeries[selectedSub])"
                  class="column"
                  :class="isMobile() ? 'is-6' : 'is-3'">
-              <a class="link" @click="() => goToEpisode(episode.id)">
+              <a class="link" @click="() => goToEpisode(episode.id, series.id)">
                 <figure class="image episode-cover">
                   <img :src="require('@/assets/images/' + episode.image)" class="episode-image"/>
                 </figure>
@@ -54,36 +54,6 @@
           
         </div>
         <div class="column">
-          <!-- <div class="author">
-            <div v-if="series.author.length == 1"
-                 class="author-content">
-              <div class="author-pic">
-                <img :src="require('@/assets/images/' + series.author[0].image)"/>  
-              </div>
-              <div class="author-name">
-                <h2 class="subtitle"> About the Author:<br>
-                  <span style="color: #822924">
-                    <b>{{ series.author[0].name }}</b>
-                  </span> 
-                </h2>
-              </div>
-              <p style="text-align: justify"> {{ series.author[0].description }} </p>
-            </div>
-            <div v-else
-                 class="author-content">
-              <div class="author-pic">
-                <img :src="require('@/assets/images/' + series.author[$route.params.sub].image)"/>  
-              </div>
-              <div class="author-name">
-                <h2 class="subtitle"> About the Author:<br>
-                  <span style="color: #822924">
-                    <b>{{ series.author[$route.params.sub].name }}</b>
-                  </span> 
-                </h2>
-              </div>
-              <p style="text-align: justify"> {{ series.author[0].description }} </p>
-            </div>
-          </div> -->
           <div class="author">
             <div v-if="series.author.length == 1"
                  class="author-content">
@@ -111,17 +81,15 @@
                   </span> 
                 </h2>
               </div>
-              <p style="text-align: justify"> {{ series.author[0].description }} </p>
+              
+              <p style="text-align: justify"> {{ series.author[$route.params.sub].description }} </p>
             </div>
           </div>
         </div>
       </div>
     </div>
 
-    <!-- <br>
-    <div class="hero is-small section">
-      <h2 class="subtitle">Fantology Books</h2>
-    </div> -->
+   
   <myFooter />
     
         
@@ -162,8 +130,8 @@
        }
        this.loading = false
      },
-    goToEpisode (episodeId) {
-       this.$router.push({ path: `/episode/${episodeId}` })
+    goToEpisode (episodeId, seriesId) {
+       this.$router.push({ path: `/episode/${episodeId}/${seriesId}` })
      },
     getSeries (episodes, sub) {
       let seriesArray = []
@@ -221,12 +189,15 @@
  .section-margin {
    margin-top: 10vh;
  }
+
  .episode-title {
    margin-top: 4px;
    color: white;
  }
  .episode-image {
    width: 100%;
+   border-radius: 15px;
+   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
  }
  .link {
    color: black;
@@ -241,6 +212,7 @@
    background-color: $secondary;
  }
  .series-image {
+  border-radius: 25px;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
  }
  .logo {
@@ -253,14 +225,16 @@
  }
  .author-content {
   padding: 25px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
  }
  .author-pic {
   float: left;
   width: 50%;
   padding-right: 15px;
-  padding-bottom: 15px;
+
  }
  .author-pic img {
+  border-radius: 15px;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
  }
  .author-name {

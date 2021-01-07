@@ -18,7 +18,7 @@ Vue.config.productionTip = false
 Vue.use(VueRouter)
 
 const routes = [
-  { path: '/episode/:id', component: EpisodePage },
+  { path: '/episode/:id/:series', component: EpisodePage },
   { path: '/search', component: SearchPage },
   // Add series path
   { path: '/series/:id/:sub', component: SeriesPage},

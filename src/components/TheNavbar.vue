@@ -6,7 +6,7 @@
 
     <div class="navbar-brand">
       <a v-if="!isMobile()" href=/#home>
-       <img class="image is-96x96" src="@/assets/images/transparent-logo.png"/>
+       <img class="image" style="width: 14vh" src="@/assets/images/fantology-scroll.png"/>
       </a>
       <a v-else class="navbar-item is-size-4" href="/#home">Fantology</a>
       <div :class="active ? 'is-active' : ''" class="navbar-burger burger" data-target="navbar-options" @click="() => active = !active">
@@ -49,7 +49,7 @@
           </a>
           <!-- Might need to add some Mobile verision conditioning -->
           <div class="navbar-dropdown">
-            <div class="columns">
+            <div class="columns is-gapless">
               <div class="column">
                 <a class="navbar-item" @click="goToSeries(1)">Sanderson</a>
                 <a class="navbar-item" @click="goToSeries(3)">Butcher</a>
@@ -202,6 +202,7 @@
      },
      search () {
        this.$router.push({ path: '/search', query: { query: this.searchValue } })
+       location.reload()
      }
    }
  }
@@ -230,11 +231,16 @@
  }
  .navbar-dropdown {
    background-color: $nav-background;
+   padding: 5px;
    color: white;
  }
  .navbar-item {
    color: white;
    text-align: left;
+ }
+ .navbar-item a:hover {
+  background-color: hsl(0, 0%, 15%);
+  color: white;
  }
  .navbar-end {
    margin-right: 16px;
@@ -242,4 +248,9 @@
  .social-links {
    padding: 8px;
  }
+ hr {
+  background-color: hsl(0, 0%, 50%);
+  margin-top: 15px;
+ }
+
 </style>

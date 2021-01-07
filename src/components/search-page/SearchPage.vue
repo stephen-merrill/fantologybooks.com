@@ -20,7 +20,7 @@
         <div v-for="episode in row"
              :class="isMobile() ? 'is-6' : 'is-2'"
              class="search-result column">
-          <a class="link" @click="() => goToEpisode(episode.id)">
+          <a class="link" @click="() => goToEpisode(episode.id, episode.seriesId)">
             <figure class="image episode-cover">
               <img :src="require('@/assets/images/' + episode.image)" class="episode-image"/>
             </figure>
@@ -58,7 +58,7 @@
        episodes: Object.values(episodes).reverse(),
        loading: false,
        page: 1,
-       query: '',
+       //query: '',
        searchResults: Object.values(episodes).reverse(),
        visibleResults: Object.values(episodes).reverse().slice(0, 18),
      }
@@ -71,8 +71,8 @@
        }
        return chunks
      },
-     goToEpisode (episodeId) {
-       this.$router.push({ path: `episode/${episodeId}` })
+     goToEpisode (episodeId, seriesId) {
+       this.$router.push({ path: `episode/${episodeId}/${seriesId}` })
      },
      loadMore () {
        this.loading = true
@@ -124,6 +124,10 @@
  }
  .episode-image {
    width: 100%;
+
+  border-radius: 15px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+ 
  }
  .link {
    color: black;
