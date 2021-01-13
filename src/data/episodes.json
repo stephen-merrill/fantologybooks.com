@@ -1130,7 +1130,7 @@
   "96": {
     "author": "Brandon Sanderson",
     "description": "What. A. Ride. Part Five had everything we needed and was the perfect payoff for the end of this 1200+ page tome. Fists pumped! Guts punched! Evil slain! Stephen, Ben and Josh break down the ends of our favorite characters arcs and talk our theories, hopes and dreams for book five. Which really can't come soon enough. Plus, watch for a discussion that includes a Mistborn spoiler at 50 something. We give an ample warning in the audio as well, so you should be safe.",    
-    "id": 96,
+    "id": 96,l
     "seriesId": 1,
     "title": "Rhythm of War Part Five",
     "appleLink": "https://podcasts.apple.com/us/podcast/96-rhythm-of-war-part-five/id1489097985?i=1000502036205&ls=1",
@@ -1143,7 +1143,7 @@
     "author": "Fantology",
     "description": "We were honored to participate in the inagural #WoTaHoliday Charity Livestream, which raised over $5,000 over the course of 24 hours of brilliance from Wheel of Time content creators. For our segment we stole Wheel of Time Characters and sorted them into Knights Radiant Orders and Houses from A Song of Ice And Fire & Harry Potter. Tune in to see where your favorite characters have landed!",
     "id": 97,
-    "seriesId": 2,
+    "seriesId": 2,l
     "title": "Wheel of Time Characters...In Other Series",
     "image": "wot-charity.png",
     "appleLink": "https://podcasts.apple.com/us/podcast/97-wheel-of-time-characters-in-other-series/id1489097985?i=1000502431302&ls=1",
@@ -1198,5 +1198,16 @@
     "spotifyLink": "https://open.spotify.com/episode/2BCmR6TdthgeD6dMs4S3WL?si=QxldH7reRoWUDCY5El6X0w",
     "googleLink": "https://podcasts.google.com/?feed=aHR0cHM6Ly9mZWVkLnBvZGJlYW4uY29tL2ZhbnRvbG9neWJvb2tzL2ZlZWQueG1s&ep=14&episode=ZTdjZGRlODYtNjFlNy00Nzk2LThjMDQtZTgzZjk2NWFmYjE2",
     "youtubeId": "RKPuRR-d0mU"
+  },
+  "102": {
+    "author": "R.F. Kuang",
+    "description": "Beautifully brutal, The Dragon Republic is a must-read for any fan of the genre. R.F. Kuang builds on her debut, The Poppy War with a strong follow-up novel that expands her world and exacerbates the conflict. Stephen & Ben give their review here and talk through favorite characters and moments. Plus, Rin: swipe left or swipe right?",
+    "id": 102,
+    "title": "The Dragon Republic",
+    "image": "dragon-republic-spoiler.png",
+    "appleLink": "https://podcasts.apple.com/us/podcast/102-the-dragon-republic-full-spoiler-review/id1489097985?i=1000505062313&ls=1",
+    "spotifyLink": "https://open.spotify.com/episode/3vq08gsAyIYucrOIArAeRF?si=Vw7yY1hdQdez38xVY05uHQ",
+    "googleLink": "https://podcasts.google.com/?feed=aHR0cHM6Ly9mZWVkLnBvZGJlYW4uY29tL2ZhbnRvbG9neWJvb2tzL2ZlZWQueG1s&ep=14&episode=M2MyZTNmOWYtYmEzNC00NjQ3LTg5ZTAtZTAwM2M5ZDBkMGVl",
+    "youtubeId": "JXFKtDiBD1o"
   }
 }
