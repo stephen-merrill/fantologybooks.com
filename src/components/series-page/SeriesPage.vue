@@ -6,26 +6,34 @@
     <div class="hero" style="padding-bottom: 50px">
       <div class="container">
         <div class="columns">
-          <div class="column is-one-third">
+          <div v-if="!isMobile()"
+               class="column is-one-third">
             <figure>
               <img class= "series-image" :src="require('@/assets/images/' + series.image)" />
             </figure>
           </div>
-          <div class="column" style="padding-left: 50px;">
+          <div v-else>
+            <figure style="width: 66%; margin-left: auto; margin-right: auto;">
+              <img class= "series-image" :src="require('@/assets/images/' + series.image)" />
+            </figure>  
+          </div>
+          <div class="column"
+               :style="isMobile() ? 'text-align: center' : 'padding-left: 50px;'">
             <h1 class="title">{{ series.title }}</h1>
             <hr style="background-color: #822924">
-            <h2 class="subtitle" style="text-align: justify">{{ series.description }}</h2>
+            <h2 class="subtitle" 
+                style="text-align: justify; margin-left: 3vh; margin-right: 3vh">
+                {{ series.description }}
+            </h2>
           </div>
         </div>
-        
-        
       </div>
     </div>
     
     <div class="container" style="padding-bottom: 50px">
       <div class="columns">
-        <div class="column is-three-fifths">
-          <div class="tabs is-medium is-boxed">
+        <div :class="isMobile() ? '' : 'column is-three-fifths'">
+          <div :class="isMobile() ? 'tabs is-large is-fullwidth' : 'tabs is-medium is-boxed'">
             <ul>
               <li v-for="subSeries in series.subSeries"
                   v-on:click="updateSub(series.id, subSeries.id)">
@@ -41,11 +49,12 @@
               </figure>
             </div>
             <div v-for="episode in getSeries(episodes, series.subSeries[selectedSub])"
-                 class="column"
-                 :class="isMobile() ? 'is-6' : 'is-3'">
+                 class="column is-3">
+                 <!-- :class="isMobile() ? 'is-6' : 'is-3'"> -->
               <a class="link" @click="() => goToEpisode(episode.id, series.id)">
                 <figure class="image episode-cover">
-                  <img :src="require('@/assets/images/' + episode.image)" class="episode-image"/>
+                  <img :src="require('@/assets/images/' + episode.image)" 
+                       :class="isMobile() ? 'mobile-image' : 'episode-image'"/>
                 </figure>
                 <div class="is-size-5 container episode-title">#{{  episode.id }} {{ episode.title }}</div>
               </a>
@@ -57,10 +66,10 @@
           <div class="author">
             <div v-if="series.author.length == 1"
                  class="author-content">
-              <div class="author-pic">
+              <div :class="isMobile() ? 'mobile-author' : 'author-pic'">
                 <img :src="require('@/assets/images/' + series.author[0].image)"/>  
               </div>
-              <div class="author-name">
+              <div :class="isMobile() ? 'mobile-author-name' : 'author-name'">
                 <h2 class="subtitle"> About the Author:<br>
                   <span style="color: #822924">
                     <b>{{ series.author[0].name }}</b>
@@ -71,10 +80,10 @@
             </div>
             <div v-else
                  class="author-content">
-              <div class="author-pic">
+              <div :class="isMobile() ? 'mobile-author' : 'author-pic'">
                 <img :src="require('@/assets/images/' + series.author[$route.params.sub].image)"/>  
               </div>
-              <div class="author-name">
+              <div :class="isMobile() ? 'mobile-author-name' : 'author-name'">
                 <h2 class="subtitle"> About the Author:<br>
                   <span style="color: #822924">
                     <b>{{ series.author[$route.params.sub].name }}</b>
@@ -199,6 +208,13 @@
    border-radius: 15px;
    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
  }
+ .mobile-image {
+  width: 75%;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 15px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+ }
  .link {
    color: black;
  }
@@ -237,10 +253,23 @@
   border-radius: 15px;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
  }
+ .mobile-author {
+  width: 75%;
+  margin-right: auto;
+  margin-left: auto;
+ }
+ .mobile-author img {
+  border-radius: 15px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+ }
  .author-name {
   /*padding-bottom: 25px;*/
   padding-top: 85px;
   padding-bottom: 100px;
+ }
+ .mobile-author-name {
+  padding-top: 25px;
+  padding-bottom: 25px;
  }
  .tabs ul {
     width: 100%;

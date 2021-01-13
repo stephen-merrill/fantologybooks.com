@@ -7,17 +7,23 @@
           <div class="column is-6">
             <div class="episode-info">
               <figure class="image">
-                <img class="curved-image" style="float: left; width: 33%" 
+                <img class="curved-image" 
+                     :style="isMobile() ? 'width: 75%; margin-right:auto; margin-left: auto;' 
+                                        : 'float: left; width: 33%'" 
                      :src="require('@/assets/images/' + episode.image)"/>
               </figure>
-              <h1 class="subtitle" style="padding-top: 50px; text-align: center; font-size: 3vh">
+              <h1 class="subtitle" 
+                  :style="isMobile() ? 'padding-top: 25px; text-align: center; font-size: 3vh' 
+                                     : 'padding-top: 50px; text-align: center; font-size: 3vh'">
                 #{{  episode.id }} {{ episode.title }}
-                <hr>
+                <hr :class="isMobile() ? 'mobile-hr' : 'browser-hr'">
               </h1>
-              <div class="is-size-5" style="text-align: justify; float: left; margin-top: 3vh; margin-bottom: 3vh;">
+              <div class="is-size-5" 
+                   :style="isMobile() ? 'text-align: justify; margin-top: 1vh; margin-bottom: 3vh;' 
+                                      : 'text-align: justify; float: left; margin-top: 3vh; margin-bottom: 3vh;'">
                 {{ episode.description }}
               </div>
-              <div class="columns links is-mobile vertically-align">
+              <div :class="isMobile() ? 'columns vertically-align' : 'columns links vertically-align'">
                 <div class="column is-4">
                   <a :href="episode.spotifyLink">
                     <figure class="image is-rectangle">
@@ -43,7 +49,8 @@
             </div>
           </div>
           
-          <div style="padding-left: 5vh" class="column">
+          <div :style="isMobile() ? 'margin-left: auto; margin-right: auto' : 'padding-left: 5vh'" 
+               class="column">
             
             <iframe allow="autoplay *; encrypted-media *; fullscreen *" frameborder="0" height="175" 
             style="width:100%;max-width:660px;overflow:hidden;background:transparent;" 
@@ -197,11 +204,17 @@
   /*box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);*/
   margin-bottom: 5vh;
  }
- hr {
+ .browser-hr {
   background-color: $primary;
   margin-left: 25vh;
   margin-right: 2vh;
   text-align: center;
+ }
+ .mobile-hr {
+  background-color: $primary;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
  }
 
 </style>
