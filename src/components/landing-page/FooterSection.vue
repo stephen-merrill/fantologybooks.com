@@ -2,29 +2,70 @@
   <section class="hero is-small section">
     <div class="hero-body">
       <div class="container">
-        <div class="columns has-text-left-tablet">
-          <div class="column is-4 is-offset-1">
-            <div class="subtitle">Fantology</div>
-            <div class="link"><a href="#home">Home</a></div>
-            <div class="link"><a href="#listen-now">Listen</a></div>
-            <div class="link"><a href="/search">Episodes</a></div>
-            <div class="link"><a href="#about">About</a></div>
+        <hr>
+        <div class="columns has-text-left-tablet is-centered">
+          <div class="column is-3 is-offset-1">
+            <div class="subtitle" style="margin-left: 4vh">Listen Now</div>
+            <a href="https://podcasts.apple.com/us/podcast/id1489097985">
+              <span class="icon is-large">
+                <i class="fab fa-apple fa-2x"></i>
+              </span>
+            </a>
+            <a href="https://open.spotify.com/show/310DLxDRkTdam3fMcQtMCR?si=_4Wk59U5TWWdF19h5STreg">
+              <span class="icon is-large">
+                <i class="fab fa-spotify fa-2x"></i>
+              </span>
+            </a>
+            <a href="https://www.youtube.com/channel/UChnTPpjUWTS8-NUn9EQi-4A">
+              <span class="icon is-large">
+                <i class="fab fa-youtube fa-2x"></i>
+              </span>
+            </a>
+            <a href="https://podcasts.google.com/?feed=aHR0cHM6Ly9mZWVkcy5idXp6c3Byb3V0LmNvbS84MTAwODkucnNz&ved=0CAAQ4aUDahcKEwiYnvGJhpnoAhUAAAAAHQAAAAAQAQ">
+              <span class="icon is-large">
+                <i class="fab fa-google fa-2x"></i>
+              </span>
+            </a>
           </div>
-          <div class="column is-4">
-            <div class="subtitle">Contact Us</div>
-            <div class="link"><a href="https://www.patreon.com/fantology_books">Patreon</a></div>
-            <div class="link"><a href="https://discordapp.com/invite/k5efNbG">Discord</a></div>
-            <div class="link"><a href="https://www.redbubble.com/people/fantology/shop">Merch</a></div>
-            <div class="link"><a href="https://twitter.com/fantology_books">Twitter</a></div>
-            <div class="link"><a href="https://www.facebook.com/fantologybooks/">Facebook</a></div>
-            <div class="link"><a href="https://www.instagram.com/fantology_books/">Instagram</a></div>
+
+          <div class="column is-3">
+            <a href="/#home">
+              <img class="logo" src="@/assets/images/transparent-logo.png"/>
+            </a>
           </div>
-          <div class="column is-4">
-            <div class="subtitle">Listen Now</div>
-            <div class="link"><a href="https://podcasts.apple.com/us/podcast/id1489097985">Apple</a></div>
-            <div class="link"><a href="https://open.spotify.com/show/310DLxDRkTdam3fMcQtMCR?si=_4Wk59U5TWWdF19h5STreg">Spotify</a></div>
-            <div class="link"><a href="https://www.youtube.com/channel/UChnTPpjUWTS8-NUn9EQi-4A">Youtube</a></div>
-            <div class="link"><a href="https://podcasts.google.com/?feed=aHR0cHM6Ly9mZWVkcy5idXp6c3Byb3V0LmNvbS84MTAwODkucnNz&ved=0CAAQ4aUDahcKEwiYnvGJhpnoAhUAAAAAHQAAAAAQAQ">Google</a></div>
+
+          <div class="column is-3">
+            <div class="subtitle" style="margin-left: 9vh">Contact Us</div>
+            <a href="https://www.patreon.com/fantology_books">
+              <span class="icon is-large">
+                <i class="fab fa-patreon fa-2x"></i>
+              </span>
+            </a>
+            <a href="https://discordapp.com/invite/k5efNbG">
+              <span class="icon is-large">
+                <i class="fab fa-discord fa-2x"></i>
+              </span>
+            </a>
+            <a href="https://www.redbubble.com/people/fantology/shop">
+              <span class="icon is-large">
+                <i class="fab fa-shirtsinbulk fa-2x"></i>
+              </span>
+            </a>
+            <a href="https://twitter.com/fantology_books">
+              <span class="icon is-large">
+                <i class="fab fa-twitter fa-2x"></i>
+              </span>
+            </a>
+            <a href="https://www.facebook.com/fantologybooks/">
+              <span class="icon is-large">
+                <i class="fab fa-facebook fa-2x"></i>
+              </span>
+            </a>
+            <a href="https://www.instagram.com/fantology_books/">
+              <span class="icon is-large">
+                <i class="fab fa-instagram fa-2x"></i>
+              </span>
+            </a>
           </div>
         </div>
       </div>
@@ -48,8 +89,11 @@
    text-decoration:none;
    text-shadow: 1px 1px 1px #555;
  }
+ .subtitle {
+  
+ }
  .container {
-   margin-bottom: 64px;
+   /*margin-bottom: 64px;*/
    color: black;
  }
  .hero {
@@ -57,5 +101,8 @@
  }
  .link {
    color: white
+ }
+ .logo {
+  width: 60%;
  }
 </style>

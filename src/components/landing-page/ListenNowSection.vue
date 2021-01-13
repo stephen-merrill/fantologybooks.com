@@ -6,8 +6,9 @@
         We are <span class="bold-wording">readers</span> of stories, <span class="bold-wording">tellers</span> of stories and of course, <span class="bold-wording">reviewers</span> of stories.
       </h2>
     </div>
+    <!-- Do we always want fluid? -->
     <div class="container">
-      <div class="columns is-12">
+      <div class="columns">
         <div v-if="isMobile()" class="column is-7">
           <youtube-player :id="episode.youtubeId"/>
         </div>
@@ -22,38 +23,24 @@
               </h4>
             </div>
           </div>
-          <div class="columns is-12">
-            <div class="column is-7">
+          <div class="columns">
+            <div class="column is-6">
               <a href="https://discordapp.com/invite/k5efNbG">
-                <figure class="image is-rectangle">
+                <figure class="curved-image">
                   <img src="@/assets/images/discord-badge-purple.png" />
+                  <!-- <img src="@/assets/images/discord-logo.png" /> -->
                 </figure>
               </a>
             </div>
-          </div>
-          <div class="columns is-12 is-mobile">
-            <div class="column is-4">
-              <a :href="episode.appleLink">
-                <figure class="image is-rectangle">
-                  <img src="@/assets/images/apple-badge.svg" />
+            <div class="column is-6">
+              <a href="https://discordapp.com/invite/k5efNbG">
+                <figure class="curved-image">
+                  <img src="@/assets/images/patreon-logo.jpg" />
+                  <!-- <img src="@/assets/images/discord-logo.png" /> -->
                 </figure>
               </a>
             </div>
-            <div class="column is-4">
-              <a :href="episode.spotifyLink">
-                <figure class="image is-rectangle">
-                  <img src="@/assets/images/spotify-badge.svg" />
-                </figure>
-              </a>
-            </div>
-            <div class="column is-4">
-              <a :href="episode.googleLink">
-                <figure class="image is-rectangle">
-                  <img src="@/assets/images/google-badge.png" />
-                </figure>
-              </a>
-            </div>
-          </div>
+          </div>  
         </div>
         <div v-if="!isMobile()" class="column is-7">
           <youtube-player :id="episode.youtubeId"/>
@@ -99,5 +86,9 @@
    display: flex;
    flex-direction: column;
    justify-content: center;
+ }
+ .curved-image {
+  border-radius: 15px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
  }
 </style>

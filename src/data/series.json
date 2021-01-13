@@ -1,8 +1,355 @@
 {
-  "1": {
-    "id": 1,
-    "name": "Stormlight Archive",
-    "displayInNav": true,
-    "episodes": [6, 11]
-  }
+    "1": {
+		"title":"Sanderson's Cosmere",
+		"id": 1,
+		"description":"The Cosmere is the name of the series and universe in which Elantris, Mistborn, Warbreaker, The Stormlight Archive, White Sand, and stories contained in Arcanum Unbounded: The Cosmere Collection are all set. This idea came from Sanderson's desire to create an epic-length series without requiring readers to buy a ridiculous number of books. Because of that, he hides connections to his other works within each book, creating a hidden epic. He has estimated that the Cosmere sequence could conclude with at least 40 books.",
+		"image": "sanderson-series2.png",
+		"author": [
+			{
+				"name": "Brandon Sanderson",
+				"id": [0, 1, 2, 3, 4],
+				"description":"Brandon Sanderson (born December 19, 1975) is an American author of epic fantasy and science fiction. He is best known for the Cosmere fictional universe, in which most of his fantasy novels, most notably the Mistborn series and The Stormlight Archive, are set. He is also known for finishing Robert Jordan's high fantasy series The Wheel of Time.He created Sanderson's Laws of Magic and popularized the terms hard and soft magic systems.",
+				"image":"sanderson.jpg"
+			}
+		],
+		"ep": [53, 6, 11, 9, 89, 88, 90, 91, 92, 93, 95, 96, 98],
+		"subSeries": [
+			{
+				"title": "Mistborn",
+				"id": 0,
+				"ep": [53]
+			},
+			{
+				"title": "Stormlight Archive",
+				"id": 1,
+				"ep": [6, 11, 89, 88, 90, 91, 92, 93, 95, 96, 98]
+			},
+			{
+				"title": "Other Cosmere Works",
+				"id": 2,
+				"ep": []
+			},
+			{
+				"title": "Skyward",
+				"id": 3,
+				"ep": [9]
+			}
+		]
+	},
+	"2": {
+		"title":"Jordan's The Wheel of Time",
+		"id": 2,
+		"description":"The Wheel of Time is a series of high fantasy novels written by American author James Oliver Rigney Jr., under his pen name of Robert Jordan. Originally planned as a six-book series, The Wheel of Time spanned fourteen volumes, in addition to a prequel novel and two companion books. Jordan began writing the first volume, The Eye of the World, in 1984, and it was published in January 1990. Jordan died in 2007 while working on what was planned to be the twelfth and final volume in the series. He prepared extensive notes so another author could complete the book according to his wishes. Fellow fantasy author and long-time Wheel of Time fan Brandon Sanderson was brought in to complete the final book, but during the writing process, it was decided that the book would be far too large to be published in one volume and would instead be published as three culminating volumes.",
+		"image": "jordan-series2.png",
+		"author": [
+			{
+				"name": "Robert Jordan",
+				"id": [0],
+				"description":"James Oliver Rigney Jr. (October 17, 1948 – September 16, 2007), better known by his pen name Robert Jordan, was an American author of epic fantasy. He is best known for the Wheel of Time series (finished by Brandon Sanderson upon Jordan's death) which comprises 14 books and a prequel novel. He is one of several writers to have written original Conan the Barbarian novels; his are highly acclaimed to this day. Rigney also wrote historical fiction under his pseudonym Reagan O'Neal, a western as Jackson O'Reilly, and dance criticism as Chang Lung.",
+				"image":"jordan.jpg"
+			}
+		],
+		"ep": [22, 28, 34, 50, 62, 83, 97],
+		"subSeries": [
+			{
+				"title": "The Wheel of Time",
+				"id": 0,
+				"ep": [22, 28, 34, 50, 62, 83, 97]
+			}
+		]
+	},
+	"3": {
+		"title":"The Jim Butcher Series",
+		"id": 3,
+		"description":"The Dresden Files is a series of contemporary fantasy/mystery novels written by American author Jim Butcher. The first novel, Storm Front, was published in 2000 by Roc Books. The books are written as a first-person narrative from the perspective of the main character, private investigator and wizard Harry Dresden, as he recounts investigations into supernatural disturbances in modern-day Chicago. Butcher's original proposed title for the first novel was Semiautomagic, which sums up the series' balance of fantasy and hard-boiled detective fiction. As of 2020, Butcher has written 17 novels set in the Dresden Files universe, plus a number of short stories (some of which are collected in the anthologies Side Jobs and Brief Cases).",
+		"image": "butcher-series2.png",
+		"author": [
+			{
+				"name": "Jim Butcher",
+				"id": [0, 1, 2],
+				"description":"While he was sick with strep throat as a child, Butcher's sisters introduced him to The Lord of the Rings and The Han Solo Adventures novels to pass the time, thus beginning his fascination with fantasy and science fiction. As a teenager, he completed his first novel and set out to become a writer. After many unsuccessful attempts to enter the traditional fantasy genre (he cites J. R. R. Tolkien, Lloyd Alexander, and C. S. Lewis, among others, as major influences), he wrote the first book in The Dresden Files—about a professional wizard, named Harry Dresden, in modern-day Chicago—as an exercise for a writing course in 1996 at the age of 25.",
+				"image":"butcher.jpg"
+			}
+		],
+		"ep": [13, 19, 29, 35, 39, 41, 45, 48, 55, 58, 63, 65, 67, 69, 72, 74, 81, 82, 87],
+		"subSeries": [
+			{
+				"title": "The Dresden Files",
+				"id": 0,
+				"ep": [13, 19, 29, 35, 39, 41, 45, 48, 55, 58, 63, 65, 67, 69, 72, 74, 81, 82, 87]
+			},
+			{
+				"title": "The Codex Alera",
+				"id": 1,
+				"ep": []
+			},
+			{
+				"title": "The Cinder Spires",
+				"id": 2,
+				"ep": []
+			}
+		]
+	},
+	"4": {
+		"title":"Abercrombie's First Law Universe",
+		"id": 4,
+		"description":"Joe is best known for the First Law Trilogy – The Blade Itself, Before They Are Hanged and Last Argument of Kings – and the stand-alone novels in the same world – Best Served Cold, The Heroes, and Red Country. He has also written the Shattered Sea trilogy for young (and old) adults – Half a King, Half the World, and Half a War. The world of the First Law collides with the industrial age in a new trilogy – The Age of Madness – which began in September 2019 with A Little Hatred, continued a year later with The Trouble With Peace and concludes in September 2021 with The Wisdom of Crowds. You can keep up with Joe by following him on twitter where he posts as @lordgrimdark.",
+		"image": "abercrombie-series2.png",
+		"author": [
+			{
+				"name": "Joe Abercrombie",
+				"id": [0, 1, 2, 3],
+				"description":"Joe Abercrombie is a British fantasy writer and film editor. He is the author of The First Law trilogy, as well as other fantasy books in the same setting and a trilogy of young adult novels. Abercrombie had a job making tea at a television production company before taking up a career as a freelance film editor. As a freelance film editor, Abercrombie found himself with more free time than he previously had. With this time, he decided to reconsider a story plot he conceived while attending University. Thus begun the grimdarkiest series we’ve read – The First Law.",
+				"image":"abercrombie.jpg"
+			}
+		],
+		"ep": [17, 38, 46, 52, 70, 71, 75],
+		"subSeries": [
+			{
+				"title": "The First Law Trilogy",
+				"id": 0,
+				"ep": [17]
+			},
+			{
+				"title": "First Law Stand-Alones",
+				"id": 1,
+				"ep": [38, 46, 52, 70]
+			},
+			{
+				"title": "The Age of Madness",
+				"id": 2,
+				"ep": [71, 75]
+			},
+			{
+				"title": "The Shattered Sea",
+				"id": 3,
+				"ep": []
+			}
+		]
+	},
+	"5": {
+		"title":"Tolkien's Legendarium",
+		"id": 5,
+		"description":"Tolkien never expected his stories to become popular, but by sheer accident a book called The Hobbit, which he had written some years before for his own children, came in 1936 to the attention of Susan Dagnall, an employee of the London publishing firm George Allen & Unwin, who persuaded Tolkien to submit it for publication. When it was published a year later, the book attracted adult readers as well as children, and it became popular enough for the publishers to ask Tolkien to produce a sequel. The request for a sequel prompted Tolkien to begin what would become his most famous work: the epic novel The Lord of the Rings (originally published in three volumes 1954–1955). Tolkien spent more than ten years writing the primary narrative and appendices for The Lord of the Rings, during which time he received the constant support of the Inklings, in particular his closest friend C. S. Lewis, the author of The Chronicles of Narnia.",
+		"image": "tolkien-series2.png",
+		"author": [
+			{
+				"name": "JRR Tolkien",
+				"id": [0, 1],
+				"description":"John Ronald Reuel Tolkien (3 January 1892 – 2 September 1973) was an English writer, poet, philologist, and academic, best known as the author of the high fantasy works The Hobbit and The Lord of the Rings. After Tolkien's death, his son Christopher published a series of works based on his father's extensive notes and unpublished manuscripts, including The Silmarillion. These, together with The Hobbit and The Lord of the Rings, form a connected body of tales, poems, fictional histories, invented languages, and literary essays about a fantasy world called Arda and Middle-earth within it. Between 1951 and 1955, Tolkien applied the term legendarium to the larger part of these writings. While many other authors had published works of fantasy before Tolkien, the great success of The Hobbit and The Lord of the Rings led directly to a popular resurgence of the genre. This has caused Tolkien to be popularly identified as the father of modern fantasy literature—or, more precisely, of high fantasy.",
+				"image":"tolkien.jpg"
+			}
+		],
+		"ep": [56, 78],
+		"subSeries": [
+			{
+				"title": "The Lord of the Rings",
+				"id": 0,
+				"ep": [56, 78]
+			},
+			{
+				"title": "Expanded Legendarium",
+				"id": 1,
+				"ep": []
+			}
+		]
+	},
+	"6": {
+		"title":"Rowling's Wizarding World",
+		"id": 6,
+		"description":"Harry Potter is a series of seven fantasy novels written by British author J. K. Rowling. The novels chronicle the lives of a young wizard, Harry Potter, and his friends Hermione Granger and Ron Weasley, all of whom are students at Hogwarts School of Witchcraft and Wizardry. The main story arc concerns Harry's struggle against Lord Voldemort, a dark wizard who intends to become immortal, overthrow the wizard governing body known as the Ministry of Magic and subjugate all wizards and Muggles (non-magical people). Since the release of the first novel, Harry Potter and the Philosopher's Stone, on 26 June 1997, the books have found immense popularity. They have attracted a wide adult audience as well as younger readers and are often considered cornerstones of modern young adult literature. As of February 2018, the books have sold more than 500 million copies worldwide, making them the best-selling book series in history, and have been translated into eighty languages.",
+		"image": "rowling-series2.png",
+		"author": [
+			{
+				"name": "JK Rowling",
+				"id": [0],
+				"description":"Joanne Rowling (born 31 July 1965), better known by her pen name J. K. Rowling, is a British author, philanthropist, film producer, television producer and screenwriter. She is best known for writing the Harry Potter fantasy series, which has won multiple awards and sold more than 500 million copies, becoming the best-selling book series in history. The books are the basis of a popular film series, over which Rowling had overall approval on the scripts and was a producer on the final films. She also writes crime fiction under the pen name Robert Galbraith.",
+				"image":"rowling.jpg"
+			}
+		],
+		"ep": [30, 37, 47, 57, 73, 84, 101],
+		"subSeries": [
+			{
+				"title": "Harry Potter",
+				"id": 0,
+				"ep": [30, 37, 47, 57, 73, 84, 101]
+			}
+		]
+	},
+	"7": {
+		"title":"Erikson's Malazan Book of the Fallen",
+		"id": 7,
+		"description":"Malazan Book of the Fallen is a high fantasy book series by the Canadian author Steven Erikson. Erikson's series is extremely complex with a wide scope, and presents the narratives of a large cast of characters spanning thousands of years across multiple continents. His plotting presents a complicated series of events in the world upon which the Malazan Empire is located. Each of the first five novels is relatively self-contained, in that each resolves its respective primary conflict; but many underlying characters and events are interwoven throughout the works of the series, binding it together. The Malazan world was co-created by Steven Erikson and Ian Cameron Esslemont in the early 1980s as a backdrop to their GURPS roleplaying campaign. The series has received widespread critical acclaim, with reviewers praising the epic scope, plot complexity and characterizations.",
+		"image": "erikson-series2.png",
+		"author": [
+			{
+				"name": "Steven Erikson",
+				"id": [0],
+				"description":"Steven Erikson (born October 7, 1959) is the pseudonym of Steve Rune Lundin, a Canadian novelist, who was educated and trained as both an archaeologist and anthropologist. He is best known for his ten-volume spanning epic fantasy series Malazan Book of the Fallen, which began with the publication of Gardens of the Moon (1999) and was completed with the publication of The Crippled God (2011). By 2012 over 1 million copies of the series had been sold worldwide, and over 3 million copies by 2018. SF Site has called the series the most significant work of epic fantasy since Donaldson's Chronicles of Thomas Covenant, and Fantasy Book Review described it as the best fantasy series of recent times.",
+				"image":"erikson.jpg"
+			}
+		],
+		"ep": [12, 60],
+		"subSeries": [
+			{
+				"title": "Malazan Book of the Fallen",
+				"id": 0,
+				"ep": [12, 60]
+			}
+		]
+	},
+	"8": {
+		"title":"McClellan's Powder Mage Universe",
+		"id": 8,
+		"description":"The Powder Mage universe is the setting of a series of epic fantasy novels written by American author Brian McClellan. It consists of the Powder Mage Trilogy – which started with The Promise of Blood – and a sequel series, Gods of Blood and Powder. In 2014, Promise of Blood received the Morningstar Award for Best Fantasy Newcomer. McClellan is now writing in a new setting and will publish the first entry in his new series, The Glass Immortals, in the near future.",
+		"image": "mcclellan-series2.png",
+		"author": [
+			{
+				"name": "Brian McClellan",
+				"id": [0, 1],
+				"description":"McClellan began writing when he was fifteen, starting at Wheel of Time role playing websites. He began working on short stories and novellas in his late teens, when he was encouraged toward writing by his parents. McClellan went on to major in English with an emphasis on creative writing at Brigham Young University, where he met American author Brandon Sanderson, joining his writing classes. McClellan, wanting his writing to be more than just art, was determined to become a full-time writer. In 2006 he attended Orson Scott Card's Literary Bootcamp. In 2008 he received honorable mention in the Writers of the Future Contest.",
+				"image":"mcclellan.jpg"
+			}
+		],
+		"ep": [40, 44, 61, 80],
+		"subSeries": [
+			{
+				"title": "Powder Mage Trilogy",
+				"id": 0,
+				"ep": [44, 61, 80]
+			},
+			{
+				"title": "Gods of Blood & Powder",
+				"id": 1,
+				"ep": [40]
+			}
+		]
+	},
+	"9": {
+		"title":"The Science Fiction Series",
+		"id": 9,
+		"description":"Despite our name, we don’t only read fantasy! Throw in some imaginative technology and futuristic ideas and you have our second favorite genre, science fiction. Thus far we’ve covered The Three-Body Problem and Red Rising, but that’s only scratching the surface of the sci-fi options out there.",
+		"image": "sci-fi-series2.png",
+		"author": [
+			{
+				"name": "Cixin Liu",
+				"id": [0],
+				"description":"Liu Cixin (Chinese: 刘慈欣 l'yoh tsee-shin; born 23 June 1963) is a Chinese science fiction writer. He is a nine-time winner of the Galaxy Award (China's most prestigious literary science fiction award), winner of the 2015 Hugo Award (for The Three-Body Problem) and the 2017 Locus Award (for Death's End) as well as a nominee for the Nebula Award. In English translations of his works, his name is given in the form Cixin Liu.",
+				"image":"liu.jpg"
+			},
+			{
+				"name": "Pierce Brown",
+				"id": [1],
+				"description":"Pierce Brown (January 28, 1988) is an American science fiction author who writes the Red Rising series, consisting of Red Rising (2014), Golden Son (2015), Morning Star (2016), Iron Gold (2018) and Dark Age (2019). Brown graduated from Pepperdine University, where he majored in political science and economics. After graduation, he worked a variety of jobs in politics and startup tech companies. Brown was working for the NBC Page Program in Burbank, California and living in his former political science professor's garage when he sold Red Rising in 2012.",
+				"image":"brown.jpg"
+			}
+		],
+		"ep": [10, 15, 21, 32],
+		"subSeries": [
+			{
+				"title": "Three-Body Problem",
+				"id": 0,
+				"ep": [10]
+			},
+			{
+				"title": "Red Rising",
+				"id": 1,
+				"ep": [15, 21, 32]
+			}
+		]
+	},
+	"10": {
+		"title":"The Young Adult Series",
+		"id": 10,
+		"description":"The nostalgia of YA literary worlds is something we will never close the door on. These are the books that provided the foundation for our love of fantasy and they deserve our recognition just as much as the adult genre. ",
+		"image": "ya-series2.png",
+		"author": [
+			{
+				"name": "Philip Pullman",
+				"id": [0],
+				"description":"Sir Philip Pullman, CBE, FRSL (born 19 October 1946) is an English novelist. He is the author of several best-selling books, including the fantasy trilogy His Dark Materials and the fictionalised biography of Jesus, The Good Man Jesus and the Scoundrel Christ. In a 2004 poll for the BBC, Pullman was named the eleventh most influential person in British culture. He was knighted in the 2019 New Year Honours for services to literature.",
+				"image":"pullman.jpg"
+			},
+			{
+				"name": "Eoin Colfer",
+				"id": [1],
+				"description":"Eoin Colfer (/ˈoʊ.ɪn/; born 14 May 1965) is an Irish author of children's books. He worked as a primary school teacher before he became a full-time writer. He is best known for being the author of the Artemis Fowl series. In September 2008, Colfer was commissioned to write the sixth instalment of the Hitchhiker's Guide to the Galaxy series, entitled And Another Thing ..., which was published in October 2009. In October 2016, in a contract with Marvel Comics, he released Iron Man: The Gauntlet. He served as Laureate na nÓg (Ireland's Children's Laureate) between 2014 and 2016.",
+				"image":"colfer.jpg"
+			}
+		],
+		"ep": [23, 24, 26, 31],
+		"subSeries": [
+			{
+				"title": "His Dark Materials",
+				"id": 0,
+				"ep": [23, 26, 31]
+			},
+			{
+				"title": "Artemis Fowl",
+				"id": 1,
+				"ep": [24]
+			}
+		]
+	},
+	"11": {
+		"title":"Fantasy News Archives",
+		"id": 11,
+		"description":"Every month Fantology covers the notable happenings in the world of fantasy. Books, TV, Video games etc. we've got it all documented. Plus, these episodes introduce our monthly Twitter poll competitions. We've been able to crown the Top 3 Fantasy Book Series, Covers, Settings, Maps and more! Follow us @fantology_books to play along.",
+		"image": "news-series2.png",
+		"author": [
+			{
+				"name": "Fantology",
+				"id": [0, 1],
+				"description":"Who are these fools?",
+				"image":"transparent-logo.png"
+			}
+		],
+		"ep": [14, 16, 27, 36, 43, 51, 59, 66, 68, 76, 85, 94, 100],
+		"subSeries": [
+			{
+				"title": "2020",
+				"id": 0,
+				"ep": [14, 16, 27, 36, 43, 51, 59, 66, 68, 76, 85, 94, 100]
+			},
+			{
+				"title": "2021",
+				"id": 1,
+				"ep": []
+			}
+		]
+	},
+	"12": {
+		"title":"The Television Adaptation Series",
+		"id": 12,
+		"author":"Various Authors",
+		"description":"The fantasy genre is reaping the benefits of the golden age of television. From Marvel to Game of Thrones to Star Wars (and everything in-between) you better believe we'll be watching and reviewing.",
+		"image": "tv-series2.png",
+		"author": [
+			{
+				"name": "Netflix, Amazon Prime Video, HBO etc.",
+				"id": [0],
+				"description":"The small screen guys.",
+				"image":"tv.png"
+			},
+			{
+				"name": "Hollywood",
+				"id": [1],
+				"description":"The big screen guys.",
+				"image":"hollywood.jpg"
+			}
+		],
+		"ep": [5, 42, 49, 64, 79, 99],
+		"subSeries": [
+			{
+				"title": "TV Series",
+				"id": 0,
+				"ep": [5, 42, 64, 79, 99]
+			},
+			{
+				"title": "Movies",
+				"id": 1,
+				"ep": [49]
+			}
+		]
+	}
 }
