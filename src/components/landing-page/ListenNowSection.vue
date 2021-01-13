@@ -33,7 +33,7 @@
               </a>
             </div>
             <div class="column is-6">
-              <a href="https://discordapp.com/invite/k5efNbG">
+              <a href="https://www.patreon.com/fantology_books">
                 <figure class="curved-image">
                   <img src="@/assets/images/patreon-logo.jpg" />
                   <!-- <img src="@/assets/images/discord-logo.png" /> -->
