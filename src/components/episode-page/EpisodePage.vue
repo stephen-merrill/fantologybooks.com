@@ -23,7 +23,8 @@
                                       : 'text-align: justify; float: left; margin-top: 3vh; margin-bottom: 3vh;'">
                 {{ episode.description }}
               </div>
-              <div :class="isMobile() ? 'columns vertically-align' : 'columns links vertically-align'">
+              <div v-if="!isMobile()"
+                   class="columns vertically-align">  
                 <div class="column is-4">
                   <a :href="episode.spotifyLink">
                     <figure class="image is-rectangle">
@@ -62,7 +63,7 @@
                  class="continue-listening">
               <!-- <h1 class="subtitle" style="text-align: center">{{ series.title}}</h1><hr style="margin-left: 0px;"> -->
               <br>
-              <div class="columns is-centered">
+              <div class="columns is-mobile is-centered">
                 <div class="column is-half is-offset-1">
                   <a class="link" @click="goToSeries(episode.seriesId)">
                     <img class="curved-image" style="width: 75%;" :src="require('@/assets/images/' + series.image)"/>

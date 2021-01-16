@@ -2,8 +2,8 @@
   <section class="hero is-small section">
     <div class="hero-body">
       <div class="container">
-        <hr>
-        <div class="columns has-text-left-tablet is-centered">
+        <hr v-if="!isMobile()">
+        <div v-if="!isMobile()" class="columns has-text-left-tablet is-centered">
           <div class="column is-3 is-offset-1">
             <div class="subtitle" style="margin-left: 4vh">Listen Now</div>
             <a href="https://podcasts.apple.com/us/podcast/id1489097985">
@@ -68,14 +68,23 @@
             </a>
           </div>
         </div>
+        <div v-else>
+          <a href="/#home">
+            <img style="width: 50%" class="logo" src="@/assets/images/transparent-logo.png"/>
+          </a>
+          <hr>
+        </div>
       </div>
     </div>
   </section>
 </template>
 
 <script>
+ import IsMobile from '@/mixins/IsMobile.js'
  export default {
    name: 'FooterSection',
+   mixins: [IsMobile]
+
  }
 </script>
 

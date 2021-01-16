@@ -42,14 +42,14 @@
                   <a v-else>{{ subSeries.title }}</a></li>
             </ul>
           </div>
-          <div class="search-results columns is-multiline">
+          <div class="search-results columns is-mobile is-multiline">
             <div v-if="series.subSeries[selectedSub].ep.length == 0">
               <figure class="center">
                 <img style="width: 50%" :src="require('@/assets/images/coming-soon.png')"/>
               </figure>
             </div>
             <div v-for="episode in getSeries(episodes, series.subSeries[selectedSub])"
-                 class="column is-3">
+                 :class="isMobile() ? 'column is-6' : 'column is-3'">
                  <!-- :class="isMobile() ? 'is-6' : 'is-3'"> -->
               <a class="link" @click="() => goToEpisode(episode.id, series.id)">
                 <figure class="image episode-cover">
