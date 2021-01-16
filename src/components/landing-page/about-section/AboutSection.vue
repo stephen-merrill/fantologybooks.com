@@ -5,7 +5,7 @@
     <div class="container">
       <div class="columns">
         <div class="column">
-          <profile fullName="Ben Robinson" twitterUsername="BenRobinson92" image="ben-robinson.png" discordUsername="Wit's End"/> <br>
+          <profile fullName="Ben Robinson" twitterUsername="BenRobinson92" image="ben-avatar.png" discordUsername="Wit's End"/> <br>
         </div>
         <div class="column">
           <profile fullName="Jake Yorgason" twitterUsername="dreamjacked" image="jake-yorgason.png" discordUsername="Elder Haman"/> <br>
