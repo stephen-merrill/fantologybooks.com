@@ -11,6 +11,9 @@
             </div>
             <div class="column is-two-fifths vertically-align has-text-left-tablet">
               <div v-if="!isMobile()">
+                <figure>
+                  <img class="logo" src="@/assets/images/transparent-logo.png"/>
+                </figure>
                 <h1 class="title">
                   A podcast about your favorite fantasy books.
                 </h1>
@@ -29,13 +32,13 @@
                      style="padding-top: 2vh">
                   <a href="https://podcasts.apple.com/us/podcast/id1489097985">
                     <figure  class="image is-rectangle">
-                      <img src="@/assets/images/apple-badge.svg" />
+                      <img class="badge" src="@/assets/images/apple-badge.svg" />
                     </figure>
                   </a>
                   <br>
                   <a href="https://open.spotify.com/show/310DLxDRkTdam3fMcQtMCR?si=_4Wk59U5TWWdF19h5STreg">
                     <figure class="image is-rectangle">
-                      <img src="@/assets/images/spotify-badge2.png" />
+                      <img class="badge" src="@/assets/images/spotify-badge2.png" />
                     </figure>
                   </a>
                 </div>
@@ -44,13 +47,13 @@
                      style="padding-top: 2vh">
                   <a href="https://podcasts.apple.com/us/podcast/id1489097985">
                     <figure class="image is-rectangle">
-                      <img src="@/assets/images/google-badge2.png" />
+                      <img class="badge" src="@/assets/images/google-badge2.png" />
                     </figure>
                   </a>
                   <br>
                   <a href="https://www.youtube.com/channel/UChnTPpjUWTS8-NUn9EQi-4A">
                     <figure class="image is-rectangle">
-                      <img src="@/assets/images/youtube-badge.png" />
+                      <img class="badge" src="@/assets/images/youtube-badge.png" />
                     </figure>
                   </a>
                 </div>
@@ -125,15 +128,12 @@
 
 <style lang="scss" scoped>
  .logo {
-   width: 50vh;
-   height: 50vh;
-   margin-top: 16px;
+   width: 25vh;
+   height: 25vh;
+   margin-left: 14vh;
  }
  .logo-container {
    display: flex;
-   /*background-color: $primary;*/
-   /*flex-direction: row;*/
-   /*justify-content: center;*/
  }
  .hero {
    background-color: $secondary;
@@ -153,8 +153,13 @@
   border-radius: 15px;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
  }
- img:hover {
+.curved-image:hover {
   opacity: 0.75;
   transform: scale(1.1);
  }
+ .badge:hover {
+  opacity: 0.75;
+  transform: scale(1.1);
+ }
+
 </style>
