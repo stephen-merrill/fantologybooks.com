@@ -53,7 +53,7 @@
   }
   img:hover {
   opacity: 0.75;
-  transform: scale(1.1);
+  transform: scale(1.02);
  }
  .twitter-username {
    margin-top: 6px;

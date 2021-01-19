@@ -11,7 +11,7 @@
         <div v-for="episodeId in recentEpisodeIds"
              :key="episodeId"
              class="column is-4 has-text-left-tablet">
-          <a class="link" @click="() => goToEpisode(episodeId)">
+          <a class="link" @click="() => goToEpisode(episodeId, episodes[episodeId].seriesId)">
             <div class="container episode">
               <img :src="require('@/assets/images/' + episodes[episodeId].image)" class="episode-logo" />
               <h2 class="subtitle">
@@ -47,9 +47,9 @@
      }
    },
    methods: {
-     goToEpisode (episodeId) {
-       this.$router.push({ path: `episode/${episodeId}` })
-     }
+     goToEpisode (episodeId, seriesId) {
+       this.$router.push({ path: `episode/${episodeId}/${seriesId}` })
+     },
    }
  }
 </script>
@@ -75,12 +75,12 @@
    margin: 16px;
  }
  .episode-logo {
-   width: 100%;
+  width: 100%;
   border-radius: 15px;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
  }
  .episode-logo:hover {
   opacity: 0.75;
-  transform: scale(1.1);
+  transform: scale(1.025);
  }
 </style>

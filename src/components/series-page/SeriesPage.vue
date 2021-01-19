@@ -208,6 +208,10 @@
    border-radius: 15px;
    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
  }
+ .episode-image:hover {
+  opacity: 0.75;
+  transform: scale(1.025);
+ }
  .mobile-image {
   width: 75%;
   margin-left: auto;
@@ -282,14 +286,12 @@
    justify-content: center
  }
  .tabs a:hover {
-  border-bottom-color: $secondary;
-  color: $secondary
+  border-bottom-color: white;
+  color: white;
+  background-color: #822924;
  }
  .tabs a:active {
   color: $secondary;
- }
- .active {
-  background-color: yellow;
  }
  .search-results {
   padding-left: 5px;

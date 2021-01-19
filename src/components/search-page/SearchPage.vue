@@ -142,4 +142,8 @@
  .search-results {
    margin: 4px;
  }
+ img:hover {
+  opacity: 0.75;
+  transform: scale(1.025);
+ }
 </style>

@@ -28,21 +28,21 @@
                 <div class="column is-4">
                   <a :href="episode.spotifyLink">
                     <figure class="image is-rectangle">
-                      <img src="@/assets/images/spotify-badge2.png" />
+                      <img class="badge" src="@/assets/images/spotify-badge2.png" />
                     </figure>
                   </a>
                 </div>
                 <div class="column is-4">
                   <a :href="episode.googleLink">
                     <figure class="image is-rectangle">
-                      <img src="@/assets/images/google-badge2.png" />
+                      <img class="badge" src="@/assets/images/google-badge2.png" />
                     </figure>
                   </a>
                 </div>
                 <div class="column is-4">
                   <a :href="episode.youtubeLink">
                     <figure class="image is-rectangle">
-                      <img src="@/assets/images/youtube-badge.png" />
+                      <img class="badge" src="@/assets/images/youtube-badge.png" />
                     </figure>
                   </a>
                 </div>
@@ -66,13 +66,13 @@
               <div class="columns is-mobile is-centered">
                 <div class="column is-half is-offset-1">
                   <a class="link" @click="goToSeries(episode.seriesId)">
-                    <img class="curved-image" style="width: 75%;" :src="require('@/assets/images/' + series.image)"/>
+                    <img class="continue-listening-images" :src="require('@/assets/images/' + series.image)"/>
                   </a>
                   <h1 class="subtitle">{{ series.title }}</h1>
                 </div>
                 <div class="column is-half">
                   <a class="link" @click="() => goToEpisode(episodes[nextEp].id, episode.seriesId)">
-                    <img class="curved-image" style="width: 75%;" :src="require('@/assets/images/' + episodes[nextEp].image)"/>
+                    <img class="continue-listening-images" :src="require('@/assets/images/' + episodes[nextEp].image)"/>
                   </a>
                   <h1 class="subtitle">Next Episode: #{{ episodes[nextEp].id }} <br> {{ episodes[nextEp].title }}</h1>
                 </div>
@@ -209,6 +209,7 @@
   background-color: $primary;
   margin-left: 25vh;
   margin-right: 2vh;
+  margin-bottom: 4vh;
   text-align: center;
  }
  .mobile-hr {
@@ -216,6 +217,20 @@
   margin-left: auto;
   margin-right: auto;
   width: 100%;
+ }
+ .continue-listening-images {
+  width: 75%;
+  border-radius: 15px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  margin-right: 1vh;
+ }
+ .continue-listening-images:hover {
+  opacity: 0.75;
+  transform: scale(1.1);
+ }
+ .badge:hover {
+  opacity: 0.75;
+  transform: scale(1.1);
  }
 
 </style>
