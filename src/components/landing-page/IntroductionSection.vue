@@ -130,7 +130,6 @@
  .logo {
    width: 25vh;
    height: 25vh;
-   margin-left: 14vh;
  }
  .logo-container {
    display: flex;

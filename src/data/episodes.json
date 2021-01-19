@@ -1209,5 +1209,16 @@
     "spotifyLink": "https://open.spotify.com/episode/3vq08gsAyIYucrOIArAeRF?si=Vw7yY1hdQdez38xVY05uHQ",
     "googleLink": "https://podcasts.google.com/?feed=aHR0cHM6Ly9mZWVkLnBvZGJlYW4uY29tL2ZhbnRvbG9neWJvb2tzL2ZlZWQueG1s&ep=14&episode=M2MyZTNmOWYtYmEzNC00NjQ3LTg5ZTAtZTAwM2M5ZDBkMGVl",
     "youtubeId": "JXFKtDiBD1o"
+  },  
+  "103": {
+    "author": "Stephen King",
+    "description": "It might have taken a few long months of pandemic season, but we made it all the way through Stephen King's The Stand. Check out our review below where Jake and Josh talk through the large cast of characters and compare King's pandemic to ours. Plus, we wanted more meat back on the menu!",
+    "id": 103,
+    "title": "The Stand",
+    "image": "stand.png",
+    "appleLink": "https://podcasts.apple.com/us/podcast/103-the-stand-full-spoiler-review/id1489097985?i=1000505750440&ls=1",
+    "spotifyLink": "https://open.spotify.com/episode/7nRMIXoXozLrnQGMEigqM8?si=yDQi2xBYStqGsC0M5UmmUA",
+    "googleLink": "https://podcasts.google.com/?feed=aHR0cHM6Ly9mZWVkLnBvZGJlYW4uY29tL2ZhbnRvbG9neWJvb2tzL2ZlZWQueG1s&ep=14&episode=MDQ0ZmQzZWEtZmU0My00ZDE0LThlYmYtY2I2ZTRkNzMzM2U1",
+    "youtubeId": "cXw-pn7Fe4s"
   }
 }

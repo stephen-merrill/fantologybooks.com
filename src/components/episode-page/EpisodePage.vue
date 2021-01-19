@@ -40,7 +40,7 @@
                   </a>
                 </div>
                 <div class="column is-4">
-                  <a :href="episode.youtubeLink">
+                  <a :href='"https://youtu.be/" + episode.youtubeId'>
                     <figure class="image is-rectangle">
                       <img class="badge" src="@/assets/images/youtube-badge.png" />
                     </figure>
