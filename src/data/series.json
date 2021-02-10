@@ -242,6 +242,12 @@
 				"id": [1],
 				"description":"Pierce Brown (January 28, 1988) is an American science fiction author who writes the Red Rising series, consisting of Red Rising (2014), Golden Son (2015), Morning Star (2016), Iron Gold (2018) and Dark Age (2019). Brown graduated from Pepperdine University, where he majored in political science and economics. After graduation, he worked a variety of jobs in politics and startup tech companies. Brown was working for the NBC Page Program in Burbank, California and living in his former political science professor's garage when he sold Red Rising in 2012.",
 				"image":"brown.jpg"
+			},
+			{
+				"name": "Various Authors",
+				"id": [2],
+				"description":"Google them!",
+				"image":"mystery.jpg"
 			}
 		],
 		"ep": [10, 15, 21, 32],
@@ -255,6 +261,11 @@
 				"title": "Red Rising",
 				"id": 1,
 				"ep": [15, 21, 32]
+			},
+			{
+				"title": "Misc.",
+				"id": 2,
+				"ep": [108]
 			}
 		]
 	},

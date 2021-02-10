@@ -1266,5 +1266,17 @@
     "spotifyLink": "https://open.spotify.com/episode/20RlLZMgEsFH2Ymx8bXZkV?si=EGYFy9JXSEyIkdh7qN-UMg&utm_source=copy-link",
     "googleLink": "https://podcasts.google.com/?feed=aHR0cHM6Ly9mZWVkLnBvZGJlYW4uY29tL2ZhbnRvbG9neWJvb2tzL2ZlZWQueG1s&ep=14&episode=MDU3OGVhN2EtM2RjZC00NTQ3LThmZTgtNDYxZjA3MzhjODQ2",    
     "youtubeId": "D90Kkv6hfec"
-  }
+  },
+  "108": {
+    "author": "Ernest Cline",
+    "description": "We can't recommend reading this book. But if you have already, here's a rant that might make you feel better.",
+    "id": 108,
+    "seriesId":9,
+    "title": "Ready Player Two",
+    "image": "rp2.png",
+    "appleLink": "https://podcasts.apple.com/us/podcast/108-ready-player-two/id1489097985?i=1000508426858&ls=1",
+    "spotifyLink": "https://open.spotify.com/episode/3pSFpmy2laIkIpCHbOmnEQ?si=cdDAU6VVQnqvqTtlzDFbWw&utm_source=copy-link",
+    "googleLink": "https://podcasts.google.com/?feed=aHR0cHM6Ly9mZWVkLnBvZGJlYW4uY29tL2ZhbnRvbG9neWJvb2tzL2ZlZWQueG1s&ep=14&episode=OWRhMzExMzEtYzlmNi00ZWZmLWJjZTAtMzMzMGU4NGY0ZjQ0",
+    "youtubeId": "m-6B3aSzF_A"  
+}
 }
