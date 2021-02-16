@@ -250,7 +250,7 @@
 				"image":"mystery.jpg"
 			}
 		],
-		"ep": [10, 15, 21, 32],
+		"ep": [10, 15, 21, 32, 108, 109],
 		"subSeries": [
 			{
 				"title": "Three-Body Problem",
@@ -265,7 +265,7 @@
 			{
 				"title": "Misc.",
 				"id": 2,
-				"ep": [108]
+				"ep": [108, 109]
 			}
 		]
 	},

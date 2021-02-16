@@ -1278,5 +1278,17 @@
     "spotifyLink": "https://open.spotify.com/episode/3pSFpmy2laIkIpCHbOmnEQ?si=cdDAU6VVQnqvqTtlzDFbWw&utm_source=copy-link",
     "googleLink": "https://podcasts.google.com/?feed=aHR0cHM6Ly9mZWVkLnBvZGJlYW4uY29tL2ZhbnRvbG9neWJvb2tzL2ZlZWQueG1s&ep=14&episode=OWRhMzExMzEtYzlmNi00ZWZmLWJjZTAtMzMzMGU4NGY0ZjQ0",
     "youtubeId": "m-6B3aSzF_A"  
-}
+  },
+  "109": {
+    "author": "Frank Herbert",
+    "description": "Dune is a classic. One of the founding fathers of the science fiction genre. How does Frank Herbert's creation hold up today? Find out in our review!",
+    "id": 109,
+    "seriesId": 9,
+    "title": "Dune",
+    "image": "dune.png",
+    "appleLink": "https://podcasts.apple.com/us/podcast/109-dune/id1489097985?i=1000509214607&ls=1",
+    "spotifyLink": "https://open.spotify.com/episode/7H1i4x9ZYHPqJcdYY9HXCy?si=SUUzOrvISre-PXRfqhMnhQ&utm_source=copy-link",
+    "googleLink": "https://podcasts.google.com/?feed=aHR0cHM6Ly9mZWVkLnBvZGJlYW4uY29tL2ZhbnRvbG9neWJvb2tzL2ZlZWQueG1s&ep=14&episode=ZDE5YmVjNWQtODFhZC00ODgwLWI4YWEtMWVjZjI1OWI0NGI2",
+    "youtubeId": "0au04hX-CYQ"
+  }
 }
