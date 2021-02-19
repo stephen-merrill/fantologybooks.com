@@ -1290,5 +1290,17 @@
     "spotifyLink": "https://open.spotify.com/episode/7H1i4x9ZYHPqJcdYY9HXCy?si=SUUzOrvISre-PXRfqhMnhQ&utm_source=copy-link",
     "googleLink": "https://podcasts.google.com/?feed=aHR0cHM6Ly9mZWVkLnBvZGJlYW4uY29tL2ZhbnRvbG9neWJvb2tzL2ZlZWQueG1s&ep=14&episode=ZDE5YmVjNWQtODFhZC00ODgwLWI4YWEtMWVjZjI1OWI0NGI2",
     "youtubeId": "0au04hX-CYQ"
+  },
+  "110": {
+    "author": "J.K. Rowling",
+    "description": "The showdown episodes in the making. Stephen, Nathan and Dan compete for the title of ultimate Potterhead in the first part of our trivia showdown. Play along with us! There's a non-zero chance that your Harry Potter knowledge is much more impressive than ours.",
+    "id": 110,
+    "seriesId": 6,
+    "title": "Harry Potter Trivia Part One",
+    "image": "hp-trivia-p1.png",
+    "appleLink": "https://podcasts.apple.com/us/podcast/110-harry-potter-trivia-part-one/id1489097985?i=1000509786331&ls=1",
+    "spotifyLink": "https://open.spotify.com/episode/3GajKibME4MPdf0FFhQI2A?si=ZavlbV7uTlCH3tfXKhRplg&utm_source=copy-link",
+    "googleLink": "https://podcasts.google.com/?feed=aHR0cHM6Ly9mZWVkLnBvZGJlYW4uY29tL2ZhbnRvbG9neWJvb2tzL2ZlZWQueG1s&ep=14&episode=ODFlMjU4ZjctMTI4Mi00MjA2LTgxYzItNzMzMWI1MDU3ZGVj",
+    "youtubeId": "VZpms_wR6lk"
   }
 }
