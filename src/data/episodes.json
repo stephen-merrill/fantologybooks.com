@@ -1302,5 +1302,16 @@
     "spotifyLink": "https://open.spotify.com/episode/3GajKibME4MPdf0FFhQI2A?si=ZavlbV7uTlCH3tfXKhRplg&utm_source=copy-link",
     "googleLink": "https://podcasts.google.com/?feed=aHR0cHM6Ly9mZWVkLnBvZGJlYW4uY29tL2ZhbnRvbG9neWJvb2tzL2ZlZWQueG1s&ep=14&episode=ODFlMjU4ZjctMTI4Mi00MjA2LTgxYzItNzMzMWI1MDU3ZGVj",
     "youtubeId": "VZpms_wR6lk"
+  },
+  "111": {
+    "author": "R.F. Kuang",
+    "description": "Charles and Dylan from FTF Podcast join Ben and Stephen to cover The Burning God from all angles. We talk Rin and the making of a monster against the backdrop of speculative Chinese history. Plus, our attempted answers to the philosophical questions R.F. Kuang asks in the series and who's interested in The Poppy War: A Musical?",
+    "id": 111,
+    "title": "The Burning God",
+    "image": "burning-god.png",
+    "appleLink": "https://podcasts.apple.com/us/podcast/111-the-burning-god/id1489097985?i=1000510477831&ls=1",
+    "spotifyLink": "https://open.spotify.com/episode/3M4TIQLvpb0uybCv2XslYp?si=0Nie5M5CSye3gXZioaxZow&utm_source=copy-link",
+    "googleLink": "https://podcasts.google.com/?feed=aHR0cHM6Ly9mZWVkLnBvZGJlYW4uY29tL2ZhbnRvbG9neWJvb2tzL2ZlZWQueG1s&ep=14&episode=NWY2MDIyZDUtYTU0YS00OGMwLWE3OTctNDcyOGY0OTNkN2Q4",
+    "youtubeId": "bj5Fd-2jwps"
   }
 }
