@@ -1325,5 +1325,17 @@
     "spotifyLink": "https://open.spotify.com/episode/2m5zWLV3jdDGnZ63BR974v?si=os4AB3PnSz-liMAVHXPwgQ&utm_source=copy-link",
     "googleLink": "https://podcasts.google.com/?feed=aHR0cHM6Ly9mZWVkLnBvZGJlYW4uY29tL2ZhbnRvbG9neWJvb2tzL2ZlZWQueG1s&ep=14&episode=ZDU5YjhmOTgtNmZkNi00M2JiLWJlZjUtZjhlODNhNDIzZWIw",
     "youtubeId": "SOontxqLd0Q"
-}
+  },
+  "113": {
+    "author": "Fantology",
+    "description": "What magic is the best magic? We debate. And let us know your top magic systems on Twitter! Plus, we cover news from February including an update from George R.R. Martin, Wheel of Time on Prime and news from new authors.",
+    "id": 113,
+    "seriesId": 11,
+    "title": "Top 3 Fantasy Romances + January News",
+    "image": "february-pod.png",
+    "appleLink": "https://podcasts.apple.com/us/podcast/113-top-3-magic-systems-february-sff-news/id1489097985?i=1000511677376&ls=1",
+    "spotifyLink": "https://open.spotify.com/episode/20dhbCjhwQnHoBH9WtI8uA?si=G1ZguMwsSIKw2B1sKmSlpw&utm_source=copy-link",
+    "googleLink": "https://podcasts.google.com/?feed=aHR0cHM6Ly9mZWVkLnBvZGJlYW4uY29tL2ZhbnRvbG9neWJvb2tzL2ZlZWQueG1s&ep=14&episode=MmIxYmU3MTItOWU5MS00ZWVhLTg3NWEtMGFhYWMxMDg0YTZi",    
+    "youtubeId": "0Qt-DtwGJfs"
+  }
 }
