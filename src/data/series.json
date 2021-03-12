@@ -49,12 +49,12 @@
 				"image":"jordan.jpg"
 			}
 		],
-		"ep": [22, 28, 34, 50, 62, 83, 97],
+		"ep": [22, 28, 34, 50, 62, 83, 97, 115],
 		"subSeries": [
 			{
 				"title": "The Wheel of Time",
 				"id": 0,
-				"ep": [22, 28, 34, 50, 62, 83, 97]
+				"ep": [22, 28, 34, 50, 62, 83, 97, 115]
 			}
 		]
 	},
@@ -332,7 +332,6 @@
 	"12": {
 		"title":"The Television Adaptation Series",
 		"id": 12,
-		"author":"Various Authors",
 		"description":"The fantasy genre is reaping the benefits of the golden age of television. From Marvel to Game of Thrones to Star Wars (and everything in-between) you better believe we'll be watching and reviewing.",
 		"image": "tv-series2.png",
 		"author": [
