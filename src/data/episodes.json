@@ -1372,5 +1372,27 @@
     "spotifyLink": "https://open.spotify.com/episode/6xmF7tqc2qyfZag77Mpni8?si=b2biDjFzTQu-8kg9zkry4A&utm_source=copy-link",
     "googleLink": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkLnBvZGJlYW4uY29tL2ZhbnRvbG9neWJvb2tzL2ZlZWQueG1s/episode/MTA0ZGZkMGUtYzZjYy00ZTQ3LThkZDUtOGZiMDNiODdkN2Mx?ep=14",
     "youtubeId": "fn4sP4kmZEE"
+  },
+  "117": {
+    "author": "Randall McNally",
+    "description": "Randall McNally connected with Stephen to talk about Shadowless, his self-published and uniquely brilliant epic fantasy book. We talk about his writing process and experience in the publishing market while convincing you to try out the book!",
+    "id": 117,
+    "title": "Shadowless",
+    "image": "shadowless.png",
+    "appleLink": "https://podcasts.apple.com/us/podcast/117-shadowless-an-interview-with-randall-mcnally/id1489097985?i=1000513630224&ls=1",
+    "spotifyLink": "https://open.spotify.com/episode/1jB9Xj9mplN7HRwKvUY1hy?si=WJ0oe8RoSziQJq8luwwFNw&utm_source=copy-link",
+    "googleLink": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkLnBvZGJlYW4uY29tL2ZhbnRvbG9neWJvb2tzL2ZlZWQueG1s/episode/ZTE1MzgyMmUtYzkyYS00NWRhLWE2YjktMmExNGY5ZTM5ODlh?ep=14",
+    "youtubeId": "nUo2Yj0cpwU"
+  },
+  "118": {
+    "author": "Daniel Greene",
+    "description": "Double Coverage of Breach of Peace! If you haven't read Daniel Greene's novella yet, then check out our no spoiler conversation. Already listened? Tune into our roundtable discussion of our favorite moments and ratings.",
+    "id": 118,
+    "title": "Breach of Peace",
+    "image": "breach-peace.png",
+    "appleLink": "https://open.spotify.com/episode/23QkSxfDFzRP1o6TMb3pg5?si=89LXyvwMSKycL0exYoFf0Q&utm_source=copy-link",
+    "spotifyLink": "https://open.spotify.com/episode/23QkSxfDFzRP1o6TMb3pg5?si=89LXyvwMSKycL0exYoFf0Q&utm_source=copy-link",
+    "googleLink": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkLnBvZGJlYW4uY29tL2ZhbnRvbG9neWJvb2tzL2ZlZWQueG1s/episode/OTc1YTYzOTItMjIxNC00Y2M1LWFiNjItMDhiNjI4ZDE2ZjIz?ep=14",
+    "youtubeId": "WvTyIoE0qiI"
   }
 }

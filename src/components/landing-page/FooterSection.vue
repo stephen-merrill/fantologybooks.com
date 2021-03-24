@@ -16,7 +16,7 @@
                 <i class="fab fa-spotify fa-2x"></i>
               </span>
             </a>
-            <a href="https://www.youtube.com/channel/UChnTPpjUWTS8-NUn9EQi-4A">
+            <a href="https://www.youtube.com/c/fantologypodcast">
               <span class="icon is-large">
                 <i class="fab fa-youtube fa-2x"></i>
               </span>

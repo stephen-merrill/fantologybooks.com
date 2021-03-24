@@ -109,7 +109,7 @@
           </span>
           <span v-if="isMobile()">Spotify</span>
         </a>
-        <a class="navbar-item social-links" href="https://www.youtube.com/channel/UChnTPpjUWTS8-NUn9EQi-4A">
+        <a class="navbar-item social-links" href="https://www.youtube.com/c/fantologypodcast">
           <span class="icon is-medium">
             <i class="fab fa-lg fa-youtube"></i>
           </span>
