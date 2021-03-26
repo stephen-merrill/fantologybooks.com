@@ -103,12 +103,12 @@
 				"image":"abercrombie.jpg"
 			}
 		],
-		"ep": [17, 38, 46, 52, 70, 71, 75],
+		"ep": [119, 17, 38, 46, 52, 70, 71, 75],
 		"subSeries": [
 			{
 				"title": "The First Law Trilogy",
 				"id": 0,
-				"ep": [17]
+				"ep": [119, 17]
 			},
 			{
 				"title": "First Law Stand-Alones",
