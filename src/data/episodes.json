@@ -1406,5 +1406,17 @@
     "spotifyLink": "https://open.spotify.com/episode/6yMzlpGbDoTApca2bvrtbL?si=z6bA9cjXT-KjaXe6MGxbUA&utm_source=copy-link",
     "googleLink": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkLnBvZGJlYW4uY29tL2ZhbnRvbG9neWJvb2tzL2ZlZWQueG1s/episode/MTZjZGNiMzktMjI2Zi00ZjhjLWE1YjgtOGRmMmVlY2Q1ODBl?ep=14",
     "youtubeId": "ViREL8vwVeI"
+  },
+  "120": {
+    "author": "Brandon Sanderson",
+    "description": "Stephen's roommate Daniel took the plunge into epic fantasy, so we took the opportunity to revisit the beginning of the Stormlight Archive with him. Tune in for a first time perspective on the beginning of Brandon Sanderson's magnum opus!",
+    "id": 120,
+    "seriesId": 1,
+    "title": "The Way of Kings...Revisited",
+    "image": "wok-daniel.png",
+    "appleLink": "https://podcasts.apple.com/us/podcast/120-the-way-of-kings-revisited-w-first-time-reader-daniel/id1489097985?i=1000515129122&ls=1",
+    "spotifyLink": "https://open.spotify.com/episode/2VXj7u5MBgt5BH6flWxXu5?si=y-RICwJHT_WkoYqZdIjZ4w&utm_source=copy-link",
+    "googleLink": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkLnBvZGJlYW4uY29tL2ZhbnRvbG9neWJvb2tzL2ZlZWQueG1s/episode/NDhkMDhkNTMtMzIyZi00NmYyLWExZmUtN2RjZTdmOWYyZjk0?ep=14",
+    "youtubeId": "PUb0JYBAflE"
   }
 }

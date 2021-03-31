@@ -7,12 +7,12 @@
 		"author": [
 			{
 				"name": "Brandon Sanderson",
-				"id": [0, 1, 2, 3, 4],
+				"id": [0, 1, 2, 3],
 				"description":"Brandon Sanderson (born December 19, 1975) is an American author of epic fantasy and science fiction. He is best known for the Cosmere fictional universe, in which most of his fantasy novels, most notably the Mistborn series and The Stormlight Archive, are set. He is also known for finishing Robert Jordan's high fantasy series The Wheel of Time.He created Sanderson's Laws of Magic and popularized the terms hard and soft magic systems.",
 				"image":"sanderson.jpg"
 			}
 		],
-		"ep": [53, 6, 11, 9, 89, 88, 90, 91, 92, 93, 95, 96, 98],
+		"ep": [53, 6, 120, 11, 9, 89, 88, 90, 91, 92, 93, 95, 96, 98],
 		"subSeries": [
 			{
 				"title": "Mistborn",
@@ -22,7 +22,7 @@
 			{
 				"title": "Stormlight Archive",
 				"id": 1,
-				"ep": [6, 11, 89, 88, 90, 91, 92, 93, 95, 96, 98]
+				"ep": [6, 120, 11, 89, 88, 90, 91, 92, 93, 95, 96, 98]
 			},
 			{
 				"title": "Other Cosmere Works",
