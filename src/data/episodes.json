@@ -1430,5 +1430,17 @@
     "spotifyLink": "https://open.spotify.com/episode/1UJD5e1zjxPBxLVwzgd7yo?si=dVKuA1eQTKGU2-N44S1BtA&utm_source=copy-link",
     "googleLink": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkLnBvZGJlYW4uY29tL2ZhbnRvbG9neWJvb2tzL2ZlZWQueG1s/episode/OTM3YzJkNTUtODc3Yi00NzMwLThlZjYtYjNhZTU5NGM5ZTc5?ep=14",
     "youtubeId": "HE3tXHzNhqE"
+  },
+  "122": {
+    "author": "Jim Butcher",
+    "description": "Stephen and Ryan revisit the entirety of Jim Butcher's Dresden Files (with full spoilers). We get Ryan's tier list rankings for the books and retrospective thoughts on the series as a whole. Is it really urban fantasy? Or epic fantasy in disguise?",
+    "id": 122,
+    "seriesId": 3,
+    "title": "The Dresden Files, Full Series Retrospective",
+    "image": "dresden-retro.png",
+    "appleLink": "https://podcasts.apple.com/us/podcast/122-the-dresden-files-full-series-retrospective/id1489097985?i=1000516449594&ls=1",
+    "spotifyLink": "https://open.spotify.com/episode/4L4nzR76VXD8pVWmSkNK2v?si=A-izd43AS6ywv54kZ3txaQ&utm_source=copy-link",
+    "googleLink": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkLnBvZGJlYW4uY29tL2ZhbnRvbG9neWJvb2tzL2ZlZWQueG1s/episode/NGY4YWExNmQtYTVkOC00MzhhLTk4MzMtOGI1MzUyOGM3OGZl?ep=14",
+    "youtubeId": "dPpWcPNbMAI"
   }
 }
