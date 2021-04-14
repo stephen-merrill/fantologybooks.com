@@ -1442,5 +1442,17 @@
     "spotifyLink": "https://open.spotify.com/episode/4L4nzR76VXD8pVWmSkNK2v?si=A-izd43AS6ywv54kZ3txaQ&utm_source=copy-link",
     "googleLink": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkLnBvZGJlYW4uY29tL2ZhbnRvbG9neWJvb2tzL2ZlZWQueG1s/episode/NGY4YWExNmQtYTVkOC00MzhhLTk4MzMtOGI1MzUyOGM3OGZl?ep=14",
     "youtubeId": "dPpWcPNbMAI"
+  },
+  "123": {
+    "author": "Brandon Sanderson",
+    "description": "We welcome Alex & Zach from A Hero's Journey Podcast to talk through Elantris. Tune in for our discussion of how Sanderson's writing and the Cosmere itself has progressed since the adventures of Raoden, Sarene & Hrathen. Brandon Sanderson's first published work isn't one to skip!",
+    "id": 123,
+    "seriesId": 1,
+    "title": "Elantris ft. A Hero's Journey",
+    "image": "elantris.png",
+    "appleLink": "https://podcasts.apple.com/us/podcast/123-elantris-ft-a-heros-journey/id1489097985?i=1000516910714&ls=1",
+    "spotifyLink": "https://open.spotify.com/episode/7sZkF1Go2EV8sQCICHodC1?si=_2EwwZ7JQJS1hZ2CHJBrCQ&utm_source=copy-link",
+    "googleLink": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkLnBvZGJlYW4uY29tL2ZhbnRvbG9neWJvb2tzL2ZlZWQueG1s/episode/MjZlZGYxM2ItMDQ4YS00ZjJkLTllOTEtMzA2ODc4OGQ2MzMz?ep=14",
+    "youtubeId": "b2jPoCDf4uo"
   }
 }

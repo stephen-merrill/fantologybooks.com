@@ -12,7 +12,7 @@
 				"image":"sanderson.jpg"
 			}
 		],
-		"ep": [53, 6, 120, 11, 9, 89, 88, 90, 91, 92, 93, 95, 96, 98],
+		"ep": [53, 6, 120, 11, 9, 89, 88, 90, 91, 92, 93, 95, 96, 98, 123],
 		"subSeries": [
 			{
 				"title": "Mistborn",
@@ -27,7 +27,7 @@
 			{
 				"title": "Other Cosmere Works",
 				"id": 2,
-				"ep": []
+				"ep": [123]
 			},
 			{
 				"title": "Skyward",
