@@ -1466,5 +1466,16 @@
     "spotifyLink": "https://open.spotify.com/episode/1ji66YAVflviF4aYtI1QXF?si=1Ul5AacmR8CnpjxcEMUR8g&utm_source=copy-link",
     "googleLink": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkLnBvZGJlYW4uY29tL2ZhbnRvbG9neWJvb2tzL2ZlZWQueG1s/episode/YjE2ZDBhYWYtYjhjZi00MDJmLWI1MjEtZTRlZDdkMjJkMjM5?ep=14",
     "youtubeId": "wDHoE_4mOKQ"
+  },
+  "125": {
+    "author": "Stephen King",
+    "description": "Ben and Josh, our resident team of twins, team up on this review of early Stephen King. How does The Eyes of the Dragon compare to other King fantasy? Tune in a find out! Ten minutes of no spoiler conversation, followed by a full book review.",
+    "id": 125,
+    "title": "The Eyes of the Dragon",
+    "image": "eyes-dragon.png",
+    "appleLink": "https://podcasts.apple.com/us/podcast/125-the-eyes-of-the-dragon/id1489097985?i=1000518295673&ls=1",
+    "spotifyLink": "https://open.spotify.com/episode/3TDXsWgS0BePjPxoLjVLHv?si=PJ7SKfTXRQGwc-YbKybHkQ&utm_source=copy-link",
+    "googleLink": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkLnBvZGJlYW4uY29tL2ZhbnRvbG9neWJvb2tzL2ZlZWQueG1s/episode/ZWQ4OGIzZjAtMTcwZi00ZjJmLWE0NjMtMDFhOGJlYjJjODM5?ep=14",
+    "youtubeId": "tOSehSwRR-c"
   }
 }
