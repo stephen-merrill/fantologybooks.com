@@ -1477,5 +1477,16 @@
     "spotifyLink": "https://open.spotify.com/episode/3TDXsWgS0BePjPxoLjVLHv?si=PJ7SKfTXRQGwc-YbKybHkQ&utm_source=copy-link",
     "googleLink": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkLnBvZGJlYW4uY29tL2ZhbnRvbG9neWJvb2tzL2ZlZWQueG1s/episode/ZWQ4OGIzZjAtMTcwZi00ZjJmLWE0NjMtMDFhOGJlYjJjODM5?ep=14",
     "youtubeId": "tOSehSwRR-c"
+  },
+  "126": {
+    "author": "John Gwynne",
+    "description": "Release day episode! Stephen and Josh cover John Gwynne's latest hit in depth, starting with a no-spoiler discussion. If you're interested in The Shadow of the Gods, we'll let you know what you're in for and if you've finished already tune into the latter half of the episode for our spoiler takes.",
+    "id": 126,
+    "title": "The Shadow of the Gods",
+    "image": "shadow-gods.png",
+    "appleLink": "https://podcasts.apple.com/us/podcast/126-the-shadow-of-the-gods-by-john-gwynne/id1489097985?i=1000520002131&ls=1",
+    "spotifyLink": "https://open.spotify.com/episode/6U5ptmX9lLNhqdlVqQXqOo?si=PXkERqL7RLWWxrzbnr5AEg&utm_source=copy-link",
+    "googleLink": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkLnBvZGJlYW4uY29tL2ZhbnRvbG9neWJvb2tzL2ZlZWQueG1s/episode/ZjI5OGU5MGItNjVlMC00OTQ2LWE2YmYtM2ZmOWMyMmQ1YWI1?ep=14",
+    "youtubeId": "g6QoCo6vbwk"
   }
 }
