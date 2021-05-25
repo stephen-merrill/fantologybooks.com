@@ -1523,5 +1523,17 @@
     "spotifyLink": "https://open.spotify.com/episode/4wp4PmYMRXwQxl0hV7gOJM?si=cHqqdH06QveX29cyyqmiLQ&utm_source=copy-link",
     "googleLink": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkLnBvZGJlYW4uY29tL2ZhbnRvbG9neWJvb2tzL2ZlZWQueG1s/episode/ZTBkMTc5NzUtNjIwOS00NjkwLTg1NzYtNDhiNjM1NDc3MGU4?ep=14",
     "youtubeId": "5615o10sus4"
+  },
+  "130": {
+    "author": "Christopher Buehlman",
+    "description": "The Blacktongue Thief is a hilarious romp of moral ambiguity. We follow the first person narrative of Kinch, a thief brilliantly assembled from every trope of the class, on an epic adventure across a Dungeons and Dragons inspired world. Tune in for an extended non-spoiler discussion for why you should buy the book, followed by a spoilerific plot breakdown.",
+    "id": 130,
+    "title": "The Blacktongue Thief",
+    "image": "blacktongue.png",
+    "appleLink": "https://podcasts.apple.com/gr/podcast/130-the-blacktongue-thief-by-christopher-buehlman/id1489097985?i=1000523004533&ls=1",
+    "spotifyLink": "https://open.spotify.com/episode/2ZBJtc2wXpqPwzi1ngAnFL?si=wd-110zhQGi0vYE5wl5aoA&utm_source=copy-link",
+    "googleLink": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkLnBvZGJlYW4uY29tL2ZhbnRvbG9neWJvb2tzL2ZlZWQueG1s/episode/NzEyNGQ5NzEtNDE5Ni00MzJiLWIzNjYtNjI2MGEzYzBlMDI3?ep=14",
+    "youtubeId": "ImV4WmWSTO0"
   }
+
 }
