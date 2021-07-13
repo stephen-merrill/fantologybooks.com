@@ -1604,5 +1604,16 @@
     "spotifyLink": "https://open.spotify.com/episode/3owZzoyl9nlDf00O8fedVY?si=Iah_GGO7SE6KkaQeH-Zoyw&utm_source=copy-link&dl_branch=1",
     "googleLink": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkLnBvZGJlYW4uY29tL2ZhbnRvbG9neWJvb2tzL2ZlZWQueG1s/episode/ZmI5YTMwZTktNTliMi00ZTMwLWJlNjgtZDBkZWE0NWFjZDli?ep=14",
     "youtubeId": "I8OCWeq7LrE"
+  },
+  "137": {
+    "author": "Stephen King",
+    "description": "Ben and Josh feature on a special twin episode, covering the first two books of The Dark Tower. Interested in the Stephen King fantasy multiverse, or just reading King in general? We have you covered. Plus a deep dive plot review into both books!",
+    "id": 137,
+    "title":"The Gunslinger & The Drawing of the Three",
+    "image": "guns-dott.png",
+    "appleLink": "https://podcasts.apple.com/us/podcast/137-the-gunslinger-the-drawing-of-the-three-by-stephen-king/id1489097985?i=1000528746781&ls=1",
+    "spotifyLink": "https://open.spotify.com/episode/52AKRYzAdHxyMqvt8oprnS?si=wji3wAH2SHC9fMbxTOSR7w&utm_source=copy-link&dl_branch=1",
+    "googleLink": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkLnBvZGJlYW4uY29tL2ZhbnRvbG9neWJvb2tzL2ZlZWQueG1s/episode/NDljNjI1OTctNDYzYy00NDY3LTgwZTItODI1OTlkZmEyYzk4?ep=14",
+    "youtubeId": "_fA7uuOaq3c"
   }
 }
