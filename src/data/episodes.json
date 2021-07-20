@@ -1615,5 +1615,17 @@
     "spotifyLink": "https://open.spotify.com/episode/52AKRYzAdHxyMqvt8oprnS?si=wji3wAH2SHC9fMbxTOSR7w&utm_source=copy-link&dl_branch=1",
     "googleLink": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkLnBvZGJlYW4uY29tL2ZhbnRvbG9neWJvb2tzL2ZlZWQueG1s/episode/NDljNjI1OTctNDYzYy00NDY3LTgwZTItODI1OTlkZmEyYzk4?ep=14",
     "youtubeId": "_fA7uuOaq3c"
+  },
+  "138": {
+    "author": "Stephen King",
+    "description": "Ben and Josh are back with more Stephen King. Pet Sematary may well be his most terrifying book ever - what makes this one so seriously messed up? Tune in for our takes on the exploration of death and whether or not this one might be for you.",
+    "id": 138,
+    "title":"Pet Sematary",
+    "image": "pet-sematary.png",
+    "appleLink": "https://podcasts.apple.com/us/podcast/138-pet-sematary-by-stephen-king/id1489097985?i=1000529480737&ls=1",
+    "spotifyLink": "https://open.spotify.com/episode/1LS7GXtDodszzJRBqLf76a?si=Y4JfUWNbSxuiDFT-uL3WoA&utm_source=copy-link&dl_branch=1",
+    "googleLink": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkLnBvZGJlYW4uY29tL2ZhbnRvbG9neWJvb2tzL2ZlZWQueG1s/episode/MGZhZDVjYjktMzEzNy00ZGVmLWI2YjAtODdlZGE1MjA3MWRl?ep=14",
+    "youtubeId": "ic9SYHbx9Wo"
   }
+
 }
