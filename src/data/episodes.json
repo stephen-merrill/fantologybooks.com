@@ -1697,5 +1697,18 @@
     "spotifyLink": "https://open.spotify.com/episode/4dubtuzfJVHYyMY2lKWQKX?si=KJ6mVqpCSQ-PO67qAqivcw&utm_source=copy-link&dl_branch=1",
     "googleLink": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkLnBvZGJlYW4uY29tL2ZhbnRvbG9neWJvb2tzL2ZlZWQueG1s/episode/ZmMxNDI4NDItNTg5Mi00OTI5LTkyOTItZTljMjI0MDViODI3?ep=14",
     "youtubeId": "F2_dTZ1txB8"
+  },
+  "145": {
+    "author": "Robert Jordan",
+    "description": "To slog or not to slog? That, unfortunately is the question in one of the slowest books of The Wheel of Time. Stephen, Jake and Kaden love the series but had to search to find redeeming factors in this one.",
+    "id": 145,
+    "seriesId": 2,
+    "title":"Crossroads of Twilight",
+    "image": "crossroads-pod.png",
+    "appleLink": "https://podcasts.apple.com/us/podcast/145-crossroads-of-twilight-by-robert-jordan/id1489097985?i=1000534662119&ls=1",
+    "spotifyLink": "https://open.spotify.com/episode/2etkLjgVRvuBGxKCBWoxsx?si=L3MtkXFDSwa-g-i383C-SQ&dl_branch=1",
+    "googleLink": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkLnBvZGJlYW4uY29tL2ZhbnRvbG9neWJvb2tzL2ZlZWQueG1s/episode/NGVkNDQzOGUtNTg1My00OTJiLWJjZGQtOGVhZDcxNTk0NmMx?ep=14",
+    "youtubeId": "oxb9HEcW2ms"
   }
+
 }
