@@ -1709,6 +1709,16 @@
     "spotifyLink": "https://open.spotify.com/episode/2etkLjgVRvuBGxKCBWoxsx?si=L3MtkXFDSwa-g-i383C-SQ&dl_branch=1",
     "googleLink": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkLnBvZGJlYW4uY29tL2ZhbnRvbG9neWJvb2tzL2ZlZWQueG1s/episode/NGVkNDQzOGUtNTg1My00OTJiLWJjZGQtOGVhZDcxNTk0NmMx?ep=14",
     "youtubeId": "oxb9HEcW2ms"
+  },
+  "146": {
+    "author": "Isaac Asimov",
+    "description": "Excited for the Apple+ Foundation series? Josh and Stephen give an overview of the book and series as a non-spoiler primer for the show. How well does this 80 year old work hold up today? Tune in for our opinions!",
+    "id": 146,
+    "title":"Foundation",
+    "image": "foundation.png",
+    "appleLink": "https://podcasts.apple.com/us/podcast/146-foundation-by-isaac-asimov/id1489097985?i=1000536290245&ls=1",
+    "spotifyLink": "https://open.spotify.com/episode/29X4F0OwdbgDK0JIZvdXc1?si=IUhRNoAcT8-sPObU7qk7-w&utm_source=copy-link&dl_branch=1",
+    "googleLink": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkLnBvZGJlYW4uY29tL2ZhbnRvbG9neWJvb2tzL2ZlZWQueG1s/episode/ZTM0NDQyNmUtYjM2My00NGJmLThjYzEtYzQ0NTAzMTA3YTQ1?ep=14",
+    "youtubeId": "1KvjA7re1jE"
   }
-
 }
