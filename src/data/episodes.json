@@ -1720,5 +1720,17 @@
     "spotifyLink": "https://open.spotify.com/episode/29X4F0OwdbgDK0JIZvdXc1?si=IUhRNoAcT8-sPObU7qk7-w&utm_source=copy-link&dl_branch=1",
     "googleLink": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkLnBvZGJlYW4uY29tL2ZhbnRvbG9neWJvb2tzL2ZlZWQueG1s/episode/ZTM0NDQyNmUtYjM2My00NGJmLThjYzEtYzQ0NTAzMTA3YTQ1?ep=14",
     "youtubeId": "1KvjA7re1jE"
+  },
+  "147": {
+    "author": "Joe Abercrombie",
+    "description": "Charles from FTFPodcast joins Stephen & Ryan for a review of The Wisdom of Crowds that's more exciting than snorting pearl dust or even fighting in the circle. Thanks Joe Abercrombie for a beautiful and haunting ending to the trilogy!",
+    "id": 147,
+    "seriesId": 4,
+    "title":"The Wisdom of Crowds",
+    "image": "wisdom-crowds.png",
+    "appleLink": "https://podcasts.apple.com/us/podcast/147-the-wisdom-of-crowds-by-joe-abercrombie/id1489097985?i=1000536836345&ls=1",
+    "spotifyLink": "https://open.spotify.com/episode/1rT1vcMQRHVgkFbLOXoW5Q?si=kFJaRcGVTUCmQGT6U0RuYw&utm_source=copy-link&dl_branch=1",
+    "googleLink": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkLnBvZGJlYW4uY29tL2ZhbnRvbG9neWJvb2tzL2ZlZWQueG1s/episode/OGQ4YmUxNTItMjlkMS00ZDU4LWI0Y2QtZGFiYzJmNGRjOWVk?ep=14",
+    "youtubeId": "oD0JifftB6U"
   }
 }
