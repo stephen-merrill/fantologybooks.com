@@ -1744,6 +1744,29 @@
     "spotifyLink": "https://open.spotify.com/episode/4WeCASa43VzzwYHdJ9v37f?si=wIYz9FGORvSGp4QVi4Q4dA&utm_source=copy-link&dl_branch=1",
     "googleLink": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkLnBvZGJlYW4uY29tL2ZhbnRvbG9neWJvb2tzL2ZlZWQueG1s/episode/M2MzMTRjMGMtMzkxNi00ZTYyLThhMTYtMTkxNmU5ZGI4YTA4?ep=14",
     "youtubeId": "Fk-ib9J8wmc"
+  },
+  "149": {
+    "author": "Fantology",
+    "description": "Fantology continues our Halloween month with a themed debate. What's scarier? Sci-fi or fantasy? Plus, tune in for a chance to win free audible credits in our 1k subs celebration ",
+    "id": 149,
+    "seriesId": 11,
+    "title":"What's Scarier? Sci-Fi or Fantasy?",
+    "image": "scary-debate.png",
+    "appleLink": "https://podcasts.apple.com/us/podcast/149-whats-scarier-sci-fi-or-fantasy/id1489097985?i=1000538094418&ls=1",
+    "spotifyLink": "https://open.spotify.com/episode/4xbpmgHBxYmyGFAUsw9Obu?si=F1kGs3U_SKun-kVN2AZUng&utm_source=copy-link&dl_branch=1",
+    "googleLink": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkLnBvZGJlYW4uY29tL2ZhbnRvbG9neWJvb2tzL2ZlZWQueG1s/episode/ZjY3ZDY1ZWYtOWM2Yy00NWMyLTk2NWYtYTBlNjc5MDIxNjlj?ep=14",
+    "youtubeId": "OITuXvLzn5g"
+  },
+  "150": {
+    "author": "Josiah Bancroft",
+    "description": "Looking for a fresh and unique take on epic fantasy? Look no further! Senlin Ascends is the start to a zany steampunk series that we're going to be fans of for a long time. Bravo Josiah Bancroft!",
+    "id": 150,
+    "title":"Senlin Ascends",
+    "image": "senlin.png",
+    "appleLink": "https://podcasts.apple.com/us/podcast/150-senlin-ascends-by-josiah-bancroft/id1489097985?i=1000538657820&ls=1",
+    "spotifyLink": "https://open.spotify.com/episode/5uz59rDUqjCgnGnHWfMyoc?si=vwgUHGclTUGgNeT04_E3Jw&utm_source=copy-link",
+    "googleLink": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkLnBvZGJlYW4uY29tL2ZhbnRvbG9neWJvb2tzL2ZlZWQueG1s/episode/ZmMwM2JhNGYtMjE3NC00ODM3LWIxMjYtYzZlOWYwODQyZDYy?ep=14",
+    "youtubeId": "mN-Ks6sbVFk"
   }
 
 }
