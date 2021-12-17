@@ -1896,6 +1896,31 @@
     "spotifyLink": "https://open.spotify.com/episode/7aJ5eQCJPiIZN3SaBMxt5k?si=efKlqFfvTX-h2tpVyKjZUQ&utm_source=copy-link",
     "googleLink": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkLnBvZGJlYW4uY29tL2ZhbnRvbG9neWJvb2tzL2ZlZWQueG1s/episode/Yzg1Mjc1Y2MtYzc2Mi00OTY2LWIwYTctYTRjMzJlNWFkZGZk?ep=14",
     "youtubeId": "PO3o-wiSr7s"
+  },
+  "162": {
+    "author": "Amazon Prime Video",
+    "description": "Episode 6 is Brandon Sanderson's favorite. What did Stephen, Josh & Kaden think? Minor early book series topics discussed. No specific plot spoilers.",
+    "id": 162,
+    "seriesId": 12,
+    "title":"The Wheel of Time TV Show Episode 6",
+    "image": "wot-ep6.png",
+    "appleLink": "https://podcasts.apple.com/us/podcast/162-the-wheel-of-time-episode-6/id1489097985?i=1000544677253&ls=1",
+    "spotifyLink": "https://open.spotify.com/episode/0LzYEFfAJPo2uQ6GN9NADi?si=DPIgpONnS5C42YlTBos3oA&utm_source=copy-link",
+    "googleLink": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkLnBvZGJlYW4uY29tL2ZhbnRvbG9neWJvb2tzL2ZlZWQueG1s/episode/MmRiYzM5YjMtNjA4OS00NGQ2LWFmNDYtZTc3ZmIwMjk1MWRl?ep=14",
+    "youtubeId": "GC9xTJ2kf-c"
+  },
+  "163": {
+    "author": "Fantology",
+    "description": "Our response to inflammatory bad faith and bigoted criticism of The Wheel of Time TV Show",
+    "id": 163,
+    "seriesId": 12,
+    "title":"The Wheel of Time TV BAD TAKES Debunked",
+    "image": "bad-takes1.png",
+    "appleLink": "https://podcasts.apple.com/us/podcast/163-the-wheel-of-time-tv-bad-takes-debunked/id1489097985?i=1000545235453&ls=1",
+    "spotifyLink": "https://open.spotify.com/episode/0NclXt8MVOuIj315a4pH7L?si=IBnuR6KjRfeuzgZgGFLyuw&utm_source=copy-link",
+    "googleLink": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkLnBvZGJlYW4uY29tL2ZhbnRvbG9neWJvb2tzL2ZlZWQueG1s/episode/MTAxOTk5M2EtMDk3Ny00NzczLWEzNjYtOTRkNGU1YmMzMjUx?ep=14",
+    "youtubeId": "Rv03Edvwy60"
   }
+
 
 }

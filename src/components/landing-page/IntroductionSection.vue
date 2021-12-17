@@ -45,7 +45,7 @@
                 <div :class="isMobile() ? '' : 'is-5'"
                      class="column"
                      style="padding-top: 2vh">
-                  <a href="https://podcasts.apple.com/us/podcast/id1489097985">
+                  <a href="https://podcasts.google.com/?feed=aHR0cHM6Ly9mZWVkcy5idXp6c3Byb3V0LmNvbS84MTAwODkucnNz&ved=0CAAQ4aUDahcKEwiYnvGJhpnoAhUAAAAAHQAAAAAQAQ">
                     <figure class="image is-rectangle">
                       <img class="badge" src="@/assets/images/google-badge2.png" />
                     </figure>
