@@ -1920,7 +1920,52 @@
     "spotifyLink": "https://open.spotify.com/episode/0NclXt8MVOuIj315a4pH7L?si=IBnuR6KjRfeuzgZgGFLyuw&utm_source=copy-link",
     "googleLink": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkLnBvZGJlYW4uY29tL2ZhbnRvbG9neWJvb2tzL2ZlZWQueG1s/episode/MTAxOTk5M2EtMDk3Ny00NzczLWEzNjYtOTRkNGU1YmMzMjUx?ep=14",
     "youtubeId": "Rv03Edvwy60"
+  },
+  "164": {
+    "author": "Fantology",
+    "description": "We travel through the ways and gear up for the season finale in the penultimate episode. Tune in for Kaden, Jake and Stephen's impressions!",
+    "id": 164,
+    "seriesId": 12,
+    "title":"The Wheel of Time TV Episode 7",
+    "image": "wot-ep7.png",
+    "appleLink": "https://podcasts.apple.com/us/podcast/164-the-wheel-of-time-tv-episode-7/id1489097985?i=1000545382584&ls=1",
+    "spotifyLink": "https://open.spotify.com/episode/3m7uVZ0ZpS4vBTTePXfTwl?si=Esi6kLYmThyVdJyKAC_GHA&utm_source=copy-link",
+    "googleLink": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkLnBvZGJlYW4uY29tL2ZhbnRvbG9neWJvb2tzL2ZlZWQueG1s/episode/YWFiYmZmNTEtNmFhMS00ZjYyLTlmZTMtMzM3YWJmMDY4ZmE3?ep=14",
+    "youtubeId": "xSJEQJmOdJ0"
+  },
+  "165": {
+    "author": "Fantology",
+    "description": "The Wheel of Time season finale! You have questions? We don't have many answers. But if you want even more questions, tune in!",
+    "id": 165,
+    "seriesId": 12,
+    "title":"The Wheel of Time TV Episode 8",
+    "image": "wot-ep8.png",
+    "appleLink": "https://podcasts.apple.com/us/podcast/165-the-wheel-of-time-episode-8/id1489097985?i=1000546061370&ls=1",
+    "spotifyLink": "https://open.spotify.com/episode/53sQ0nZrbRzkuzbDukYtX6?si=i8U6AFT8RF6TbDhl9COKPA&utm_source=copy-link",
+    "googleLink": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkLnBvZGJlYW4uY29tL2ZhbnRvbG9neWJvb2tzL2ZlZWQueG1s/episode/YjkzZmYyMDYtNmU4Zi00NzY2LTgwYzUtNjBiN2Y2MDA4MDY5?ep=14",
+    "youtubeId": "wzD_l3ycHRQ"
+  },
+  "166": {
+    "author": "Robert Jordan & Brandon Sanderson",
+    "description": "Brandon Sanderson took up Robert Jordan's mantle following the tragic passing of the creator of The Wheel of Time. So how'd he do in book 12 of the epic series?",
+    "id": 166,
+    "seriesId": 2,
+    "title":"The Gathering Storm",
+    "image": "gathering-storm-pod.png",
+    "appleLink": "https://podcasts.apple.com/us/podcast/166-the-gathering-storm-by-robert-jordan-brandon-sanderson/id1489097985?i=1000546481259&ls=1",
+    "spotifyLink": "https://open.spotify.com/episode/7gFcb8QkJnxX7L9lmWYCQq?si=QMDReEjhT_SSv2KI26KDZg&utm_source=copy-link",
+    "googleLink": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkLnBvZGJlYW4uY29tL2ZhbnRvbG9neWJvb2tzL2ZlZWQueG1s/episode/NjA1NGRmNzQtYmUzMC00MGIyLWJiMmItOGFmZGEwOTE3NzI3?ep=14",
+    "youtubeId": "CM8eoa--Bc8"
+  },
+  "167": {
+    "author": "Jonathan Edward Durham",
+    "description": "Stephen chats with Jonathan about his first book Winterset Hollow and his journey to becoming a published author.",
+    "id": 167,
+    "title":"A Conversation with Jonathan Edward Durham, Author of Winterset Hollow",
+    "image": "winterset.png",
+    "appleLink": "https://podcasts.apple.com/us/podcast/167-a-conversation-with-jonathan-edward-durham/id1489097985?i=1000547207385&ls=1",
+    "spotifyLink": "https://open.spotify.com/episode/6OIBKdee9RwVsRZsQrTfd2?si=WmXCrMIVRCmhRGXQi4yknw&utm_source=copy-link",
+    "googleLink": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkLnBvZGJlYW4uY29tL2ZhbnRvbG9neWJvb2tzL2ZlZWQueG1s/episode/YzRmZWRkMGQtYWI5NC00M2MyLTg3NzUtOTlmZTM1NWM1N2E4?ep=14",
+    "youtubeId": "0jRn101bB30"
   }
-
-
 }
