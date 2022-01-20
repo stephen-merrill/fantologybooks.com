@@ -1967,5 +1967,29 @@
     "spotifyLink": "https://open.spotify.com/episode/6OIBKdee9RwVsRZsQrTfd2?si=WmXCrMIVRCmhRGXQi4yknw&utm_source=copy-link",
     "googleLink": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkLnBvZGJlYW4uY29tL2ZhbnRvbG9neWJvb2tzL2ZlZWQueG1s/episode/YzRmZWRkMGQtYWI5NC00M2MyLTg3NzUtOTlmZTM1NWM1N2E4?ep=14",
     "youtubeId": "0jRn101bB30"
+  },
+  "168": {
+    "author": "Fantology",
+    "description": "All five of the Fantology cast looks back at a busy 2021 for fantasy and looks ahead to big things in 2022.",
+    "id": 168,
+    "seriesId": 11,
+    "title":"Looking back at 2021 and forward to 2022",
+    "image": "year-end-2021.png",
+    "appleLink": "https://podcasts.apple.com/us/podcast/168-looking-back-on-sci-fi-fantasy-in-2021-and/id1489097985?i=1000547793797&ls=1",
+    "spotifyLink": "https://open.spotify.com/episode/4FM2MAPpTfxbRovRTKpPlZ?si=E0Jws0iATmGgV2YZzvxg1g&utm_source=copy-link",
+    "googleLink": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkLnBvZGJlYW4uY29tL2ZhbnRvbG9neWJvb2tzL2ZlZWQueG1s/episode/MTI3YmYyMTItZjczNi00YzhiLWJmZjEtYzMwYWM3MjUzNzRj?ep=14",
+    "youtubeId": "f5LPJR99M6w"
+  }, 
+  "169": {
+    "author": "Mark Lawrence",
+    "description": "Stephen, Ryan and Josh conclude Mark Lawrence's Broken Empire Trilogy and discuss the possibility of redemption for Jorg of Ancrath, the ultimate anti-hero.",
+    "id": 169,
+    "title":"Emperor of Thorns",
+    "image": "emperor-thorns.png",
+    "appleLink": "https://podcasts.apple.com/us/podcast/169-emperor-of-thorns-by-mark-lawrence/id1489097985?i=1000548447361&ls=1",
+    "spotifyLink": "https://open.spotify.com/episode/6O8ACp2WubOFwv4mXc5mR7?si=9b63y-l0Ts-I9XzqgnTd1w&utm_source=copy-link",
+    "googleLink": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkLnBvZGJlYW4uY29tL2ZhbnRvbG9neWJvb2tzL2ZlZWQueG1s/episode/YWJkNDhhMTUtZDUyZS00NDIwLWJhODgtNDIwZWM4Y2IxNzhl?ep=14",
+    "youtubeId": "GRfxJpcygSk"
   }
+
 }
