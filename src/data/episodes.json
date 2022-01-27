@@ -1990,6 +1990,18 @@
     "spotifyLink": "https://open.spotify.com/episode/6O8ACp2WubOFwv4mXc5mR7?si=9b63y-l0Ts-I9XzqgnTd1w&utm_source=copy-link",
     "googleLink": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkLnBvZGJlYW4uY29tL2ZhbnRvbG9neWJvb2tzL2ZlZWQueG1s/episode/YWJkNDhhMTUtZDUyZS00NDIwLWJhODgtNDIwZWM4Y2IxNzhl?ep=14",
     "youtubeId": "GRfxJpcygSk"
+  },
+  "170": {
+    "author": "Robert Jordan & Brandon Sanderson",
+    "description": "Kaden, Jake and Stephen discuss the penultimate book in The Wheel of Time. Who's ready for the last battle?",
+    "id": 170,
+    "seriesId": 2,
+    "title":"Towers of Midnight",
+    "image": "towers-midnight.png",
+    "appleLink": "https://podcasts.apple.com/us/podcast/170-towers-of-midnight-by-brandon-sanderson-robert-jordan/id1489097985?i=1000549178605&ls=1",
+    "spotifyLink": "https://open.spotify.com/episode/5CckzJjBPTKZybpU6vaNZq?si=Wv0zGSBCR02GT6uoLO3OgA&utm_source=copy-link",
+    "googleLink": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkLnBvZGJlYW4uY29tL2ZhbnRvbG9neWJvb2tzL2ZlZWQueG1s/episode/ODQ2NzU2ZDctOWMzMS00MjljLTg0MjUtYTQ5ZThmYmJkNTAy?ep=14",
+    "youtubeId": "rVJl2m2Q0xg"
   }
 
 }
