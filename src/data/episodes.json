@@ -2214,5 +2214,16 @@
     "spotifyLink": "https://open.spotify.com/episode/3XLm17oSvHBnkMacD3m3fa?si=GiZzcvGpQFiMoOTEw-AFyA&utm_source=copy-link",
     "googleLink": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkLnBvZGJlYW4uY29tL2ZhbnRvbG9neWJvb2tzL2ZlZWQueG1s",
     "youtubeId": "jk9Q6kZxKIs"
+  },  
+  "189": {
+    "author": "Fantology",
+    "description": "Let's build a world together! This time it's Stephen's turn to tease his ideas - first chapter due out by the end of the month or else.",
+    "id": 189,
+    "title":"Worldbuilding with geomancy",
+    "image": "worldbuilding2.png",
+    "appleLink": "https://podcasts.apple.com/us/podcast/189-worldbuilding-with-geomancy/id1489097985?i=1000565969134&ls=1",
+    "spotifyLink": "https://open.spotify.com/episode/5T6RKMDUA7tMAY9QGu1Y1k?si=myRdgGfrSb6CMSIV4PyEyQ&utm_source=copy-link",
+    "googleLink": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkLnBvZGJlYW4uY29tL2ZhbnRvbG9neWJvb2tzL2ZlZWQueG1s/episode/Mjg3N2JiM2YtNzE1OC00MTI5LWIzNTMtOGE5NjEzOWYwNzhi?sa=X&ved=0CAUQkfYCahcKEwio5e6-jqP4AhUAAAAAHQAAAAAQAQ",
+    "youtubeId": "7noLCMUFzy8"
   }
 }
