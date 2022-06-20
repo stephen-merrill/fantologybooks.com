@@ -206,12 +206,12 @@
 		"author": [
 			{
 				"name": "Brian McClellan",
-				"id": [0, 1],
+				"id": [0, 1, 2],
 				"description":"McClellan began writing when he was fifteen, starting at Wheel of Time role playing websites. He began working on short stories and novellas in his late teens, when he was encouraged toward writing by his parents. McClellan went on to major in English with an emphasis on creative writing at Brigham Young University, where he met American author Brandon Sanderson, joining his writing classes. McClellan, wanting his writing to be more than just art, was determined to become a full-time writer. In 2006 he attended Orson Scott Card's Literary Bootcamp. In 2008 he received honorable mention in the Writers of the Future Contest.",
 				"image":"mcclellan.jpg"
 			}
 		],
-		"ep": [40, 44, 61, 80],
+		"ep": [40, 44, 61, 80, 191],
 		"subSeries": [
 			{
 				"title": "Powder Mage Trilogy",
@@ -222,6 +222,11 @@
 				"title": "Gods of Blood & Powder",
 				"id": 1,
 				"ep": [40]
+			},
+			{
+				"title": "The Glass Immortals",
+				"id": 2,
+				"ep": [191]
 			}
 		]
 	},
