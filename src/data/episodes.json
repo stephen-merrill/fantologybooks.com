@@ -2249,5 +2249,17 @@
     "spotifyLink": "https://open.spotify.com/episode/1D3bPIGP2yK8YREhab2eOn?si=NwEkJTUNQtagK5vjkMIFcQ&utm_source=copy-link",
     "googleLink": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkLnBvZGJlYW4uY29tL2ZhbnRvbG9neWJvb2tzL2ZlZWQueG1s",
     "youtubeId": "vByoW2VohOs"
+  },
+  "192": {
+    "author": "James S.A. Corey",
+    "description": "Fantology has embarked on a new journey through The Expanse! Tune in to hear our review of Leviathan Wakes and a strange comparison to The Host by Stephanie Meyers.",
+    "id": 192,
+    "seriesId": 9,
+    "title": "Leviathan Wakes",
+    "image": "leviathan.png",
+    "appleLink": "https://podcasts.apple.com/us/podcast/192-leviathan-wakes-by-james-s-a-corey/id1489097985?i=1000568169097&ls=1",
+    "spotifyLink": "https://open.spotify.com/episode/3YO9yUgMW1RPVSQbFwxYLC?si=ktBjNleLQ_mjfpb_ezwWHA&utm_source=copy-link",
+    "googleLink": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkLnBvZGJlYW4uY29tL2ZhbnRvbG9neWJvb2tzL2ZlZWQueG1s/episode/NGYzYzdkYmEtODE2Mi00ZGE2LWI5NmItZDk0NTdiMjExNGUw?sa=X&ved=0CAUQkfYCahcKEwj4i5OHxdP4AhUAAAAAHQAAAAAQAQ",
+    "youtubeId": "1B86bP8XoU0"
   }
 }
