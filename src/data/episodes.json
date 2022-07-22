@@ -2285,5 +2285,17 @@
     "spotifyLink": "https://open.spotify.com/episode/4PNNSM0N0bFf9j3Bq2kStb?si=SAtf0-ANR0OZGXoyvqGblA&utm_source=copy-link",
     "googleLink": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkLnBvZGJlYW4uY29tL2ZhbnRvbG9neWJvb2tzL2ZlZWQueG1s/episode/NTM0Njc1YTgtNzc5Mi00NDM2LWFjN2YtYWFkMDA5NmZiNTc2?sa=X&ved=0CAUQkfYCahcKEwiwzsj63fv4AhUAAAAAHQAAAAAQAQ",
     "youtubeId": "9bzfr3GoOnw"
+  },
+  "195": {
+    "author": "Brandon Sanderson",
+    "description": "What was going on behind the scenes during Mistborn Era 1? Secret History reveals all! Tune in for why you need to read in order to really understand one surprising character.",
+    "id": 195,
+    "seriesId": 1,
+    "title":"Mistborn: Secret History",
+    "image": "secret-history.png",
+    "appleLink": "https://podcasts.apple.com/us/podcast/195-mistborn-secret-history-by-brandon-sanderson/id1489097985?i=1000570822785&ls=1",
+    "spotifyLink": "https://open.spotify.com/episode/6TxXPK4O6gnEcSyFXlID61?si=LeyrwZacRbSjq5of6H63Pw&utm_source=copy-link",
+    "googleLink": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkLnBvZGJlYW4uY29tL2ZhbnRvbG9neWJvb2tzL2ZlZWQueG1s/episode/ZjEwNzQ0MTQtNDBlNy00YmNiLTlmZWItNzA1NmRmYmYwMzUz?sa=X&ved=0CAUQkfYCahcKEwiYtoCOmI35AhUAAAAAHQAAAAAQAQ",
+    "youtubeId": "haWlzAlCuE0"
   }
 }
