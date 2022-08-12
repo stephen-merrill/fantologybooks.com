@@ -2321,5 +2321,17 @@
     "spotifyLink": "https://open.spotify.com/episode/32ebtsq03La7ff6pXV3FAj?si=7IE7oR-2QEWRZomj9eNYNQ&utm_source=copy-link",
     "googleLink": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkLnBvZGJlYW4uY29tL2ZhbnRvbG9neWJvb2tzL2ZlZWQueG1s/episode/ZGZiZTRkZGEtYTUxMy00NWQ4LWE2NTktYjNjMzI4OGVkZTNk?sa=X&ved=0CAUQkfYCahcKEwiw9v_MzLD5AhUAAAAAHQAAAAAQAQ",
     "youtubeId": "wDqSlItWQuo"
+  },
+  "198": {
+    "author": "Brandon Sanderson",
+    "description": "Stephen and Jake welcome a new first-time reader onto the podcast. Tune in to hear Jeff's opinions on Mistborn Era 2, starting with a double feature episode covering both Alloy and Shadows!",
+    "id": 198,
+    "seriesId": 1,
+    "title":"The Alloy of Law & Shadows of Self",
+    "image": "alloy-shadows.png",
+    "appleLink": "https://podcasts.apple.com/us/podcast/198-the-alloy-of-law-shadows-of-self-by-brandon-sanderson/id1489097985?i=1000575876100&ls=1",
+    "spotifyLink": "https://open.spotify.com/episode/0atetk4773hUGNDyJaFszC?si=wTNQWoRxTTSVerCC3H1QYw&utm_source=copy-link",
+    "googleLink": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkLnBvZGJlYW4uY29tL2ZhbnRvbG9neWJvb2tzL2ZlZWQueG1s/episode/OGQyOGZkYmQtM2U1MS00MzFhLTk5ZGMtMWE3MjYyNzFkZDIw?sa=X&ved=0CAUQkfYCahcKEwjgjYyUxcH5AhUAAAAAHQAAAAAQAQ",
+    "youtubeId": "ieagEaUlJDg"
   }
 }
