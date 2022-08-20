@@ -2344,5 +2344,17 @@
     "spotifyLink": "https://open.spotify.com/episode/0CWl2r3wlAn1i7yveI1Kbd?si=psWRvXhQRY2JMrU9hQPBHA&utm_source=copy-link",
     "googleLink": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkLnBvZGJlYW4uY29tL2ZhbnRvbG9neWJvb2tzL2ZlZWQueG1s/episode/OTYxNjQyZWMtYmEzZC00MzMyLTk0ZjktMTg2NjkxM2FlYjNm?sa=X&ved=0CAUQkfYCahcKEwjQ0-XQ7dD5AhUAAAAAHQAAAAAQAQ",
     "youtubeId": "0VpsNpI0MsE"
+  },
+  "200": {
+    "author": "Fantology",
+    "description": "We couldn't be more excited for the Game of Thrones prequel! Tune in to find out what to expect in House of the Dragon, premiering tomorrow.",
+    "id": 200,
+    "seriesId": 12,
+    "title":"House of the Dragon Primer",
+    "image": "hod-pod.png",
+    "appleLink": "https://podcasts.apple.com/us/podcast/200-what-you-need-to-know-before-watching-house-of-the-dragon/id1489097985?i=1000576683692&ls=1",
+    "spotifyLink": "https://open.spotify.com/episode/3UDZdt2Tl80q1ZMGtEOIta?si=EmUxWuLQQj-s42f9-RwDtA&utm_source=copy-link",
+    "googleLink": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkLnBvZGJlYW4uY29tL2ZhbnRvbG9neWJvb2tzL2ZlZWQueG1s/episode/NWYzNWE1NjctMzk3NC00YzBlLWFlMzktMmFlOGE2MDQ1MTFi?sa=X&ved=0CAUQkfYCahcKEwig4-PI09X5AhUAAAAAHQAAAAAQAQ",
+    "youtubeId": "tiSRh_pUUyA"
   }
 }
