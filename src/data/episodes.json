@@ -2367,5 +2367,17 @@
     "spotifyLink": "https://open.spotify.com/episode/30szztzaux4zZdSli2zZXN?si=lyUFxE2jTOOWKP-YJqDN_A&utm_source=copy-link",
     "googleLink": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkLnBvZGJlYW4uY29tL2ZhbnRvbG9neWJvb2tzL2ZlZWQueG1s",
     "youtubeId": "VXe76Fht93s"
+  },
+  "202": {
+    "author": "Fantology",
+    "description": "We have two episodes of House of the Dragon under our belts and couldn't be more pleased! Tune in for our top and bottom performing characters of the episode.",
+    "id": 202,
+    "seriesId": 12,
+    "title":"House of the Dragon Episode 2",
+    "image": "hod-pod-2.png",
+    "appleLink": "https://podcasts.apple.com/us/podcast/202-house-of-the-dragon-episode-2-the-rogue-prince/id1489097985?i=1000577911981&ls=1",
+    "spotifyLink": "https://open.spotify.com/episode/1phLAzuAoV8cO0B2eEo2Pb?si=h4-PT-YAT8KmAWAvMhYcgA&utm_source=copy-link",
+    "googleLink": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkLnBvZGJlYW4uY29tL2ZhbnRvbG9neWJvb2tzL2ZlZWQueG1s/episode/MWIwM2FjOTMtZTU4OS00ZDZjLThiZmEtNWE2NjY0MjlkNmFi?sa=X&ved=0CAUQkfYCahcKEwigk9zq0fL5AhUAAAAAHQAAAAAQAQ",
+    "youtubeId": "mFfRY8NnkoA"
   }
 }
