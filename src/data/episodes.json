@@ -2379,5 +2379,17 @@
     "spotifyLink": "https://open.spotify.com/episode/1phLAzuAoV8cO0B2eEo2Pb?si=h4-PT-YAT8KmAWAvMhYcgA&utm_source=copy-link",
     "googleLink": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkLnBvZGJlYW4uY29tL2ZhbnRvbG9neWJvb2tzL2ZlZWQueG1s/episode/MWIwM2FjOTMtZTU4OS00ZDZjLThiZmEtNWE2NjY0MjlkNmFi?sa=X&ved=0CAUQkfYCahcKEwigk9zq0fL5AhUAAAAAHQAAAAAQAQ",
     "youtubeId": "mFfRY8NnkoA"
+  },
+  "203": {
+    "author": "Fantology",
+    "description": "Three episodes in and House of the Dragon just gets better and better! Tune in for Josh and Maester Hayden's preferences for the throne.",
+    "id": 203,
+    "seriesId": 12,
+    "title":"House of the Dragon Episode 3",
+    "image": "hod-pod-3.png",
+    "appleLink": "https://podcasts.apple.com/us/podcast/203-house-of-the-dragon-episode-3-second-of-his-name/id1489097985?i=1000578700664&ls=1",
+    "spotifyLink": "https://open.spotify.com/episode/1QQUN7TIgHXl4v33PfpcJ2?si=ppBsxVmkRQ-eaHOkmwrCXQ&utm_source=copy-link",
+    "googleLink": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkLnBvZGJlYW4uY29tL2ZhbnRvbG9neWJvb2tzL2ZlZWQueG1s/episode/MGViNmM5OTYtOGUxNy00MDc5LTlkOTItOWY5MmNhYTlkZDZh?sa=X&ved=0CAUQkfYCahcKEwiIvNzPioP6AhUAAAAAHQAAAAAQAQ",
+    "youtubeId": "hob594hfd-0"
   }
 }
