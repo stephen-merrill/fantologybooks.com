@@ -2415,5 +2415,17 @@
     "spotifyLink": "https://open.spotify.com/episode/1GqLArcdW4BzRzoQV2SdkG?si=gdC65eW-TJ-NX1Zdj64cwQ&utm_source=copy-link",
     "googleLink": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkLnBvZGJlYW4uY29tL2ZhbnRvbG9neWJvb2tzL2ZlZWQueG1s/episode/OTExOTExNzgtZWJlNy00MWY3LTgwMmUtMzRkZjJiYjNiMjg0?sa=X&ved=0CAUQkfYCahcKEwj434LL6ZT6AhUAAAAAHQAAAAAQAQ",
     "youtubeId": "1np-SiZI98c"
+  },
+  "206": {
+    "author": "James S.A. Corey",
+    "description": "We continue our coverage of The Expanse with book 2! Tune in to see how Caliban's War compared to Leviathan Wakes for Ben, Jake and Ryan",
+    "id": 206,
+    "seriesId": 9,
+    "title": "Caliban's War",
+    "image": "caliban.png",
+    "appleLink": "https://podcasts.apple.com/us/podcast/206-calibans-war-by-james-sa-corey/id1489097985?i=1000580072982&ls=1",
+    "spotifyLink": "https://open.spotify.com/episode/3Lnsfrah71Ujn9xKVu5MsR?si=SlZGZtvuQLCoojW-GwNegQ&utm_source=copy-link",
+    "googleLink": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkLnBvZGJlYW4uY29tL2ZhbnRvbG9neWJvb2tzL2ZlZWQueG1s/episode/Y2IzNDY4NmQtZDkzZS00ZWFjLWI3YmYtZGMxOGFkYmEzNGE4?sa=X&ved=0CAUQkfYCahcKEwigi5L-1KP6AhUAAAAAHQAAAAAQAQ",
+    "youtubeId": "BEO0H3Id1Lg"
   }
 }
