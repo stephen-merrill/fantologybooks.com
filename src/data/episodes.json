@@ -2467,7 +2467,7 @@
     "author": "R.F. Kuang",
     "description": "Full spoilers now - Stephen and Josh break down the plot points in R.F. Kuang's Babel: An Arcane History",
     "id": 210,
-    "title": "Babel: An Arcane History NON-SPOILER",
+    "title": "Babel: An Arcane History FULL SPOILER",
     "image": "babel-full.png",
     "appleLink": "https://podcasts.apple.com/us/podcast/210-babel-an-arcane-history-by-r-f-kuang-full-spoiler/id1489097985?i=1000581534713&ls=1",
     "spotifyLink": "https://open.spotify.com/episode/6x1ky2BBa7X7EFDODeXeYy?si=zpFLF7nBQGGtUpeZ3hqNvA&utm_source=copy-link",
@@ -2509,5 +2509,16 @@
     "spotifyLink": "https://open.spotify.com/episode/7aXPZvA1JWa1JlLaerE8X9?si=ihsmAVZEQU6-lwXO7Hnkgw&utm_source=copy-link",
     "googleLink": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkLnBvZGJlYW4uY29tL2ZhbnRvbG9neWJvb2tzL2ZlZWQueG1s/episode/MmViZmRjNTctNjExYS00NmIyLWE4NDctMGJiZTMyNDdiNTEw?sa=X&ved=0CAUQkfYCahcKEwj4urKJ_tr6AhUAAAAAHQAAAAAQAQ",
     "youtubeId": "703viWZGpBc"
+  },
+  "214": {
+    "author": "R.R. Virdi",
+    "description": "Dylan from FTF Podcast joins Stephen to discuss The First Binding by R.R. Virdi. No spoilers at first as we get into the controversy immediately - is it too similar to The Name of the Wind?",
+    "id": 214,
+    "title": "The First Binding",
+    "image": "first-binding-pod.png",
+    "appleLink": "https://podcasts.apple.com/us/podcast/214-the-first-binding-by-r-r-virdi-ft-friends-talking-fantasy/id1489097985?i=1000582653007&ls=1",
+    "spotifyLink": "https://open.spotify.com/episode/2fqHE789KdjF8K9akXh37e?si=IqAfVF7zQjWl3x0Csq_2pg&utm_source=copy-link",
+    "googleLink": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkLnBvZGJlYW4uY29tL2ZhbnRvbG9neWJvb2tzL2ZlZWQueG1s/episode/NDkyYjMyNzAtYzE3Ni00MzIyLWExMmUtODczNWNjYTIyMGNi?sa=X&ved=0CAUQkfYCahcKEwi4uIyCneD6AhUAAAAAHQAAAAAQAQ",
+    "youtubeId": "2XDptkvvgXo"
   }
 }
