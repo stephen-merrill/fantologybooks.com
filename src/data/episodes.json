@@ -2604,5 +2604,18 @@
     "spotifyLink": "https://open.spotify.com/episode/3IlMhgS0ChvAjMmtgf0Gmo?si=yJ06ictcQha25SLerTsc8w&utm_source=copy-link",
     "googleLink": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5idXp6c3Byb3V0LmNvbS84MTAwODkucnNz/episode/ZTQ5Y2FhMTQtOTE5My00OTViLWIxYzMtZTAwNzgyNmMxMTVl?sa=X&ved=2ahUKEwiZuJ6r2bX7AhUyko4IHeZLAQwQkfYCegQIARAF",
     "youtubeId": "EoAzApd5bgE"
+  },
+  "222": {
+    "author": "Fantology",
+    "description": "Stephen went to Dragonsteel Con and NEEDS to tell the world all about it! Also don't be offended if you enjoy board games at cons! I apologize.",
+    "id": 222,
+    "seriesId": 11,
+    "title": "Dragonsteel Con 2022",
+    "image": "dragonsteel-pod.png",
+    "appleLink": "https://podcasts.apple.com/us/podcast/222-dragonsteel-con-2022-experience-recap/id1489097985?i=1000586803262&ls=1",
+    "spotifyLink": "https://open.spotify.com/episode/0yp7FEJCUVCfvOT6lU96Lu",
+    "googleLink": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5idXp6c3Byb3V0LmNvbS84MTAwODkucnNz/episode/ZDQ5Mjc0ZWItZjgwNi00M2M4LWJhOWMtZGU1NzQ1YjgzMGRk?sa=X&ved=0CAUQkfYCahcKEwig54T47Lr7AhUAAAAAHQAAAAAQAQ",
+    "youtubeId": "LGgutpwGbZM"
   }
+
 }
