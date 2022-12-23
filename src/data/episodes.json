@@ -2661,5 +2661,17 @@
     "spotifyLink": "https://open.spotify.com/episode/3LLyycOLuOzR7MGoODrSAE?si=OoJjfDwuR4-3iW6aa8jvYg",
     "googleLink": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5idXp6c3Byb3V0LmNvbS84MTAwODkucnNz/episode/NjJlMjE5NGYtYmVjNS00MmM0LWEzZDMtMzVmYzA5ZWI4YTIy?sa=X&ved=0CAUQkfYCahcKEwjQrOvz0f77AhUAAAAAHQAAAAAQAQ",
     "youtubeId": "Cpg5RdTrxEE"
+  },
+  "227": {
+    "author": "Netflix",
+    "description": "Wednesday has rapidly climbed up the Netflix charts. Stephen and Josh weigh in on why the show has been such a hit. Plus, a connection to The Name of the Wind?",
+    "id": 227,
+    "seriesId": 12,
+    "title":"Wednesday Season One",
+    "image": "wednesday-pod.png",
+    "appleLink": "https://podcasts.apple.com/us/podcast/227-netflixs-wednesday-season-1/id1489097985?i=1000591126554&ls=1",
+    "spotifyLink": "https://open.spotify.com/episode/29sLdv1iFy20VllH8Yd3tM?si=P0ReAWfKTN2Z2blYsEtRQw",
+    "googleLink": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5idXp6c3Byb3V0LmNvbS84MTAwODkucnNz/episode/NGZlMTRiYjgtNGNhOC00YmI0LWFhMGItMTJkODkzMzdhOGQ3?sa=X&ved=0CAUQkfYCahcKEwjIraqXn5D8AhUAAAAAHQAAAAAQAQ",
+    "youtubeId": "1TsQhgFYZI8"
   }
 }
