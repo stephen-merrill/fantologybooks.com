@@ -189,12 +189,12 @@
 				"image":"erikson.jpg"
 			}
 		],
-		"ep": [12, 60, 173, 190],
+		"ep": [12, 60, 173, 190, 226, 230],
 		"subSeries": [
 			{
 				"title": "Malazan Book of the Fallen",
 				"id": 0,
-				"ep": [12, 60, 173, 190]
+				"ep": [12, 60, 173, 190, 226, 230]
 			}
 		]
 	},
