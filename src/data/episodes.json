@@ -2709,5 +2709,16 @@
     "spotifyLink": "https://open.spotify.com/episode/5S94f0D8sMcef1miHnumfC?si=-qlIQeb6S1utsxUDZmbqCA",
     "googleLink": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5idXp6c3Byb3V0LmNvbS84MTAwODkucnNz/episode/ZjljYTdhZjItMzg0MS00YjliLTk1NDctZTllNTkyMWYxNDM4?sa=X&ved=0CAUQkfYCahcKEwio-LWClsX8AhUAAAAAHQAAAAAQAQ",
     "youtubeId": "xLQeanT8am4"
+  },
+  "231": {
+    "author": "Dan Wells",
+    "description": "Ben and Josh are back with more coverage of Dan Well's John Cleaver books. Tune in for their review of the trilogy that started with I Am Not A Serial Killer.",
+    "id": 231,
+    "title": "I Am Not A Serial Killer",
+    "image": "cleaver-pod.png",
+    "appleLink": "https://podcasts.apple.com/us/podcast/231-the-john-cleaver-trilogy-by-dan-wells/id1489097985?i=1000595758072&ls=1",
+    "spotifyLink": "https://open.spotify.com/episode/4SDfHZeIvDLuCRoDiGqglG?si=LTjkA8d-SRCp5t24PKud0w&utm_source=copy-link",
+    "googleLink": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5idXp6c3Byb3V0LmNvbS84MTAwODkucnNz/episode/OGYwYTEwMTQtMjgwZi00YzBkLWFhYjMtMzRlM2M3MWI5ZTdj?sa=X&ved=0CAUQkfYCahcKEwjYrIHlx9b8AhUAAAAAHQAAAAAQAQ",
+    "youtubeId": "dIUdhyq6z-k"
   }
 }
