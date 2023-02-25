@@ -2765,5 +2765,16 @@
     "spotifyLink": "https://open.spotify.com/episode/6s4qfuQsr3qB41sG4fC3kT?si=O4Z9GVKmQ66Yts6uI8oTtg",
     "googleLink": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5idXp6c3Byb3V0LmNvbS84MTAwODkucnNz",
     "youtubeId": "KE8tOH7nSHQ"
+  },
+  "236": {
+    "author": "Brent Weeks",
+    "description": "Brent Weeks' Night Angel Trilogy starts with The Way of Shadows, a book that justifiably has some criticism but still hits the right notes to be quite the enjoyable read.",
+    "id": 236,
+    "title":"The Way of Shadows",
+    "image": "way-shadows.png",
+    "appleLink": "https://podcasts.apple.com/us/podcast/236-the-way-of-shadows-by-brent-weeks/id1489097985?i=1000601449714&ls=1",
+    "spotifyLink": "https://open.spotify.com/episode/4paEIPyVeDLGJjE8ky3eFs?si=5Ma-Ngz8QMiUGQ1l-R79Cg",
+    "googleLink": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5idXp6c3Byb3V0LmNvbS84MTAwODkucnNz/episode/MDAyZTE4OTEtMzQzZS00NTZlLTkxNjQtYjcwZmIyNmY1YjA3?sa=X&ved=0CAUQkfYCahcKEwjQkJmNx6_9AhUAAAAAHQAAAAAQAQ",
+    "youtubeId": "orIQv9leqXs"
   }
 }
