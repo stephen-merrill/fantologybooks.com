@@ -2810,5 +2810,17 @@
     "spotifyLink": "https://spotify.link/LjuJ2FRafyb",
     "googleLink": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5idXp6c3Byb3V0LmNvbS84MTAwODkucnNz/episode/YzI1MDM1YjYtYzJlNy00ZmViLThkMWEtZjA0NTBlZjhjOTZh?sa=X&ved=0CAUQkfYCahcKEwjgrOTyl-P9AhUAAAAAHQAAAAAQAQ",
     "youtubeId": "ZCJQJmoPnzs"
+  },
+  "240": {
+    "author": "Fantology",
+    "description": "Fantology does our best to break down the strange Sanderson hit piece published by Wired. Why did such a major publication greenlight an article with dubious motivation?",
+    "id": 240,
+    "seriesId": 11,
+    "title": "Wired attacks Brandon Sanderson",
+    "image": "wired-pod.png",
+    "appleLink": "https://podcasts.apple.com/us/podcast/240-wired-attacked-brandon-sanderson-we-make-sense-of-it/id1489097985?i=1000605761273&ls=1",
+    "spotifyLink": "https://spotify.link/yhAoynoUqyb",
+    "googleLink": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5idXp6c3Byb3V0LmNvbS84MTAwODkucnNz/episode/ZTc0ZWVjMzktNTYxYi00NmFiLWE0ZTAtNTM5MjUyOWUxNDk3?sa=X&ved=0CAUQkfYCahcKEwjIx8_ktvX9AhUAAAAAHQAAAAAQAQ",
+    "youtubeId": "1Jn97wWMvNs"
   }
 }
