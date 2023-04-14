@@ -2834,5 +2834,27 @@
     "spotifyLink": "https://spotify.link/Iyq1IEkqCyb",
     "googleLink": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5idXp6c3Byb3V0LmNvbS84MTAwODkucnNz/episode/MjRkZWQ2ZWQtOTU1YS00NTEwLTliYTctYTExNTY3M2Y2NWNm?sa=X&ved=0CAUQkfYCahcKEwjApu3JwIb-AhUAAAAAHQAAAAAQAQ",
     "youtubeId": "MAR9x6nZzeE"
+  },
+  "242": {
+    "author": "Will Wight",
+    "description": "Josh and Ryan continue our Cradle coverage with reviews of Ghostwater and Underlord",
+    "id": 242,
+    "title": "Cradle 5 & 6: Ghostwater & Underlord",
+    "image": "cradle5-6.png",
+    "appleLink": "https://podcasts.apple.com/podcast/242-cradle-books-5-6-ghostwater-and-underlord-by-will-wight/id1489097985?i=1000607861023",
+    "spotifyLink": "https://spotify.link/fC6m7SGIZyb",
+    "googleLink": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5idXp6c3Byb3V0LmNvbS84MTAwODkucnNz/episode/ODRhMTQ2MzYtYWQ0YS00M2RiLWEyZmItODlkOTBjMDk5MDJm?sa=X&ved=0CAUQkfYCahcKEwj4u8e52an-AhUAAAAAHQAAAAAQAQ",
+    "youtubeId": "thr4iY3cyKE"
+  },
+  "243": {
+    "author": "Benedict Jacka",
+    "description": "Wishing you had more urban fantasy in the vein of The Dresden Files? Look no further than Alex Verus! Josh and Stephen dive into a new series with a review of Fated by Benedict Jacka ",
+    "id": 243,
+    "title": "Fated",
+    "image": "fated.png",
+    "appleLink": "https://podcasts.apple.com/us/podcast/243-fated-by-benedict-jacka/id1489097985?i=1000608954125&ls=1",
+    "spotifyLink": "https://spotify.link/C9gshXEDZyb",
+    "googleLink": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5idXp6c3Byb3V0LmNvbS84MTAwODkucnNz",
+    "youtubeId": "bDm0T13PR-M"
   }
 }
