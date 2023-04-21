@@ -2854,7 +2854,18 @@
     "image": "fated.png",
     "appleLink": "https://podcasts.apple.com/us/podcast/243-fated-by-benedict-jacka/id1489097985?i=1000608954125&ls=1",
     "spotifyLink": "https://spotify.link/C9gshXEDZyb",
-    "googleLink": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5idXp6c3Byb3V0LmNvbS84MTAwODkucnNz",
+    "googleLink": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5idXp6c3Byb3V0LmNvbS84MTAwODkucnNz/episode/ZWNiMDExMjctODk1ZC00NWU4LTk4YmEtN2VjMDZlNWY4ZjEy?sa=X&ved=2ahUKEwiDs-CU7rj-AhVoPkQIHQhKCb8QkfYCegQIARAF",
     "youtubeId": "bDm0T13PR-M"
+  },
+  "244": {
+    "author": "Will Wight",
+    "description": "Our coverage of Cradle by Will Wight rolls on with reviews of books 7 & 8, Uncrowned and Wintersteel.",
+    "id": 244,
+    "title": "Cradle 7 & 8: Uncrowned & Wintersteel",
+    "image": "cradle7-8.png",
+    "appleLink": "https://podcasts.apple.com/us/podcast/244-cradle-7-8-uncrowned-wintersteel-by-will-wight/id1489097985?i=1000610089134&ls=1",
+    "spotifyLink": "https://spotify.link/SV1mn2Xabzb",
+    "googleLink": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5idXp6c3Byb3V0LmNvbS84MTAwODkucnNz/episode/OTVkYjU5NWEtNjAxMS00NzA4LTgzMjMtZWI3N2FhYzU3OTA4?sa=X&ved=0CAUQkfYCahcKEwjQ49mmmrv-AhUAAAAAHQAAAAAQAQ",
+    "youtubeId": "elVw97cHkww"
   }
 }
