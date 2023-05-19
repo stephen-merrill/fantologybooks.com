@@ -2900,5 +2900,16 @@
     "spotifyLink": "https://open.spotify.com/episode/00egUqCAUpBOodzPoPOMhy?si=26X_3VP4RVedbNbjcOsIMw",
     "googleLink": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5idXp6c3Byb3V0LmNvbS84MTAwODkucnNz/episode/NjBkMzU1MjgtMWEyNi00ZTI5LWEyYzUtZDYzNzM4NTI5YTUw?sa=X&ved=0CAUQkfYCahcKEwiQs_-TmvD-AhUAAAAAHQAAAAAQAQ",
     "youtubeId": "xohUiFa8SVo"
+  },
+  "248": {
+    "author": "James Islington",
+    "description": "Special guest James Islington was gracious enough to chat with Ben & Stephen about his brilliant new book, The Will of the Many, which releases next Tuesday!",
+    "id": 248,
+    "title":"An Interview with James Islington",
+    "image": "islington.png",
+    "appleLink": "https://podcasts.apple.com/us/podcast/248-a-conversation-with-james-islington-author/id1489097985?i=1000613667405",
+    "spotifyLink": "https://open.spotify.com/episode/6rsXN1O8xwH5ohMS4VK9wE?si=qoXoeMq5TVOEpi6JMbq1iA",
+    "googleLink": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5idXp6c3Byb3V0LmNvbS84MTAwODkucnNz/episode/Mjg0NTUzNzgtYzQ3Mi00YWE5LTk0ZTItNjRlY2U0NjAxMDVi?sa=X&ved=0CAUQkfYCahcKEwjY84T114H_AhUAAAAAHQAAAAAQAQ",
+    "youtubeId": "KilWJOFP6dw"
   }
 }
