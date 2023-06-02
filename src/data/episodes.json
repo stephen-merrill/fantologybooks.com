@@ -2922,5 +2922,17 @@
     "spotifyLink": "https://open.spotify.com/episode/3FcGHyiQdI1Xg0Bc6y1lNg?si=jj0CCKTNR2SoNiythCTiyA",
     "googleLink": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5idXp6c3Byb3V0LmNvbS84MTAwODkucnNz/episode/NmNhYzhmOWItMjRjMi00ZmJjLWE3MjMtNDljMWFmMTk5NzEx?sa=X&ved=0CAUQkfYCahcKEwjgtY_RnZP_AhUAAAAAHQAAAAAQAQ",
     "youtubeId": "cX3Tggi6HtQ"
+  },
+  "250": {
+    "author": "Pierce Brown",
+    "description": "We are getting more Red Rising soon! In the meantime Jake & Ryan read the original trilogy and have plenty of retrospective thoughts",
+    "id": 250,
+    "seriesId": 9,
+    "title": "Red Rising Retrospective",
+    "image": "red-rising-retro.png",
+    "appleLink": "https://podcasts.apple.com/us/podcast/250-red-rising-trilogy-retrospective/id1489097985?i=1000615426118&ls=1",
+    "spotifyLink": "https://open.spotify.com/episode/79UsWE7cVoXroGMJHNO0k4?si=ovOtnrCkT96AnrQmaGEAaA",
+    "googleLink": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5idXp6c3Byb3V0LmNvbS84MTAwODkucnNz",
+    "youtubeId": "nq8VSn4QUG8"
   }
 }
