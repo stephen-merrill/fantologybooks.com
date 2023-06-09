@@ -2934,5 +2934,17 @@
     "spotifyLink": "https://open.spotify.com/episode/79UsWE7cVoXroGMJHNO0k4?si=ovOtnrCkT96AnrQmaGEAaA",
     "googleLink": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5idXp6c3Byb3V0LmNvbS84MTAwODkucnNz",
     "youtubeId": "nq8VSn4QUG8"
+  },
+  "251": {
+    "author": "James S.A. Corey",
+    "description": "After a brief pause, Jake and Ryan are back into The Expanse! Here's their review of book 3, Abaddon's Gate.",
+    "id": 251,
+    "seriesId": 9,
+    "title": "Abaddon's Gate",
+    "image": "abaddons-gate-pod.png",
+    "appleLink": "https://podcasts.apple.com/us/podcast/251-abaddons-gate-by-james-sa-corey/id1489097985?i=1000616278187&ls=1",
+    "spotifyLink": "https://open.spotify.com/episode/7jSUdW0DXa7pC91yF25Eye?si=mBcEMHqDQ9qwn24XEdWoIg",
+    "googleLink": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5idXp6c3Byb3V0LmNvbS84MTAwODkucnNz/episode/ZDE4MTY3ODYtNzJhZi00NWY0LTk3NTctNWM3MTI1ZTNlZGM0?sa=X&ved=0CAUQkfYCahcKEwj4gdnBubb_AhUAAAAAHQAAAAAQAQ",
+    "youtubeId": "lMG4Z3iJT58"
   }
 }
