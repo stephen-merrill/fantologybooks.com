@@ -2957,5 +2957,16 @@
     "spotifyLink": "https://open.spotify.com/episode/52REIyUp3DWlcgZITa3bHG?si=ZtztAJmhQ3eS7P2SUBVH2Q",
     "googleLink": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5idXp6c3Byb3V0LmNvbS84MTAwODkucnNz/episode/NGQ0YjA2YzAtMzVhNy00ZDY0LTg1ZGMtOGM3M2UzMzViNjg2?sa=X&ved=0CAUQkfYCahcKEwjI79_Zjsj_AhUAAAAAHQAAAAAQAQ",
     "youtubeId": "Poe6rATHTlk"
+  },
+  "253": {
+    "author": "Fantology",
+    "description": "Josh is writing a book! Stephen and Jake are on to interview our nascent author and get the details on his experience.",
+    "id": 253,
+    "title":"Worldbuilding: Josh's Writing",
+    "image": "worldbuilding-josh.png",
+    "appleLink": "https://podcasts.apple.com/us/podcast/253-worldbuilding-with-josh/id1489097985?i=1000618093301&ls=1",
+    "spotifyLink": "https://open.spotify.com/episode/2h9OxdggvyRvln70uJi6lb?si=GorgBBpCQ8SsK15Je7qjQQ",
+    "googleLink": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5idXp6c3Byb3V0LmNvbS84MTAwODkucnNz/episode/Mzk1ZTY2YWYtN2QzZC00MTM3LWI3ZGUtZWYwZDEyOTZhM2Y3?sa=X&ved=0CAUQkfYCahcKEwj4_JHj09n_AhUAAAAAHQAAAAAQAQ",
+    "youtubeId": "P7xZn8rlWi8"
   }
 }
