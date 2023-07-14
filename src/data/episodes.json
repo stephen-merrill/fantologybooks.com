@@ -2991,5 +2991,16 @@
     "spotifyLink": "https://open.spotify.com/episode/4xaEFNnLokvsgAY8H3gmM1?si=7Qg4KE_zSVekOUvDJRiv7g",
     "googleLink": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5idXp6c3Byb3V0LmNvbS84MTAwODkucnNz/episode/MjEyMGVjNmEtOTc0NC00MGQzLTk0ODctZjkwY2UzMzRlOTBi?sa=X&ved=0CAUQkfYCahcKEwiQyJ_-7Pz_AhUAAAAAHQAAAAAQAQ",
     "youtubeId": "vFq8iC4EMCQ"
+  },
+  "256": {
+    "author": "Stephen King",
+    "description": "Pennywise is more than just a clown and It is more than just a horror book! Tune in for Ben and Josh's full review of Stephen King's epic classic",
+    "id": 256,
+    "title": "It",
+    "image": "it.png",
+    "appleLink": "https://podcasts.apple.com/us/podcast/256-it-by-stephen-king/id1489097985?i=1000621148607&ls=1",
+    "spotifyLink": "https://open.spotify.com/episode/7C8HsGjdXwjw2h4DlVwrI3?si=hG9BBwIcQUapfpXEfLmuTg",
+    "googleLink": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5idXp6c3Byb3V0LmNvbS84MTAwODkucnNz/episode/OGMxYjdlMGQtNjVmYS00MGU0LTk2MjQtYTQ5NGQ1NTJlYzlk?sa=X&ved=0CAUQkfYCahcKEwjo9eb_vI6AAxUAAAAAHQAAAAAQAQ",
+    "youtubeId": "k5efNbG"
   }
 }
