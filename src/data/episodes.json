@@ -3047,5 +3047,17 @@
     "spotifyLink": "https://open.spotify.com/episode/3pb9iku3H1CuKmofRhjjlY?si=Ed9efm2ZQlKfwSZ7kP63MA",
     "googleLink": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5idXp6c3Byb3V0LmNvbS84MTAwODkucnNz/episode/YzEwNTNlNzgtY2NiNC00ZjA4LWE5N2EtMmZlNzAyMGIyY2U5?sa=X&ved=0CAUQkfYCahcKEwi4l-ux79SAAxUAAAAAHQAAAAAQAQ",
     "youtubeId": "M4EQbecVlRc"
+  },
+  "261": {
+    "author": "Amazon Prime Video",
+    "description": "All aboard the hype train! Stephen, Jake & Josh chat about our hopes and dreams for season 2 and review the season 2 trailer.",
+    "id": 261,
+    "seriesId": 12,
+    "title":"The Wheel of Time Season 2 Hype",
+    "image": "wot-s2-hype.png",
+    "appleLink": "https://podcasts.apple.com/us/podcast/261-the-wheel-of-time-season-2-hype/id1489097985?i=1000624883997&ls=1",
+    "spotifyLink": "https://open.spotify.com/episode/2VwQM7KMq2cdDCPgkXArZz?si=YFUUXp-QSRO9z97FU9nh0w",
+    "googleLink": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5idXp6c3Byb3V0LmNvbS84MTAwODkucnNz/episode/MjM1ZWVmMmEtMjI3MC00ZGE2LWIxZWQtMzkwYzY0ZmMyNDlj?sa=X&ved=0CAUQkfYCahcKEwiwtfP0u-aAAxUAAAAAHQAAAAAQAQ",
+    "youtubeId": "AJ2_esUdvPo"
   }
 }
