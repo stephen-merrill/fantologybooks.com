@@ -3081,5 +3081,17 @@
     "spotifyLink": "https://open.spotify.com/episode/2tfxlGZNymlSGXWG0gh8vz?si=jdKewhF0Sj2K_3PeSRAhrg",
     "googleLink": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkLnBvZGJlYW4uY29tL2ZhbnRvbG9neWJvb2tzL2ZlZWQueG1s",
     "youtubeId": "pzYFtriwCy4"
+  },
+  "264": {
+    "author": "Amazon Prime Video",
+    "description": "Stephen and Josh hit the ups and downs of the first three episodes of season 2. All in all, expectations were exceeded!",
+    "id": 264,
+    "seriesId": 12,
+    "title":"The Wheel of Time Season 2 Episodes 1-3",
+    "image": "wot-s2-ep1-3.png",
+    "appleLink": "https://podcasts.apple.com/us/podcast/264-the-wheel-of-time-tv-s2-e1-3-review/id1489097985?i=1000627080325&ls=1",
+    "spotifyLink": "https://open.spotify.com/episode/41IO9XaF8fkDod3nTngOAe?si=mv1Ex8PbQ4eCHBlYrBm4uw",
+    "googleLink": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkLnBvZGJlYW4uY29tL2ZhbnRvbG9neWJvb2tzL2ZlZWQueG1s/episode/NGI1YzJkN2ItNTg0Zi00ZTFjLWE0MjUtZmJkOWRlYjJkZjdl?sa=X&ved=0CAUQkfYCahcKEwio6deSn5mBAxUAAAAAHQAAAAAQAQ",
+    "youtubeId": "6OfmkaFFS4w"
   }
 }
