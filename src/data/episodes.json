@@ -3093,5 +3093,16 @@
     "spotifyLink": "https://open.spotify.com/episode/41IO9XaF8fkDod3nTngOAe?si=mv1Ex8PbQ4eCHBlYrBm4uw",
     "googleLink": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkLnBvZGJlYW4uY29tL2ZhbnRvbG9neWJvb2tzL2ZlZWQueG1s/episode/NGI1YzJkN2ItNTg0Zi00ZTFjLWE0MjUtZmJkOWRlYjJkZjdl?sa=X&ved=0CAUQkfYCahcKEwio6deSn5mBAxUAAAAAHQAAAAAQAQ",
     "youtubeId": "6OfmkaFFS4w"
+  },
+  "265": {
+    "author": "Fantology",
+    "description": "Benedict Jacka himself joined Ben & Stephen to chat about his upcoming book, An Inheritance of Magic, and answer some burning Alex Verus questions",
+    "id": 265,
+    "title": "A Conversation with Benedict Jacka",
+    "image": "benedict.png",
+    "appleLink": "https://podcasts.apple.com/us/podcast/265-a-conversation-with-benedict-jacka-author-of/id1489097985?i=1000628002760&ls=1",
+    "spotifyLink": "https://spotify.link/hqy0D9Hd7Cb",
+    "googleLink": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkLnBvZGJlYW4uY29tL2ZhbnRvbG9neWJvb2tzL2ZlZWQueG1s/episode/YzI3ZDI3ZTEtNTEzZC00MzNmLTk4YWItN2ZiMTZmMjUxOGRh?sa=X&ved=0CAUQkfYCahcKEwiQj6H97qyBAxUAAAAAHQAAAAAQAQ",
+    "youtubeId": "qpVQm1RLSuQ"
   }
 }
