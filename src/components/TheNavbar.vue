@@ -115,7 +115,7 @@
           </span>
           <span v-if="isMobile()">Youtube</span>
         </a>
-        <a class="navbar-item social-links" href="https://podcasts.google.com/?feed=aHR0cHM6Ly9mZWVkcy5idXp6c3Byb3V0LmNvbS84MTAwODkucnNz&ved=0CAAQ4aUDahcKEwiYnvGJhpnoAhUAAAAAHQAAAAAQAQ">
+        <a class="navbar-item social-links" href="https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkLnBvZGJlYW4uY29tL2ZhbnRvbG9neWJvb2tzL2ZlZWQueG1s">
           <span class="icon is-medium">
             <i class="fab fa-lg fa-google"></i>
           </span>

@@ -21,7 +21,7 @@
                 <i class="fab fa-youtube fa-2x"></i>
               </span>
             </a>
-            <a href="https://podcasts.google.com/?feed=aHR0cHM6Ly9mZWVkcy5idXp6c3Byb3V0LmNvbS84MTAwODkucnNz&ved=0CAAQ4aUDahcKEwiYnvGJhpnoAhUAAAAAHQAAAAAQAQ">
+            <a href="https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkLnBvZGJlYW4uY29tL2ZhbnRvbG9neWJvb2tzL2ZlZWQueG1s">
               <span class="icon is-large">
                 <i class="fab fa-google fa-2x"></i>
               </span>
