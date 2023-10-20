@@ -3151,5 +3151,17 @@
     "spotifyLink": "https://spotify.link/y1AErxuFRDb",
     "googleLink": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkLnBvZGJlYW4uY29tL2ZhbnRvbG9neWJvb2tzL2ZlZWQueG1s/episode/YWZhMjkxOWEtYTJmMi00NzQ1LTkwODUtYzU4YjUxMjdiYjMw?sa=X&ved=0CAUQkfYCahcKEwioj9T5lvOBAxUAAAAAHQAAAAAQAQ",
     "youtubeId": "0ntcwqW7bDI"
+  },
+  "270": {
+    "author": "Amazon Prime Video",
+    "description": "The finale of The Wheel of Time Season 2 was quite entertaining, but also quite controversial. What did the Fantology crew think of the episode?",
+    "id": 270,
+    "seriesId": 12,
+    "title":"The Wheel of Time Season 2 Episode 8",
+    "image": "wot-s2-ep8.png",
+    "appleLink": "https://podcasts.apple.com/us/podcast/270-the-wheel-of-time-season-2-finale-review/id1489097985?i=1000632011520&ls=1",
+    "spotifyLink": "https://spotify.link/tO2ZxoUe3Db",
+    "googleLink": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkLnBvZGJlYW4uY29tL2ZhbnRvbG9neWJvb2tzL2ZlZWQueG1s/episode/M2YzNjY1MDktY2ZmZS00ZWRhLWE5OWMtYjZmOGFkMjk0OWY0?sa=X&ved=0CAUQkfYCahcKEwiQytb1-4SCAxUAAAAAHQAAAAAQAQ",
+    "youtubeId": "1PVnhn185GM"
   }
 }
