@@ -3175,5 +3175,16 @@
     "spotifyLink": "https://open.spotify.com/episode/62DoNIOIvtjXmCo1bEve46?si=zwJZpMBZTjunAPfaNgJ9Rw",
     "googleLink": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkLnBvZGJlYW4uY29tL2ZhbnRvbG9neWJvb2tzL2ZlZWQueG1s/episode/OTc2YzNhMmMtMTcwMS00NjQwLTkyNWItM2UyNWVlZGYzYWIz?sa=X&ved=0CAUQkfYCahcKEwjQt_nbsZaCAxUAAAAAHQAAAAAQAQ",
     "youtubeId": "imWhmv8U0hU"
+  },
+  "272": {
+    "author": "Ryan Cahill",
+    "description": "We've heard a lot about The Bound & Broken! Tune in to get our thoughts on book 1, Of Blood and Fire.",
+    "id": 272,
+    "title": "Of Blood and Fire",
+    "image": "blood-fire.png",
+    "appleLink": "https://podcasts.apple.com/us/podcast/272-of-blood-and-fire-by-ryan-cahill/id1489097985?i=1000633594058&ls=1",
+    "spotifyLink": "https://open.spotify.com/episode/6JxHJNZOPY8nfWpYHOMJRW?si=sp35qlFmQv2gJlfAK-ZVOQ",
+    "googleLink": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkLnBvZGJlYW4uY29tL2ZhbnRvbG9neWJvb2tzL2ZlZWQueG1s/episode/NDk5ZmM5YmUtODYyZS00NjJiLTllYTYtNGExMzExODA0YjU3?sa=X&ved=0CAUQkfYCahcKEwiA5b7ooKiCAxUAAAAAHQAAAAAQAQ",
+    "youtubeId": "sb9u9RghpTs"
   }
 }
