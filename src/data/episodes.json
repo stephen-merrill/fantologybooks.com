@@ -3209,5 +3209,17 @@
     "spotifyLink": "https://open.spotify.com/episode/2CKBpUPj4pI8wlvaNBbfvZ?si=OkDv7ZfETLu9kgN2WbmN8w",
     "googleLink": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkLnBvZGJlYW4uY29tL2ZhbnRvbG9neWJvb2tzL2ZlZWQueG1s/episode/YjI4MjQ4N2EtMGE3My00ZjMwLWIwZjEtODJjMzVmZjEwMzI0?sa=X&ved=0CAUQkfYCahcKEwiYmLWTxsuCAxUAAAAAHQAAAAAQAQ",
     "youtubeId": "IeH834T-FvA"
+  },
+  "275": {
+    "author": "Brandon Sanderson",
+    "description": "The secrets have all been revealed! Not really. But all four Secret Project books are out. Tune in for Josh & Stephen's thoughts on The Sunlit Man.",
+    "id": 275,
+    "seriesId": 1,
+    "title": "The Sunlit Man",
+    "image": "sunlit.png",
+    "appleLink": "https://podcasts.apple.com/us/podcast/275-the-sunlit-man-by-brandon-sanderson/id1489097985?i=1000636427714&ls=1",
+    "spotifyLink": "https://open.spotify.com/episode/5QsKDtyQmHot7uDgLp3KYP?si=nK_rmfPHRcqJNhbH6dVPng",
+    "googleLink": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkLnBvZGJlYW4uY29tL2ZhbnRvbG9neWJvb2tzL2ZlZWQueG1s/episode/MDZhMmViNmUtZWZmMC00ZjIxLWJhZGMtNWRjMWE3YTBhZmU3?sa=X&ved=0CAUQkfYCahcKEwjAuYTxit2CAxUAAAAAHQAAAAAQAQ",
+    "youtubeId": "9snGP-YyLCE"
   }
 }
