@@ -3232,5 +3232,16 @@
     "spotifyLink": "https://open.spotify.com/episode/7A45WDFWWmoFDvLA7Ti3fm?si=NGrQ4PWCR22Uc09_P-xw7g",
     "googleLink": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkLnBvZGJlYW4uY29tL2ZhbnRvbG9neWJvb2tzL2ZlZWQueG1s/episode/ZjQ5MWUyZjQtYjI3NS00NmVlLWFjNDItMGQ0YTdiZGFiY2Q1?sa=X&ved=0CAUQkfYCahcKEwj40ZSw_-6CAxUAAAAAHQAAAAAQAQ",
     "youtubeId": "k5efNbG"
+  },
+  "277": {
+    "author": "Fantology",
+    "description": "Josh and Jake host this special worldbuilding episode. Tune in to hear about Stephen's upcoming book, to be released in 2035!",
+    "id": 277,
+    "title": "Worldbuilding with Stephen",
+    "image": "worldbuilding3.png",
+    "appleLink": "https://podcasts.apple.com/us/podcast/277-fantology-worldbuilding-special-with-stephen/id1489097985?i=1000637937520&ls=1",
+    "spotifyLink": "https://open.spotify.com/episode/0qwitsFQLnx628BfmnuVDV?si=suywhlsTRi6fus_H3UVumw",
+    "googleLink": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkLnBvZGJlYW4uY29tL2ZhbnRvbG9neWJvb2tzL2ZlZWQueG1s/episode/ZTIxZjE1NTMtMmY1ZC00ZDNkLWExYmYtMjBkMjQ1YzcyNWJl?sa=X&ved=0CAUQkfYCahcKEwjo1o2CsYCDAxUAAAAAHQAAAAAQAQ",
+    "youtubeId": "ANAw1D9BA3A"
   }
 }
