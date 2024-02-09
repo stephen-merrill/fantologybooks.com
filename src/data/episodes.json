@@ -3332,9 +3332,9 @@
     "seriesId": 9,
     "title": "Light Bringer",
     "image": "lightbringer.png",
-    "appleLink": "",
-    "spotifyLink": "",
-    "googleLink": "",
+    "appleLink": "https://podcasts.apple.com/us/podcast/285-light-bringer-by-pierce-brown/id1489097985?i=1000644761784&ls=1",
+    "spotifyLink": "https://open.spotify.com/episode/2bVbkm61Ijr7yZ0FwK1ko2?si=5vTMNJK3QV6u3Kfg43pgyg",
+    "googleLink": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkLnBvZGJlYW4uY29tL2ZhbnRvbG9neWJvb2tzL2ZlZWQueG1s/episode/MDc5N2FkNTUtOTQzYy00MmI4LTliMDgtOTU1NjU0NzJjNmIw?sa=X&ved=0CAUQkfYCahcKEwiQkcCl1p6EAxUAAAAAHQAAAAAQAQ",
     "youtubeId": "sunYQzAWUKQ"
   }
 }
