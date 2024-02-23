@@ -3348,5 +3348,17 @@
     "spotifyLink": "https://open.spotify.com/episode/40c3ANUCE66kWDZptyvpgt?si=VD03PiU4RIOgWjmqsW-hPw",
     "googleLink": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkLnBvZGJlYW4uY29tL2ZhbnRvbG9neWJvb2tzL2ZlZWQueG1s/episode/Y2VmM2ViNDEtODBkOC00YWUxLThlYTUtZTFiMjRlNTU4YWE1?sa=X&ved=0CAUQkfYCahcKEwio3p_soLCEAxUAAAAAHQAAAAAQAQ",
     "youtubeId": "tqKiYGdz42M"
+  },
+  "287": {
+    "author": "Christopher Ruocchio",
+    "description": "Tune in for our full review of Empire of Silence, book one of The Sun Eater series by Christopher Ruocchio!",
+    "id": 287,
+    "seriesId": 9,
+    "title": "Empire of Silence",
+    "image": "eos.png",
+    "appleLink": "https://podcasts.apple.com/us/podcast/287-empire-of-silence-by-christopher-ruocchio/id1489097985?i=1000646609735&ls=1",
+    "spotifyLink": "https://open.spotify.com/episode/3tuLCFMwzrX4SzhVIUHYxI?si=428wk1QWQ5u60MlZNCHViQ",
+    "googleLink": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkLnBvZGJlYW4uY29tL2ZhbnRvbG9neWJvb2tzL2ZlZWQueG1s/episode/N2ExNTBjNTktMzVkMS00ZWFhLTkxZWMtYWNmYjFkZTFmNmE2?sa=X&ved=0CAUQkfYCahcKEwiwqrOJ9cGEAxUAAAAAHQAAAAAQAQ",
+    "youtubeId": "avjrLjjr2HI"
   }
 }
