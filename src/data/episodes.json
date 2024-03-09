@@ -3371,5 +3371,17 @@
     "spotifyLink": "https://open.spotify.com/episode/7mubvuBY3eEFprRsbfT0fB?si=jhfbuuaqQIuJiU4lU_mRTw",
     "googleLink": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkLnBvZGJlYW4uY29tL2ZhbnRvbG9neWJvb2tzL2ZlZWQueG1s/episode/MTQyNjVhYmEtNGVmNy00M2U5LWEyMWEtNWIzZDQ5NWZlOTA2?sa=X&ved=0CAUQkfYCahcKEwiYmsXivNOEAxUAAAAAHQAAAAAQAQ",
     "youtubeId": "K9o_EoBuYdU"
+  },
+  "289": {
+    "author": "Steven Erikson",
+    "description": "Stephen and Jake have finally finished The Bonehunters! Check out our review and best attempts to unravel some Malazan mysteries.",
+    "id": 289,
+    "seriesId": 7,
+    "title": "The Bonehunters: Part Two",
+    "image": "bonehunters-p2.png",
+    "appleLink": "https://podcasts.apple.com/us/podcast/289-the-bonehunters-by-steven-erikson-part-2-2/id1489097985?i=1000648581916&ls=1",
+    "spotifyLink": "https://open.spotify.com/episode/3nvAValDXHkG2ChJRXxJKk?si=JZdIbeM6SkawgMdbgZVIXw",
+    "googleLink": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkLnBvZGJlYW4uY29tL2ZhbnRvbG9neWJvb2tzL2ZlZWQueG1s/episode/YzQ0NzRkNTMtYTZiYy00YzE1LWFmNmMtM2JiMGFjODk1Njdl?sa=X&ved=0CAUQkfYCahcKEwiQmobWz-eEAxUAAAAAHQAAAAAQAQ",
+    "youtubeId": "pcBUuiaEyB0"
   }
 }
