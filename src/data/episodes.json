@@ -3406,5 +3406,17 @@
     "spotifyLink": "https://open.spotify.com/episode/3ClsJtN0FaQ92XYUZJCzlF?si=LaoJBxlIQVKWZGMiwIIqQw",
     "googleLink": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkLnBvZGJlYW4uY29tL2ZhbnRvbG9neWJvb2tzL2ZlZWQueG1s/episode/MDViOThkMDUtMWYxOS00NmJlLWJlYmMtYmE3ZjJkODdiZDRh?sa=X&ved=0CAUQkfYCahcKEwjQ1-LZnYiFAxUAAAAAHQAAAAAQAQ",
     "youtubeId": "taBWfwXITE0"
+  },
+  "292": {
+    "author": "Fantology",
+    "description": "We welcome our friend Jeff to discuss the future of entertainment. Will we ever see another Harry Potter level phenomenon?",
+    "id": 292,
+    "seriesId": 11,
+    "title": "The Next Phenomenon?",
+    "image": "jeff.png",
+    "appleLink": "https://podcasts.apple.com/us/podcast/292-will-we-ever-see-another-harry-potter-level-phenomenon/id1489097985?i=1000650837188&ls=1",
+    "spotifyLink": "https://open.spotify.com/episode/1bIqgg6qZHJwTYfp4y5waP?si=FJVsIup9Q6mUqgAwIEntsw",
+    "googleLink": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkLnBvZGJlYW4uY29tL2ZhbnRvbG9neWJvb2tzL2ZlZWQueG1s/episode/OWI5OTlhOGEtMTZjNS00NGIxLTgzMTYtN2M4Zjk4ZWU4NjM3?sa=X&ved=0CAUQkfYCahcKEwjI1s_2sJyFAxUAAAAAHQAAAAAQAQ",
+    "youtubeId": "Fu7oLr2BvnY"
   }
 }
