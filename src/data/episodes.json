@@ -3430,5 +3430,17 @@
     "spotifyLink": "https://open.spotify.com/episode/6fEKI1sQgT1NgqAS7nf4h2?si=eqyFcC-HSl-EE9swyFHwPg",
     "googleLink": "",
     "youtubeId": "WmT_nJsIqAY"
+  },
+  "294": {
+    "author": "Netflix",
+    "description": "Netflix's 3 Body Problem adaption is one of the most ambitious sci-fi projects we've ever seen. Tune in to see how well it landed!",
+    "id": 294,
+    "seriesId": 12,
+    "title": "3 Body Problem",
+    "image": "3bp.png",
+    "appleLink": "https://podcasts.apple.com/us/podcast/294-3-body-problem-season-1/id1489097985?i=1000652256363&ls=1",
+    "spotifyLink": "https://open.spotify.com/episode/3W2Hx6pxYYWN8Wm503zNZK?si=715Svq6IQ-2ufssjekJD_w",
+    "googleLink": "",
+    "youtubeId": "MhpCgZZ-cWM"
   }
 }
