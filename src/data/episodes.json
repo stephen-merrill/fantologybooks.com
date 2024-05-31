@@ -3514,5 +3514,17 @@
     "spotifyLink": "https://open.spotify.com/episode/1jrlJ1IdXfZipKxvRIG4yh?si=sr_zv7SlR96wORqUNHlPNg",
     "googleLink": "",
     "youtubeId": "ZxfjbEHM_nI"
+  },
+  "301": {
+    "author": "Dennis E. Taylor",
+    "description": "At long last, Fantology has entered the Bobiverse! Tune in to get our opinion on this quirky sci-fi tale.",
+    "id": 301,
+    "seriesId": 9,
+    "title": "We Are Legion (We Are Bob)",
+    "image": "bob-1.png",
+    "appleLink": "https://podcasts.apple.com/us/podcast/301-we-are-legion-we-are-bob-by-dennis-e-taylor/id1489097985?i=1000657407328&ls=1",
+    "spotifyLink": "https://open.spotify.com/episode/280W4XVrVcpakUYmHbGwa4?si=ByltA15pQpSFEuLUrC9wgQ",
+    "googleLink": "",
+    "youtubeId": "S5E2lpeWevo"
   }
 }
