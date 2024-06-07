@@ -3526,5 +3526,17 @@
     "spotifyLink": "https://open.spotify.com/episode/280W4XVrVcpakUYmHbGwa4?si=ByltA15pQpSFEuLUrC9wgQ",
     "googleLink": "",
     "youtubeId": "S5E2lpeWevo"
+  },
+  "302": {
+    "author": "Dan Simmons",
+    "description": "Ben may have called it a bad recommendation, but that didn't stop Fantology from starting this sci-fi epic! Tune in for a primer on Hyperion and our thoughts on the priest's tale.",
+    "id": 302,
+    "seriesId": 9,
+    "title": "Hyperion Part 1",
+    "image": "hyperion-1.png",
+    "appleLink": "https://podcasts.apple.com/us/podcast/302-hyperion-part-1-by-dan-simmons/id1489097985?i=1000658167551&ls=1",
+    "spotifyLink": "https://open.spotify.com/episode/6tltCeOwLdwwnAqzdtPAhF?si=srLCbAACTMK4SKsZ959d2g",
+    "googleLink": "",
+    "youtubeId": "RY3McO2fDPg"
   }
 }
