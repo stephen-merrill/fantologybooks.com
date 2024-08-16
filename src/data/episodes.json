@@ -3646,5 +3646,17 @@
     "spotifyLink": "https://open.spotify.com/episode/38aof2z7T2EQ3rI8X7MqPK?si=f83ZPYEVTu-h4M0BpqqNdA",
     "googleLink": "",
     "youtubeId": "L6UkD646Ej8"
+  },
+  "312": {
+    "author": "Dan Simmons",
+    "description": "Our journey through Hyperion continues! Tune in for discussion of part two, the soldier's tale.",
+    "id": 312,
+    "seriesId": 9,
+    "title": "Hyperion Part 2",
+    "image": "hyperion-p2.png",
+    "appleLink": "https://podcasts.apple.com/us/podcast/312-hyperion-by-dan-simmons-part-2/id1489097985?i=1000665629014&ls=1",
+    "spotifyLink": "https://open.spotify.com/episode/5hiIyWmPkr4Oh53mZI3Xw6?si=-hujNhutSdO50BwYjMgniw",
+    "googleLink": "",
+    "youtubeId": "https://youtu.be/YuHP-cGD49Y"
   }
 }
