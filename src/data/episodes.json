@@ -3657,7 +3657,7 @@
     "appleLink": "https://podcasts.apple.com/us/podcast/312-hyperion-by-dan-simmons-part-2/id1489097985?i=1000665629014&ls=1",
     "spotifyLink": "https://open.spotify.com/episode/5hiIyWmPkr4Oh53mZI3Xw6?si=-hujNhutSdO50BwYjMgniw",
     "googleLink": "",
-    "youtubeId": "https://youtu.be/YuHP-cGD49Y"
+    "youtubeId": "YuHP-cGD49Y"
   },
   "313": {
     "author": "Brandon Sanderson",
@@ -3717,5 +3717,17 @@
     "spotifyLink": "https://open.spotify.com/episode/2Texyvwwc0dID5P588w9uq?si=OAdeJZD9R86YoQ2UCgotGA",
     "googleLink": "",
     "youtubeId": "hmoPgwW1kkk"
+  },
+  "318": {
+    "author": "Dan Simmons",
+    "description": "In this Hyperion installment, we are covering the poet and the scholar's tales. Which stories did you enjoy the most? Our choice was unanimous!",
+    "id": 318,
+    "seriesId": 9,
+    "title": "Hyperion Part 3",
+    "image": "hyperion-p3.png",
+    "appleLink": "https://podcasts.apple.com/us/podcast/318-hyperion-by-dan-simmons-chapters-3-4/id1489097985?i=1000670946149&ls=1",
+    "spotifyLink": "https://open.spotify.com/episode/0UVJ7HD6AtxfxRNNjnr63h?si=Jy-abssaSNahtKSKQh085Q",
+    "googleLink": "",
+    "youtubeId": "0IAO4nqpYqA"
   }
 }
