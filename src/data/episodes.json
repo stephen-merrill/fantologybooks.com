@@ -3729,5 +3729,16 @@
     "spotifyLink": "https://open.spotify.com/episode/0UVJ7HD6AtxfxRNNjnr63h?si=Jy-abssaSNahtKSKQh085Q",
     "googleLink": "",
     "youtubeId": "0IAO4nqpYqA"
+  },
+  "319": {
+    "author": "Bram Stoker",
+    "description": "Spooky season! We throw it way back to the classics with the dawn of vampires, credit to Bram Stoker",
+    "id": 319,
+    "title": "Dracula",
+    "image": "dracula.png",
+    "appleLink": "https://podcasts.apple.com/us/podcast/319-dracula-by-bram-stoker/id1489097985?i=1000671778262&ls=1",
+    "spotifyLink": "https://open.spotify.com/episode/24lBxbjZgSUY6Eir6X9rXg?si=lTTN--djRSGYBA4misX1Tg",
+    "googleLink": "",
+    "youtubeId": "zovFcpBXuqc"
   }
 }
