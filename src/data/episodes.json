@@ -3774,5 +3774,16 @@
     "spotifyLink": "https://open.spotify.com/episode/0QRbwB6Xsq4bM4lisdLCjB?si=tAXFXKdzTtWm-4cenbZtGA",
     "googleLink": "",
     "youtubeId": "hHhlktJOGJw"
+  },
+  "323": {
+    "author": "Stephen King",
+    "description": "The October month of horror continues with our review of Stephen King's classic, 'Salem's Lot",
+    "id": 323,
+    "title": "'Salem's Lot",
+    "image": "salem.png",
+    "appleLink": "https://podcasts.apple.com/us/podcast/323-salems-lot-by-stephen-king/id1489097985?i=1000674443686&ls=1",
+    "spotifyLink": "https://open.spotify.com/episode/5ffinhpmBWGZLK9U1dYSIX?si=q_49hxNWQc-p8O72cAlJmQ",
+    "googleLink": "",
+    "youtubeId": "H9udddzk414"
   }
 }
