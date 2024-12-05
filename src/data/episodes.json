@@ -3836,11 +3836,23 @@
     "description": "Tune in for a full who's-who of the Stormlight Archive as we recap all the events leading up to the big release of Wind and Truth!",
     "id": 328,
     "seriesId": 1,
-    "title": "Wind and Truth Chapters 1-6",
+    "title": "Wind and Truth Preparation",
     "image": "wat-prep.png",
     "appleLink": "https://podcasts.apple.com/us/podcast/328-wind-and-truth-what-you-need-to-know/id1489097985?i=1000678639862&ls=1",
     "spotifyLink": "https://open.spotify.com/episode/6taln6UUPoxCRdMMXmkG6k?si=UHZExmGlSXypr3qkk_hA_w",
     "googleLink": "",
     "youtubeId": "TD86y335YZQ"
+  },
+  "329": {
+    "author": "Brandon Sanderson",
+    "description": "Wind and Truth is nearly here! Spend the last day of anticipation with us as we theory craft and issue some Fantology guarantees for what we'll see in Stormlight Archive 5.",
+    "id": 329,
+    "seriesId": 1,
+    "title": "Wind and Truth Speculation",
+    "image": "wat-theories.png",
+    "appleLink": "https://podcasts.apple.com/us/podcast/329-wind-and-truth-theories-and-guarantees/id1489097985?i=1000679346240&ls=1",
+    "spotifyLink": "https://open.spotify.com/episode/3RpYrSLAdcqXPa9Op2ZHsu?si=dEB97BQVTWOoqyj3QfQtsQ",
+    "googleLink": "",
+    "youtubeId": "VlFlvfxs0X4"
   }
 }
