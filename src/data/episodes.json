@@ -3854,5 +3854,17 @@
     "spotifyLink": "https://open.spotify.com/episode/3RpYrSLAdcqXPa9Op2ZHsu?si=dEB97BQVTWOoqyj3QfQtsQ",
     "googleLink": "",
     "youtubeId": "VlFlvfxs0X4"
+  },
+  "330": {
+    "author": "Brandon Sanderson",
+    "description": "We went to Dragonsteel Nexus! Tune in for an inside look at what the convention was like and a dramatic anecdote about how we secured the elusive herald #8 card",
+    "id": 330,
+    "seriesId": 11,
+    "title": "Dragonsteel Nexus 2024 Recap",
+    "image": "nexus.png",
+    "appleLink": "https://podcasts.apple.com/us/podcast/330-dragonsteel-nexus-2024-recap/id1489097985?i=1000679887043&ls=1",
+    "spotifyLink": "https://open.spotify.com/episode/1D3xonQ3mN8zVzTlAOWC7r?si=hFcd1BglRDCHkuWTvXjyqA",
+    "googleLink": "",
+    "youtubeId": "C6dIoa0hOfI"
   }
 }
