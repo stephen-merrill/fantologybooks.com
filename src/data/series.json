@@ -315,7 +315,7 @@
 		"author": [
 			{
 				"name": "Fantology",
-				"id": [0, 1, 2],
+				"id": [0, 1, 2, 3, 4, 5],
 				"description":"Who are these fools?",
 				"image":"transparent-logo.png"
 			}
@@ -346,6 +346,11 @@
 				"title": "2024",
 				"id": 4,
 				"ep": [292, 300, 330]
+			},
+			{
+				"title": "2025",
+				"id": 5,
+				"ep": [334]
 			}
 		]
 	},
