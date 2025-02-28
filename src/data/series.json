@@ -98,12 +98,12 @@
 		"author": [
 			{
 				"name": "Joe Abercrombie",
-				"id": [0, 1, 2, 3],
+				"id": [0, 1, 2, 3, 4],
 				"description":"Joe Abercrombie is a British fantasy writer and film editor. He is the author of The First Law trilogy, as well as other fantasy books in the same setting and a trilogy of young adult novels. Abercrombie had a job making tea at a television production company before taking up a career as a freelance film editor. As a freelance film editor, Abercrombie found himself with more free time than he previously had. With this time, he decided to reconsider a story plot he conceived while attending University. Thus begun the grimdarkiest series we’ve read – The First Law.",
 				"image":"abercrombie.jpg"
 			}
 		],
-		"ep": [119, 17, 38, 46, 52, 70, 71, 75, 131, 141, 147],
+		"ep": [119, 17, 38, 46, 52, 70, 71, 75, 131, 141, 147, 340],
 		"subSeries": [
 			{
 				"title": "The First Law Trilogy",
@@ -124,6 +124,11 @@
 				"title": "The Shattered Sea",
 				"id": 3,
 				"ep": []
+			},
+			{
+				"title": "The Devils",
+				"id": 4,
+				"ep": [340]
 			}
 		]
 	},
