@@ -4014,7 +4014,7 @@
     "description": "Season 3 is definitively better... and the show is getting rave reviews! What has changed here? And is it sustainable?",
     "id": 343,
     "seriesId": 12,
-    "title":"The Wheel of Time Season 3 Hype",
+    "title":"The Wheel of Time Season 3 Ep 1-3",
     "image": "wots3e3-pod.png",
     "appleLink": "https://podcasts.apple.com/us/podcast/343-the-wheel-of-time-season-3-episodes-1-3/id1489097985?i=1000700114350&ls=1",
     "spotifyLink": "https://open.spotify.com/episode/7e7Ho7IJ8HsvegmWoaZ9MT?si=WxROxQlXQMqWFUpo4D9mtQ",
@@ -4044,5 +4044,17 @@
     "spotifyLink": "https://open.spotify.com/episode/3P8QINzuRPlqhcqK6CxP6b?si=9wePr959QgyB8OjBUIBt1w&context=spotify%3Ashow%3A310DLxDRkTdam3fMcQtMCR",
     "googleLink": "",
     "youtubeId": "iOcsmmXtbAA"
+  },
+  "346": {
+    "author": "Amazon Prime Video",
+    "description": "Season 3, Episode 4 was the best of the series! Did episodes 5 and 6 keep the momentum going? If aren't watching, check out The Wheel of Time on Prime!",
+    "id": 346,
+    "seriesId": 12,
+    "title":"The Wheel of Time Season 3 Ep 4-6",
+    "image": "wots3e46.png",
+    "appleLink": "https://podcasts.apple.com/us/podcast/346-the-wheel-of-time-season-3-episodes-4-6/id1489097985?i=1000703010592&ls=1",
+    "spotifyLink": "https://open.spotify.com/episode/53FFU6uWaA9ZcvaRsxBvYw?si=6z5eGdjkQ86PPub_p3SRfw&context=spotify%3Ashow%3A310DLxDRkTdam3fMcQtMCR",
+    "googleLink": "",
+    "youtubeId": "qH9VJBuJ97c"
   }
 }
