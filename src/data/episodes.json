@@ -4126,5 +4126,17 @@
     "spotifyLink": "https://open.spotify.com/episode/6iHCcUvePOtiN6geH59EAh?si=V4VRcrrPTp-VzwVuBDOz0g",
     "googleLink": "",
     "youtubeId": "1IrgcN1sgEo"
+  },
+  "353": {
+    "author": "Amazon Prime Video",
+    "description": "Say it ain't so! The Wheel of Time has been cancelled. But why? Was this inevitable? And can the show be saved?",
+    "id": 353,
+    "seriesId": 12,
+    "title":"Wheel of Time CANCELLED",
+    "image": "wot-cancelled.png",
+    "appleLink": "https://podcasts.apple.com/us/podcast/353-the-wheel-of-time-on-prime-cancelled/id1489097985?i=1000710560342&ls=1",
+    "spotifyLink": "https://open.spotify.com/episode/0mppUrWE931PAYKKX6y0MS?si=8YZoj-jETVmFICx7SFWZ-A&context=spotify%3Ashow%3A310DLxDRkTdam3fMcQtMCR",
+    "googleLink": "",
+    "youtubeId": "uN7x_0k77Xw"
   }
 }
