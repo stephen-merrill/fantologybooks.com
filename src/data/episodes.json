@@ -4150,5 +4150,17 @@
     "spotifyLink": "https://open.spotify.com/episode/3kZgABwnLkgum73bPGbiaD?si=2V7F5DcjTheWOA5jumOb1A&context=spotify%3Ashow%3A310DLxDRkTdam3fMcQtMCR",
     "googleLink": "",
     "youtubeId": "YSTVgiNzTJI"
+  },
+  "355": {
+    "author": "Apple TV+",
+    "description": "Jake and Stephen review the first five episodes of Murderbot on Apple+. We chat through the humor and pacing of the show and debate if Alexander Skarsgård is too sexy to be an AI.",
+    "id": 355,
+    "seriesId": 12,
+    "title": "Murderbot Episodes 1-5",
+    "image": "murderbot-ep15.png",
+    "appleLink": "https://podcasts.apple.com/us/podcast/355-murderbot-on-apple-episodes-1-5/id1489097985?i=1000712743718&ls=1",
+    "spotifyLink": "https://open.spotify.com/episode/3a4zaZqj5UKJsrdiaYPEuJ?si=sU2jjs22TluzptScUOYkWQ",
+    "googleLink": "",
+    "youtubeId": "sBJeoh7xx64"
   }
 }
