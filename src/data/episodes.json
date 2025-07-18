@@ -4208,5 +4208,17 @@
     "spotifyLink": "https://open.spotify.com/episode/1Bm9qcITrskZp4FdB5Mcub?si=QqQxyi_wRZa9KpwyDBUcLw&context=spotify%3Ashow%3A310DLxDRkTdam3fMcQtMCR",
     "googleLink": "",
     "youtubeId": "97abcUqLeIo"
+  },
+  "360": {
+    "author": "Apple TV+",
+    "description": "Murderbot season 1 has wrapped and we have thoughts! What would it take to improve this to a 10/10 show? And how are they going to adapt season 2?",
+    "id": 360,
+    "seriesId": 12,
+    "title": "Murderbot Episodes 6-10",
+    "image": "murderbot-ep610.png",
+    "appleLink": "https://podcasts.apple.com/us/podcast/360-murderbot-season-1-episodes-6-10/id1489097985?i=1000717958279&ls=1",
+    "spotifyLink": "https://open.spotify.com/episode/6oHVzJTsmAIpsr98xZSj1y?si=9XZaHh2dQS6Elo83euF_qA&context=spotify%3Ashow%3A310DLxDRkTdam3fMcQtMCR",
+    "googleLink": "",
+    "youtubeId": "gpNkgj357yc"
   }
 }
