@@ -4382,5 +4382,16 @@
     "spotifyLink": "https://spotify.link/vkFODvGUUXb",
     "googleLink": "",
     "youtubeId": "I4p_-urgnzA"
+  },
+  "375": {
+    "author": "Stephen King",
+    "description": "As promised, Stephen made 11.22.63 his first Stephen King book. Tune in for a full review and our time travel strategies!",
+    "id": 375,
+    "title":"11.22.63",
+    "image": "112263.png",
+    "appleLink": "https://podcasts.apple.com/us/podcast/375-11-22-63-by-stephen-king/id1489097985?i=1000735720456",
+    "spotifyLink": "https://open.spotify.com/episode/3RDX8caWqy9wTW8ynVa8ku?si=axARmeiCQbe0WgscObbTww&context=spotify%3Ashow%3A310DLxDRkTdam3fMcQtMCR",
+    "googleLink": "",
+    "youtubeId": "ID5HGVfkNhg"
   }
 }
