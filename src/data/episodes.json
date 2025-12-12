@@ -4437,5 +4437,16 @@
     "spotifyLink": "https://open.spotify.com/episode/5nBJzbqQxsXN7nUCJzGjZQ?si=C__XJkx8R_61w3rfvVND_Q&context=spotify%3Ashow%3A310DLxDRkTdam3fMcQtMCR",
     "googleLink": "",
     "youtubeId": "LuTErQF0ZhQ"
+  },
+    "380": {
+    "author": "Stephen King",
+    "description": "Ben and Josh team up to review The Running Man, by Stephen King.",
+    "id": 380,
+    "title":"The Running Man",
+    "image": "running-man.png",
+    "appleLink": "https://podcasts.apple.com/us/podcast/380-the-running-man-by-stephen-king/id1489097985?i=1000741004855",
+    "spotifyLink": "https://open.spotify.com/episode/4IIK8MOgzySdCYRDXKzn43?si=afIYz-IYR_-whsbuGwzauw&context=spotify%3Ashow%3A310DLxDRkTdam3fMcQtMCR",
+    "googleLink": "",
+    "youtubeId": "fEv6agPeiXU"
   }
 }
