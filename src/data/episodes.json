@@ -4472,5 +4472,17 @@
     "spotifyLink": "https://open.spotify.com/episode/2ALGjYEVUMRVgx36l65gCC?si=IawtsL9tR9aKTWtq_RknGw&context=spotify%3Ashow%3A310DLxDRkTdam3fMcQtMCR",
     "googleLink": "",
     "youtubeId": "Ha5CeI7k0c0"
+  },
+  "383": {
+    "author": "Apple TV+",
+    "description": "Apple TV+ has a hit with Pluribus. We review the errie sci-fi and discuss the philosophy behind the show",
+    "id": 383,
+    "seriesId": 12,
+    "title": "Pluribus Season 1",
+    "image": "pluribus.png",
+    "appleLink": "https://podcasts.apple.com/us/podcast/383-pluribus-season-1/id1489097985?i=1000743512942",
+    "spotifyLink": "https://open.spotify.com/episode/00ttepp3LftjcBwsYRze69?si=kaxpp5-wRXK3fJiJzqIxkw",
+    "googleLink": "",
+    "youtubeId": "xmiGnoo-xQA"
   }
 }
