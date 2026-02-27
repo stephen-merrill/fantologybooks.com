@@ -4554,5 +4554,28 @@
     "spotifyLink": "https://open.spotify.com/episode/6oQZ4e5SGA4bBLmaSb02FE?si=lXrM_R18Rb6IvnA9lQIKag&context=spotify%3Ashow%3A310DLxDRkTdam3fMcQtMCR",
     "googleLink": "",
     "youtubeId": "MQyhoV1vbPE"
+  },
+  "390": {
+    "author": "George R.R. Martin",
+    "description": "We continue our review of A Knight of the Seven Kingdoms with a chat about The Sworn Sword and The Mystery Knight. How well will these stories work as the second and third series of the show?",
+    "id": 390,
+    "title": "A Knight of the Seven Kingdoms Parts 2-3",
+    "image": "akotsk23.png",
+    "appleLink": "https://podcasts.apple.com/us/podcast/390-a-knight-of-the-seven-kingdoms-by-george-r-r-martin/id1489097985?i=1000750660561",
+    "spotifyLink": "https://open.spotify.com/episode/6bfYeWzeFIK1N8GQOfH20t?si=1Ctn5pwZQ1ywMFFNAM4hxg&context=spotify%3Ashow%3A310DLxDRkTdam3fMcQtMCR",
+    "googleLink": "",
+    "youtubeId": "W1htsmhsjA0"
+  },
+  "391": {
+    "author": "George R.R. Martin",
+    "description": "A Knight of the Seven Kingdoms had a hugely successful first season that revitalized excited for Westeros TV. What made it work so well?",
+    "id": 391,
+    "seriesId": 12,
+    "title": "A Knight of the Seven Kingdoms Part 2",
+    "image": "akotsk3-6.png",
+    "appleLink": "https://podcasts.apple.com/us/podcast/391-a-knight-of-the-seven-kingdoms-season-1/id1489097985?i=1000751918868",
+    "spotifyLink": "https://open.spotify.com/episode/0X7J6mdrN3MXzOjjoU9OzY?si=N4c1FTjvQky2ia7ACi3HUA&context=spotify%3Ashow%3A310DLxDRkTdam3fMcQtMCR",
+    "googleLink": "",
+    "youtubeId": "rBqufpJdmFI"
   }
 }
