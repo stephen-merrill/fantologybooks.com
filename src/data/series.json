@@ -145,12 +145,12 @@
 				"image":"tolkien.jpg"
 			}
 		],
-		"ep": [56, 78, 176],
+		"ep": [56, 78, 176, 393],
 		"subSeries": [
 			{
 				"title": "The Lord of the Rings",
 				"id": 0,
-				"ep": [56, 78]
+				"ep": [56, 78, 393]
 			},
 			{
 				"title": "Expanded Legendarium",
