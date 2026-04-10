@@ -4623,5 +4623,28 @@
     "spotifyLink": "https://open.spotify.com/episode/7GIyvxaypH4tzCYzNvdCe4?si=stg4v2qmQdWUcewlNLS4ww",
     "googleLink": "",
     "youtubeId": "FNypshYqylk"
+  },  
+  "396": {
+    "author": "Andy Weir",
+    "description": "Project Hail Mary was a Hollywood triumph. What made this adaptation work? And how did Ryan Gosling get his glasses to do that?!",
+    "id": 396,
+    "seriesId": 12,
+    "title": "Project Hail Mary Movie Review",
+    "image": "phm-movie.png",
+    "appleLink": "https://podcasts.apple.com/us/podcast/396-project-hail-mary-movie-review/id1489097985?i=1000759041822",
+    "spotifyLink": "https://open.spotify.com/episode/1kamfH20nDmApOO6mhj64u?si=8MMB_xf0SL2-T8B2XkOscw&context=spotify%3Ashow%3A310DLxDRkTdam3fMcQtMCR",
+    "googleLink": "",
+    "youtubeId": "mmUt0GQ6ZRw"
+  },
+  "397": {
+    "author": "Matt Dinniman",
+    "description": "Stephen and Ryan continue our coverage of Dungeon Crawler Carl with a discussion of books 4 & 5",
+    "id": 397,
+    "title": "Dungeon Crawler Carl 4 & 5",
+    "image": "dcc45.png",
+    "appleLink": "https://podcasts.apple.com/us/podcast/397-dungeon-crawler-carl-4-5-by-matt-dinniman/id1489097985?i=1000760666087",
+    "spotifyLink": "https://open.spotify.com/episode/7E8xycRCOi0EJI7tGkjEJo?si=Zrr3r7UqR16Tc6r9y-V_7Q&context=spotify%3Ashow%3A310DLxDRkTdam3fMcQtMCR",
+    "googleLink": "",
+    "youtubeId": "xg9pIeiul74"
   }
 }
