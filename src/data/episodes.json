@@ -4669,5 +4669,17 @@
     "spotifyLink": "https://open.spotify.com/episode/35H21Fb9hvOyP9BrhKbb65?si=LZdv73YNQmqIqvzRcSX8Ig",
     "googleLink": "",
     "youtubeId": "4UNqh_sYXiI"
+  },
+    "400": {
+    "author": "Fantology",
+    "description": "Join us for a celebration of 400 episodes and a competition for who can form the ultimate questing team. Play along at home! Mind the spoiler warning.",
+    "id": 400,
+    "seriesId": 11,
+    "title": "Ultimate Questing Party",
+    "image": "400-pod.png",
+    "appleLink": "https://podcasts.apple.com/us/podcast/400-the-ultimate-fantasy-questing-team/id1489097985?i=1000765508446",
+    "spotifyLink": "https://open.spotify.com/episode/4h05lIubpQAD6674Un38Ra?si=IFgLYaVnTo-Q6cbfHSdKJA",
+    "googleLink": "",
+    "youtubeId": "Ng0Hej8B1Kw"
   }
 }
