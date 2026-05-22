@@ -4705,5 +4705,17 @@
     "spotifyLink": "https://open.spotify.com/episode/7j2VfBKgqhDuCUZTp6kbm6?si=xk8NNTEpRDWXw7C-_9Aw7g",
     "googleLink": "",
     "youtubeId": "hvooTSUA4jM"
+  },  
+  "403": {
+    "author": "Martha Wells",
+    "description": "Jake and Stephen cover the latest Murderbot novella, Platform Decay!",
+    "id": 403,
+    "seriesId": 9,
+    "title": "Platform Decay",
+    "image": "platform.png",
+    "appleLink": "https://podcasts.apple.com/us/podcast/403-platform-decay-by-martha-wells/id1489097985?i=1000769079932",
+    "spotifyLink": "https://open.spotify.com/episode/5U8O5qtWKxMtorvNS2cyVJ?si=J2JIzaG8THaOq_obuXpPvA",
+    "googleLink": "",
+    "youtubeId": "EzoCbdjAC8g"
   }
 }
