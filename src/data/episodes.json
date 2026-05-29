@@ -4717,5 +4717,16 @@
     "spotifyLink": "https://open.spotify.com/episode/5U8O5qtWKxMtorvNS2cyVJ?si=J2JIzaG8THaOq_obuXpPvA",
     "googleLink": "",
     "youtubeId": "EzoCbdjAC8g"
+  },  
+  "404": {
+    "author": "Matt Dinniman",
+    "description": "Stephen and Ryan have more Dungeon Crawler Carl! Did books 6-7 get too crazy?",
+    "id": 404,
+    "title": "Dungeon Crawler Carl 6 & 7",
+    "image": "dcc67.png",
+    "appleLink": "https://podcasts.apple.com/us/podcast/404-dungeon-crawler-carl-6-7-by-matt-dinniman/id1489097985?i=1000770175559",
+    "spotifyLink": "https://open.spotify.com/episode/2T5gm8qT4fRR1KmTfrNbdS?si=E-Lelh-kTu2OmR2_hZpKeQ",
+    "googleLink": "",
+    "youtubeId": "DMUBlIDtbxA"
   }
 }
