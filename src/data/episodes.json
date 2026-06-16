@@ -4719,7 +4719,7 @@
     "youtubeId": "EzoCbdjAC8g"
   },  
   "404": {
-    "author": "Matt Dinniman",
+    "author": "",
     "description": "Stephen and Ryan have more Dungeon Crawler Carl! Did books 6-7 get too crazy?",
     "id": 404,
     "title": "Dungeon Crawler Carl 6 & 7",
@@ -4728,5 +4728,27 @@
     "spotifyLink": "https://open.spotify.com/episode/2T5gm8qT4fRR1KmTfrNbdS?si=E-Lelh-kTu2OmR2_hZpKeQ",
     "googleLink": "",
     "youtubeId": "DMUBlIDtbxA"
+  },  
+  "405": {
+    "author": "Robert Jackson Bennet",
+    "description": "Jake and Josh continue our coverage of the hit Sherlock Holmes - Kaiju mashup series. Tune in for our review of A Drop of Corruption!",
+    "id": 405,
+    "title": "A Drop of Corruption",
+    "image": "corrupt.png",
+    "appleLink": "https://podcasts.apple.com/us/podcast/405-a-drop-of-corruption-by-robert-jackson-bennet/id1489097985?i=1000771319094",
+    "spotifyLink": "https://open.spotify.com/episode/3TF1LP8Jb3BfyGC0aOzkDG?si=57887a57456e4882",
+    "googleLink": "",
+    "youtubeId": "66O1Lt69l8g"
+  },  
+  "406": {
+    "author": "Fonda Lee",
+    "description": "Can Fonda Lee do it again after the epic Greenbone Saga? Check out her standalone about an aging corporate samurai in space!",
+    "id": 406,
+    "title": "The Last Contract of Isako",
+    "image": "isako.png",
+    "appleLink": "https://podcasts.apple.com/us/podcast/406-the-last-contract-of-isako-by-fonda-lee/id1489097985?i=1000772367219",
+    "spotifyLink": "https://open.spotify.com/episode/5e1EbumZ4n0L5TXIjKO2n0?si=5vGz4AdkQHWDdIPfcooQMQ",
+    "googleLink": "",
+    "youtubeId": "2uu4uMoYPqM"
   }
 }
