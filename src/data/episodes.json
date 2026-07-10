@@ -4762,5 +4762,29 @@
     "spotifyLink": "https://open.spotify.com/episode/3iJhsDVQZvn4wA2Y38RuIB?si=5ZOgWBdQRXCI78_O1wHM-g",
     "googleLink": "",
     "youtubeId": "F8slb8BJygo"
+  },  
+  "408": {
+    "author": "HBO",
+    "description": "The highest rated episode yet! But where do we go from here?",
+    "id": 408,
+    "seriesId": 12,
+    "title": "House of the Dragon E302",
+    "image": "hotd302.png",
+    "appleLink": "https://podcasts.apple.com/us/podcast/408-house-of-the-dragon-e302/id1489097985?i=1000775342374",
+    "spotifyLink": "https://open.spotify.com/episode/6fQfXKy34WblLkfrZQVJa7?si=ONB7cniwSfuXjSok5Uxy9Q",
+    "googleLink": "",
+    "youtubeId": "0z_sSKrMG8U"
+  },  
+  "409": {
+    "author": "HBO",
+    "description": "Episode three ramps up the conflict again. But did it all make sense?",
+    "id": 409,
+    "seriesId": 12,
+    "title": "House of the Dragon E303",
+    "image": "hotd303.png",
+    "appleLink": "https://podcasts.apple.com/us/podcast/409-house-of-the-dragon-e303/id1489097985?i=1000776259137",
+    "spotifyLink": "https://open.spotify.com/episode/5cr2uj3TeoJ8CB3SmL8DEo?si=36pJPO9STe29Jz1muJ1T0A&utm_source=copy-link",
+    "googleLink": "",
+    "youtubeId": "EJfmcGa6FPo"
   }
 }
