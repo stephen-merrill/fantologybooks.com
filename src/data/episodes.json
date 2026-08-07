@@ -4822,5 +4822,17 @@
     "spotifyLink": "https://open.spotify.com/episode/5Z01ZFvpNOvk6l5BuzwlVT?si=TIUILxfrTdqN7-razj1Rhg&utm_source=copy-link&sci=spotify%3Acard-config%3A3M4kKZxd8nAYDA6GUi6zvY",
     "googleLink": "",
     "youtubeId": "CWJY21jHVOQ"
+  },  
+  "413": {
+    "author": "Christopher Nolan",
+    "description": "Everyone has seen The Odyssey. But you haven't heard our review yet!",
+    "id": 413,
+    "seriesId": 12,
+    "title": "The Odyssey",
+    "image": "odyssey.png",
+    "appleLink": "https://podcasts.apple.com/us/podcast/413-the-odyssey/id1489097985?i=1000780869120",
+    "spotifyLink": "https://open.spotify.com/episode/3l6SSUxoBGSM0Qojpki2dc?si=rhltkWCrQKKnOYa-1ErgNg&utm_source=copy-link&sci=spotify%3Acard-config%3A2nRYlIWtTc9SAigFrMrPJC",
+    "googleLink": "",
+    "youtubeId": "G6ZTm5zIlcE"
   }
 }
