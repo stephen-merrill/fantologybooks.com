@@ -4845,5 +4845,17 @@
     "spotifyLink": "https://open.spotify.com/episode/2vPHAM7D2tnxA8DXtriKB6?si=euETl7AdTre6kKB1LvQxsg&utm_source=copy-link&sci=spotify%3Acard-config%3A3TxzIfbtkvWSnPR7h2kyQR",
     "googleLink": "",
     "youtubeId": "MJRD6PzP71k"
-  }
+  },  
+  "415": {
+    "author": "HBO",
+    "description": "House of the Dragon season 3 ended with a bang! Tune in for a full retrospective on the season.",
+    "id": 415,
+    "seriesId": 12,
+    "title": "House of the Dragon Season 3 Wrap-up",
+    "image": "hotds3.png",
+    "appleLink": "https://podcasts.apple.com/us/podcast/415-house-of-the-dragon-season-3-wrap-up/id1489097985?i=1000784845526",
+    "spotifyLink": "https://open.spotify.com/episode/7LdAe2h4TGwf1yjSe4F8sS?si=1cX_AxwoTZeajRxgHh7zGA&utm_source=copy-link",
+    "googleLink": "",
+    "youtubeId": "cTZuXwGH9_k"
+  }  
 }
