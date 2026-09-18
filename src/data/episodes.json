@@ -4893,5 +4893,16 @@
     "spotifyLink": "https://open.spotify.com/episode/3WD01zNRrxXs7TFK186jDl?si=Rzz-gU6tS62Fb2DRruH_wg&utm_source=copy-link",
     "googleLink": "",
     "youtubeId": "ocnpywCGOdA"
+  },  
+  "419": {
+    "author": "Stephen King",
+    "description": "Another Stephen King review. Tune in for a Jake and Josh mess around review of The Talisman.",
+    "id": 419,
+    "title": "The Talisman",
+    "image": "talisman.png",
+    "appleLink": "https://podcasts.apple.com/us/podcast/419-the-talisman-by-stephen-king/id1489097985?i=1000790513875",
+    "spotifyLink": "https://open.spotify.com/episode/69OK92VC14LQ5WtiF9cuRX?si=NEytJnmwQPOLRjBRH6FBIg&utm_source=copy-link",
+    "googleLink": "",
+    "youtubeId": "UN_W5v7X800"
   }
 }
