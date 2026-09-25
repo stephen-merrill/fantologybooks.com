@@ -4719,7 +4719,7 @@
     "youtubeId": "EzoCbdjAC8g"
   },  
   "404": {
-    "author": "",
+    "author": "Matt Dinniman",
     "description": "Stephen and Ryan have more Dungeon Crawler Carl! Did books 6-7 get too crazy?",
     "id": 404,
     "title": "Dungeon Crawler Carl 6 & 7",
@@ -4904,5 +4904,16 @@
     "spotifyLink": "https://open.spotify.com/episode/69OK92VC14LQ5WtiF9cuRX?si=NEytJnmwQPOLRjBRH6FBIg&utm_source=copy-link",
     "googleLink": "",
     "youtubeId": "UN_W5v7X800"
+  },  
+  "420": {
+    "author": "Matt Dinniman",
+    "description": "A Parade of Horribles is aptly named! Tune in for Ryan and Stephen's thoughts on the latest and greatest Dungeon Crawler Carl entry.",
+    "id": 420,
+    "title": "A Parade of Horribles",
+    "image": "apoh.png",
+    "appleLink": "https://podcasts.apple.com/us/podcast/420-a-parade-of-horribles-by-matt-dinniman/id1489097985?i=1000791623948",
+    "spotifyLink": "https://open.spotify.com/s/DYoqf87",
+    "googleLink": "",
+    "youtubeId": "LXIdlr_XXjc"
   }
 }
