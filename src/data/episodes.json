@@ -4915,5 +4915,17 @@
     "spotifyLink": "https://open.spotify.com/s/DYoqf87",
     "googleLink": "",
     "youtubeId": "LXIdlr_XXjc"
+  },  
+  "421": {
+    "author": "Fantology",
+    "description": "Can you guess the book from the one star review? Play along at home!",
+    "id": 421,
+    "seriesId": 11,
+    "title": "Guess the one star review",
+    "image": "guess.png",
+    "appleLink": "https://podcasts.apple.com/us/podcast/421-guess-the-one-star-review/id1489097985?i=1000792821115",
+    "spotifyLink": "https://open.spotify.com/episode/0FiMSaJxqlzL6EhXlmnRVE?si=sggrZTRSS0Kj3536QDog_w&utm_source=copy-link",
+    "googleLink": "",
+    "youtubeId": "cedBDqb7M4Y"
   }
 }
