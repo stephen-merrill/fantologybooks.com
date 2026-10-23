@@ -4950,5 +4950,16 @@
     "spotifyLink": "https://open.spotify.com/episode/1z9vU8FWnmrP5YXH9LI2d1?si=nuhOyF2TQbGuKQSt7Slu5Q&utm_source=copy-link",
     "googleLink": "",
     "youtubeId": "V3tAgFcUSPs"
+  },  
+  "424": {
+    "author": "Stephen King",
+    "description": "Book or TV show? The latest iteration of this argument centers around Stephen King's Carrie and Mike Flanagan's adaption",
+    "id": 424,
+    "title": "Carrie",
+    "image": "carrie.png",
+    "appleLink": "https://podcasts.apple.com/us/podcast/424-carrie-by-stephen-king/id1489097985?i=1000797777895",
+    "spotifyLink": "https://open.spotify.com/episode/3ZoyQuDlRbsnXxaRGsRbuF?si=Homg2ma5QUiHyWQEc1a0qw&utm_source=copy-link",
+    "googleLink": "",
+    "youtubeId": "NcUO25d6kcs"
   }
 }
